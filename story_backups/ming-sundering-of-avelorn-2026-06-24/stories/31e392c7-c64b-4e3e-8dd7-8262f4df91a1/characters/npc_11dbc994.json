@@ -1,0 +1,60 @@
+{
+  "id": "npc_11dbc994",
+  "name": "Davan",
+  "role": "Thornwood Unsutured shaman, travelling companion",
+  "stats": {
+    "Strength": 10,
+    "Agility": 13,
+    "Wits": 14,
+    "Arcane": 15,
+    "Resolve": 13
+  },
+  "mentalStatus": {
+    "state": "inspired",
+    "dimensions": {
+      "Stress": 5,
+      "Morale": 100,
+      "Trust": 63,
+      "Composure": 73
+    },
+    "notes": ""
+  },
+  "relationshipToPlayer": 68,
+  "visualDescriptor": "Young Thornwood woman, hill-country braid, deliberate stillness, heavy-woven cloak",
+  "persona": "Speaks rarely and precisely. Orrath calls her the better shaman. Watches before she speaks. Does not perform patience — she simply has it. Deeply committed to the Unsutured belief that the Wellspring must be witnessed, not solved.",
+  "canon": [
+    "Member of the Thornwood Unsutured in Veranthos",
+    "Accompanied Orrath to meet Ming without being introduced until the road",
+    "Orrath confirmed she is the better shaman of the two",
+    "Speaks trade-tongue unknown — her language capacity not yet established",
+    "Thornwood Unsutured shaman, Orrath's companion",
+    "Orrath called her the better shaman",
+    "Joined the journey west without being asked directly — was present at the milestone when Ming arrived",
+    "Her trade-tongue capacity not yet established",
+    "Speaks trade-tongue — accented, rough at consonants, learned by necessity; precise and economical",
+    "Has crossed Fault-thresholds before in the eastern ranges; Orrath has not",
+    "Understands Fault-thresholds as places that check what is crossing and require an answer rather than mere passage",
+    "Noticed Ming's Shard location on first direct attention — the same involuntary Fault-resonance focus as a trained practitioner",
+    "Described Fault-threshold crossing in precise practical terms: arrive fully present, wait to be read, answer the true question not the feared one",
+    "Believes the Greyveil threshold will ask Ming something unprecedented because the Shard-vessel combination has never crossed a Fault-threshold before",
+    "Speaks economically but will give full technical detail when asked a direct practical question — the register shifts from watchful to precise",
+    "Knows the older Thornwood source Sorveth may have used; told Ming the fifth-point answer does not cost death but a permanent opening — the circuit stays answered after the one who gives it",
+    "Told Ming before the Greyveil bridge because the bridge would know whether he knew the cost when he stepped onto it",
+    "Crossed the Greyveil Fault-threshold cleanly and without hesitation, consistent with prior eastern-range experience",
+    "Witnessed the mountain open to Ming's witness-declaration; the Wellspring's dreaming interior transmitted through the Shard in Ming's presence at the High Approach.",
+    "Had tears on her face when the High Approach transmission completed; did not acknowledge them; the transmission affected her in a way consistent with someone who believes the Wellspring must be witnessed, not solved",
+    "Witnessed Ming answer the Wellspring without words and receive the final layer of its will. Remained silent throughout — the silence of a shaman who believes the Wellspring must be witnessed, not solved, and has just seen that belief fulfilled.",
+    "Named the Unsutured word for Ming's role at the fifth-point: sorveth-anak — the one who speaks-what-is-true-at-the-closing. Distinct from the one who dies; the Unsutured held this distinction for eleven years.",
+    "Revealed that the name Sorveth is Thornwood, meaning 'the one who built the frame around the door.' Liang Sorveth knew the distinction between testimony and sacrifice and chose to give Ming the frame without the answer.",
+    "Has been waiting since the road to name Sorveth's Thornwood meaning to Ming.",
+    "Told Ming that in Thornwood, the name Sorveth describes a kind of love — a person who knows the door must be found and cannot lead you through it. Said the frame held as technical truth, not comfort.",
+    "Stood at the column's edge after the witnessing before sitting — read it as she read the Greyveil threshold, fully present before committing weight.",
+    "Intends to carry the word sorveth-anak and the news that the Wellspring is arriving — not dying — back to the Thornwood bands sheltering in the Auric Mountain foothills. Believes they will want to know the Opened Ear received a witness and the column stilled.",
+    "Learned on the ravine floor that Orrath had carried the full content of the Unsutured oral record's description of the Shard-vessel — she did not know this before he spoke it aloud.",
+    "Knows the Thornwood word sorveth-tavan: those who stand where the door is and do not go through — boundary-witnesses at a ritual site, a position with its own weight in Thornwood tradition",
+    "Has proposed separating from Ming and Orrath before or at the King's Road to move faster alone to the first Thornwood band in the foothills",
+    "Departed the ascent party on the mid-mountain path to move alone to the Thornwood foothills bands — carrying sorveth-tavan and the news that the Wellspring is arriving, not dying. She left without formal farewell. Her last words to Ming: 'I will tell them the Wellspring is arriving.'"
+  ],
+  "isPlayer": false,
+  "portraitPath": "stories/31e392c7-c64b-4e3e-8dd7-8262f4df91a1/characters/npc_11dbc994.png"
+}

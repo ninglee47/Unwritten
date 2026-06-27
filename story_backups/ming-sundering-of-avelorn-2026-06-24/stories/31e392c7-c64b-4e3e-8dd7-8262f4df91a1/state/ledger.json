@@ -1,0 +1,442 @@
+{
+  "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+  "facts": [
+    {
+      "id": "59e9f81c-ad6d-412e-9b19-17acf7b10f4e",
+      "kind": "fact",
+      "text": "Ming received the full Shard transmission at the High Approach. The Wellspring's nature is now known to him: grief at the sealing, a thousand years of private dreaming, and gladness at the return of an exile. It is utharvel. He knows what it is but not yet what it wills.",
+      "entities": [
+        "Ming",
+        "Wellspring",
+        "Shard"
+      ],
+      "durable": true,
+      "status": "active",
+      "createdTurn": 53,
+      "chapter": 4
+    },
+    {
+      "id": "349948ec-9933-4e77-ac90-d9d385fffc06",
+      "kind": "location",
+      "text": "The Opened Ear: a natural granite shelf on the Auric Mountain mid-climb, reached after the first granite shoulder. From here the ravine and a slow-turning column of voreth-light descending from an unlocatable high point are fully visible. The Shard recognises this as a terminus — seventeen years of orientation resolved. The path continues down into the ravine toward the column's base.",
+      "entities": [
+        "Opened Ear",
+        "voreth-light column",
+        "Wellspring",
+        "Shard"
+      ],
+      "durable": true,
+      "status": "active",
+      "createdTurn": 56,
+      "chapter": 4
+    },
+    {
+      "id": "43e99e07-8909-427e-9c58-470e80d90db6",
+      "kind": "check_outcome",
+      "text": "Check (Agility DC 12) on \"Descend toward the column's terminus — let the Shard lead the pace\" → SUCCESS.",
+      "entities": [],
+      "durable": false,
+      "status": "active",
+      "createdTurn": 57,
+      "chapter": 4
+    },
+    {
+      "id": "1465f987-b922-4773-902c-4db1b1120e48",
+      "kind": "location",
+      "text": "Ming has reached the ravine floor at the base of the voreth-light column — the Wellspring's physical presence point beneath the Auric Mountains. The column turns slowly. Its densest point is at sternum height. The Shard is at its warmest and most oriented. The Wellspring is waiting.",
+      "entities": [
+        "Ming",
+        "Wellspring",
+        "voreth column",
+        "Shard"
+      ],
+      "durable": true,
+      "status": "active",
+      "createdTurn": 57,
+      "chapter": 4
+    },
+    {
+      "id": "0e4721f8-8090-41e4-9e80-2b3a606d3078",
+      "kind": "fact",
+      "text": "Ming entered the voreth-light column. The Wellspring made direct contact — not transmission but presence. It asked its first question: not whether Ming will offer, but whether he understands what he is witnessing before he chooses. This is the Wellspring's will making itself known for the first time in a thousand years.",
+      "entities": [
+        "Wellspring",
+        "Ming",
+        "Shard of Prior Covenant"
+      ],
+      "durable": true,
+      "status": "active",
+      "createdTurn": 58,
+      "chapter": 4
+    },
+    {
+      "id": "0c4f1644-9a3d-4667-8526-5875fa54528c",
+      "kind": "check_outcome",
+      "text": "Check (Arcane DC 16) on \"An old wisdom from home struck me. \"All conditioned phenomena Are like\" → PARTIAL SUCCESS.",
+      "entities": [],
+      "durable": false,
+      "status": "active",
+      "createdTurn": 59,
+      "chapter": 4
+    },
+    {
+      "id": "0c744092-b512-4582-a794-d563d83aeb9a",
+      "kind": "fact",
+      "text": "Ming performed the Crane-in-Storm form inside the voreth-light column. Partial knowing received: witnessing is not neutrality — contact changes the ground that the form moves through. The Wellspring's question is understood but not yet fully answered. The final layer — what it wills for its dreaming once witnessed — has not arrived.",
+      "entities": [
+        "Ming",
+        "Wellspring",
+        "Shard"
+      ],
+      "durable": true,
+      "status": "active",
+      "createdTurn": 59,
+      "chapter": 4
+    },
+    {
+      "id": "7704f00f-4fe7-44c0-942a-ab1b5339828a",
+      "kind": "fact",
+      "text": "Ming received the Wellspring's full will inside the voreth-light column. It wills to be sealed as what it now is — utharvel, the third thing. The fifth-point requires testimony from a living will, not a key or an offering: the vessel must declare the Wellspring's true present shape to the re-binding geometry. The voreth-light stilled. The Shard is at rest. The Wellspring has been fully witnessed.",
+      "entities": [
+        "Wellspring",
+        "Shard",
+        "Ming",
+        "fifth-point"
+      ],
+      "durable": true,
+      "status": "active",
+      "createdTurn": 60,
+      "chapter": 4
+    },
+    {
+      "id": "a4b32b1a-0e15-4cac-a026-d8ce1a0f7a5a",
+      "kind": "fact",
+      "text": "Ming has exited the voreth-light column and spoken the Wellspring's will plainly to Orrath and Davan: testimony not offering, utharvel sealed as it now is, vessel survival unresolved. He has asked Orrath whether the Unsutured's eleven-year position anticipated the testimony-not-offering distinction.",
+      "entities": [
+        "Ming",
+        "Orrath",
+        "Davan",
+        "Wellspring"
+      ],
+      "durable": true,
+      "status": "active",
+      "createdTurn": 61,
+      "chapter": 4
+    },
+    {
+      "id": "d2a66cbc-e2c8-4c74-9154-9e5aeae4b86c",
+      "kind": "fact",
+      "text": "Davan confirmed the Unsutured eleven-year position anticipated testimony-not-offering. The Thornwood word is sorveth-anak — the one who speaks-what-is-true-at-the-closing. Whether this role persists inside the closed circuit or is consumed by it remains unanswered; the eleven years held the distinction, not the solution. The name Sorveth is Thornwood for 'the one who built the frame around the door' — Liang Sorveth knew the distinction and sent Ming with the frame, not the answer.",
+      "entities": [
+        "Davan",
+        "Orrath",
+        "Ming",
+        "Liang Sorveth",
+        "Wellspring"
+      ],
+      "durable": true,
+      "status": "active",
+      "createdTurn": 62,
+      "chapter": 4
+    },
+    {
+      "id": "03d5ee56-71d9-452e-b189-feaf7205d7f8",
+      "kind": "fact",
+      "text": "Liang Sorveth's third text and carved name-token are buried in a Fault-vein crack at the base of the voreth-light column in the Auric Mountain ravine. Ming placed them deliberately — the frame returned to the ground. They are no longer in his possession.",
+      "entities": [
+        "Liang Sorveth's third text",
+        "Carved name-token",
+        "Ming"
+      ],
+      "durable": true,
+      "status": "active",
+      "createdTurn": 64,
+      "chapter": 5
+    },
+    {
+      "id": "93289a3d-fa9c-4780-a9b2-15460eaf673e",
+      "kind": "fact",
+      "text": "Ming has articulated the sorveth-anak function: a living harmony — the Wellspring's true present frequency spoken into the Conclave's re-binding geometry at the moment of closing. The circuit must close around what is actually there. Thessaly Vorn does not know this distinction exists. 44 days remain.",
+      "entities": [
+        "Ming",
+        "Wellspring",
+        "Thessaly Vorn"
+      ],
+      "durable": true,
+      "status": "active",
+      "createdTurn": 64,
+      "chapter": 5
+    },
+    {
+      "id": "dd8fec52-12d9-4e06-a1c9-6e2a6b28e0b5",
+      "kind": "fact",
+      "text": "Orrath confirmed the Unsutured held sorveth-anak distinct from the one who dies because collapsing the two words would mean the Wellspring receives a death at its closing, not testimony. The distinction is the reason the eleven years existed.",
+      "entities": [
+        "Orrath",
+        "Wellspring",
+        "sorveth-anak"
+      ],
+      "durable": true,
+      "status": "active",
+      "createdTurn": 65,
+      "chapter": 5
+    },
+    {
+      "id": "c3720e13-0fed-46e3-b737-bef4efa3df9f",
+      "kind": "fact",
+      "text": "Davan stated that in Thornwood, the name Sorveth means a person who knows the door must be found and cannot lead you through it — a form of love, not condemnation. The frame held.",
+      "entities": [
+        "Davan",
+        "Liang Sorveth",
+        "Ming"
+      ],
+      "durable": true,
+      "status": "active",
+      "createdTurn": 65,
+      "chapter": 5
+    },
+    {
+      "id": "7814e623-9fa2-44cd-a8e0-ac6953745406",
+      "kind": "fact",
+      "text": "Orrath has named the rhetorical frame for presenting the sorveth-anak distinction to Thessaly Vorn: three-source convergence from roads that did not know each other — Sorveth's text, Unsutured position, Wellspring's own declaration. Geography, not argument.",
+      "entities": [
+        "Orrath",
+        "Thessaly Vorn",
+        "sorveth-anak"
+      ],
+      "durable": true,
+      "status": "active",
+      "createdTurn": 66,
+      "chapter": 5
+    },
+    {
+      "id": "a51509f7-4fb8-43f0-9a2f-93170080b72a",
+      "kind": "fact",
+      "text": "Davan has identified Thornwood bands sheltering in the Auric Mountain foothills as a potential resource. They will want to know the Opened Ear received a witness and the Wellspring is arriving, not dying. Their response is unknown.",
+      "entities": [
+        "Davan",
+        "Thornwood",
+        "Auric Mountains"
+      ],
+      "durable": true,
+      "status": "active",
+      "createdTurn": 66,
+      "chapter": 5
+    },
+    {
+      "id": "456602ba-ea5f-4349-b8c5-3e873d61ec47",
+      "kind": "fact",
+      "text": "The Unsutured oral record, older than the Covenant, described the Prior Shard vessel before Ming arrived: exiled, unknowing, would arrive at the column speaking the language of their first home. Orrath withheld this on the road because the record forbids leading the vessel. Orrath and Sorveth held the same instruction from different sides of the same text without knowing the other existed.",
+      "entities": [
+        "Orrath",
+        "Ming",
+        "Liang Sorveth",
+        "Unsutured oral record"
+      ],
+      "durable": true,
+      "status": "active",
+      "createdTurn": 67,
+      "chapter": 5
+    },
+    {
+      "id": "3969b882-062b-4a99-b485-701fe8611977",
+      "kind": "fact",
+      "text": "Davan has separated from Ming and Orrath on the mid-ascent path to move independently to the Thornwood foothills bands. She carries the sorveth-tavan frame and the news of the column's stilling. She will reach the first band in approximately two days. Ming and Orrath continue to the staging camp alone.",
+      "entities": [
+        "Davan",
+        "Thornwood bands",
+        "Ming",
+        "Orrath"
+      ],
+      "durable": true,
+      "status": "active",
+      "createdTurn": 72,
+      "chapter": 5
+    },
+    {
+      "id": "cb09da20-f374-46f4-8212-726583afa4ae",
+      "kind": "check_outcome",
+      "text": "Check (Agility DC 16) on \"Sometimes you need to create leverage. I ask Orrath to keep going and \" → SUCCESS.",
+      "entities": [],
+      "durable": false,
+      "status": "active",
+      "createdTurn": 74,
+      "chapter": 5
+    },
+    {
+      "id": "6f999a27-e79b-4d77-a703-f98866b6f5f1",
+      "kind": "fact",
+      "text": "Shrine-components in the staging camp are warded: removing one from its seal triggers Conclave awareness within the hour and causes them to lock the remaining components. Theft would close the door to Thessaly Vorn before it is opened. Plan not executed.",
+      "entities": [
+        "shrine-component",
+        "staging-camp",
+        "Thessaly Vorn"
+      ],
+      "durable": true,
+      "status": "superseded",
+      "createdTurn": 74,
+      "chapter": 5
+    },
+    {
+      "id": "4f653ae5-11f9-44c2-a457-1cfe60a59190",
+      "kind": "check_outcome",
+      "text": "Check (Wits DC 12) on \"I said to Orrath: Your kindness and wisdom are like the mountains. But\" → PARTIAL SUCCESS.",
+      "entities": [],
+      "durable": false,
+      "status": "active",
+      "createdTurn": 75,
+      "chapter": 5
+    },
+    {
+      "id": "cf31603a-ed98-4e19-9166-4812a9820d2d",
+      "kind": "fact",
+      "text": "Orrath has described the consequence of an incorrect re-binding: circuit closes around absent shape, geometry collapses inward, Fault-scars open rather than bleed — Sundering accelerates from 44 days to approximately 4. The Unsutured have no delegation access to Thessaly Vorn; three prior delegations were refused, the third losing members.",
+      "entities": [
+        "Orrath",
+        "Thessaly Vorn",
+        "Wellspring",
+        "Veranthos"
+      ],
+      "durable": true,
+      "status": "active",
+      "createdTurn": 75,
+      "chapter": 5
+    },
+    {
+      "id": "58f28716-9b7f-4e56-95c7-7935ad15d386",
+      "kind": "check_outcome",
+      "text": "Check (Agility DC 16) on \"I said to him: It means we also need the shrine components to start th\" → SUCCESS.",
+      "entities": [],
+      "durable": false,
+      "status": "active",
+      "createdTurn": 76,
+      "chapter": 6
+    },
+    {
+      "id": "f9791158-8941-46a2-8f60-52da991ccb89",
+      "kind": "fact",
+      "text": "Ming took the eastern cardinal shrine-component from the Conclave staging camp by force. Two wardens were incapacitated — wrist wound, concussion. The component seal is broken. Vorn has been sent a message to meet at Helvrath's Cross. The door to Vorn is now forced rather than negotiated.",
+      "entities": [
+        "Ming",
+        "Thessaly Vorn",
+        "eastern cardinal stone",
+        "Conclave staging camp"
+      ],
+      "durable": true,
+      "status": "active",
+      "createdTurn": 76,
+      "chapter": 6
+    },
+    {
+      "id": "8cea264d-501c-478f-8922-e46349d7b461",
+      "kind": "fact",
+      "text": "The remaining three shrine-components in the staging camp pulsed once when the eastern component was removed. The four-component geometry is broken. Conclave alarm is active.",
+      "entities": [
+        "Conclave staging camp",
+        "shrine-components"
+      ],
+      "durable": true,
+      "status": "active",
+      "createdTurn": 76,
+      "chapter": 6
+    },
+    {
+      "id": "ece97394-cae4-4b8e-afdf-4d115500f323",
+      "kind": "fact",
+      "text": "Ming read the eastern cardinal stone's frequency directly. It anchors the Wellspring's old shape — the pre-Covenant form the First Archmages chose. The anchor and the Shard are not opposed; they are from different times. Vorn's four-component geometry is built around a shape the Wellspring has already left behind.",
+      "entities": [
+        "eastern cardinal stone",
+        "Wellspring",
+        "Shard"
+      ],
+      "durable": true,
+      "status": "active",
+      "createdTurn": 82,
+      "chapter": 6
+    },
+    {
+      "id": "5ad9fffc-baeb-4b20-be6e-32d84888cdb4",
+      "kind": "check_outcome",
+      "text": "Check (Wits DC 12) on \"Invite her to hold it herself, now, in this room, without the seal — l\" → PARTIAL SUCCESS.",
+      "entities": [],
+      "durable": false,
+      "status": "active",
+      "createdTurn": 88,
+      "chapter": 6
+    },
+    {
+      "id": "7b0717b7-9182-4588-adc5-02237a2f7e87",
+      "kind": "fact",
+      "text": "Thessaly Vorn has held the eastern cardinal stone directly and felt its frequency without the seal mediating it. She offered the frame herself — 'fixed to the wrong shape' — but does not yet have the architecture to complete the thought. The partial success means the sensation landed but the interpretation has not. She is one correct answer away from the crack becoming an opening.",
+      "entities": [
+        "Thessaly Vorn",
+        "eastern cardinal stone",
+        "Ming"
+      ],
+      "durable": true,
+      "status": "active",
+      "createdTurn": 88,
+      "chapter": 6
+    },
+    {
+      "id": "38665750-fbcf-4a7c-83ff-6764313cd944",
+      "kind": "fact",
+      "text": "Orrath named sorveth-vel to Thessaly Vorn at Helvrath's Cross — the Thornwood word for a circuit closed around a shape that is no longer present. Vorn has received it without speaking. The crack in her certainty is now load-bearing.",
+      "entities": [
+        "Orrath",
+        "Thessaly Vorn",
+        "sorveth-vel"
+      ],
+      "durable": true,
+      "status": "active",
+      "createdTurn": 89,
+      "chapter": 7
+    },
+    {
+      "id": "d07c9569-ed89-491c-9233-d6896d659bdf",
+      "kind": "fact",
+      "text": "Thessaly Vorn has spoken sorveth-vel herself and asked what the fifth component is. She is no longer defending the four-component geometry — she is ready to hear the answer. The opening is real.",
+      "entities": [
+        "Thessaly Vorn",
+        "Ming",
+        "Orrath",
+        "fifth component"
+      ],
+      "durable": true,
+      "status": "active",
+      "createdTurn": 90,
+      "chapter": 7
+    },
+    {
+      "id": "b029366b-a04b-436f-8a52-338c7dbc81fb",
+      "kind": "fact",
+      "text": "Sorveth-anak has crossed the foothills boundary into Conclave hearing. Thessaly Vorn has received the full frame at Helvrath's Cross: the Unsutured word, the three-source convergence, the correction of sorveth-vel, and the nature of the fifth component as a living voice. She has not yet responded.",
+      "entities": [
+        "sorveth-anak",
+        "Thessaly Vorn",
+        "Orrath",
+        "player"
+      ],
+      "durable": true,
+      "status": "active",
+      "createdTurn": 91,
+      "chapter": 7
+    },
+    {
+      "id": "5c447690-db7c-4d87-bb60-036058a342d0",
+      "kind": "fact",
+      "text": "Thessaly Vorn has agreed to work with Ming and Orrath. The collaboration is established. She has asked for the fifth-point geometry, the sorveth-anak declaration and timing, and vessel survival — three questions that must be answered before a corrected ritual geometry can be built. The eastern cardinal stone is back in her possession.",
+      "entities": [
+        "Thessaly Vorn",
+        "Ming",
+        "Orrath",
+        "eastern cardinal stone",
+        "sorveth-anak"
+      ],
+      "durable": true,
+      "status": "active",
+      "createdTurn": 92,
+      "chapter": 7
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "npc-thessaly-vorn",
+  "name": "Thessaly Vorn",
+  "role": "Archmagister of the Conclave Sealers",
+  "stats": {
+    "Strength": 7,
+    "Agility": 9,
+    "Wits": 17,
+    "Arcane": 18,
+    "Resolve": 14
+  },
+  "mentalStatus": {
+    "state": "overwhelmed",
+    "dimensions": {
+      "Stress": 92,
+      "Morale": 55,
+      "Trust": 68,
+      "Composure": 28
+    },
+    "notes": "Careful, genuine believer, running out of time and instrument-readings she does not like."
+  },
+  "relationshipToPlayer": 21,
+  "visualDescriptor": "A robed Conclave Archmagister, chalk-dust trailing her hems, a small leather-bound instrument always to hand.",
+  "persona": "Leads the re-binding effort. Careful and sincere, but working from an incomplete Covenant-text and short on days.",
+  "canon": [
+    "Working from an incomplete Covenant-text; does not know a fifth component exists.",
+    "Believes Serevaine is a Quietist agent.",
+    "If she attempts the re-binding without the Prior Shard she will accelerate the rupture and consume everyone in the ritual chamber.",
+    "Led the Conclave Sealers for at least eleven years",
+    "Refused three Thornwood Unsutured delegations — the third returned incomplete",
+    "Believes four cardinal shrine-components complete the re-binding geometry",
+    "Turned the Thornwood bands back from the foothills boundary with wardens but no violence — she did not want a grievance in the record",
+    "Has not tested the shrine-component frequencies directly — her certainty is architectural not empirical",
+    "Arrived at Helvrath's Cross herself rather than sending wardens — she needed to see the person who took her component not receive a report",
+    "Has not tested the shrine-component frequencies directly since the sealing was applied at acquisition — her certainty is textual and geometric, not empirical. She acknowledged this to Ming at Helvrath's Cross when pressed.",
+    "Has now heard the three-source convergence argument directly from Orrath at Helvrath's Cross — Sorveth's text, Unsutured eleven-year position, and Wellspring's own declaration. Her certainty has visibly strained but she has not yet conceded or refused.",
+    "Has acknowledged to Ming that she has not tested shrine-component frequencies empirically since acquisition — her certainty is textual and geometric, not empirical.",
+    "When Ming placed the broken eastern cardinal stone on the table, Vorn did not reach to reclaim it — she asked what he found when he held it. The architectural certainty is straining toward a question.",
+    "Held the eastern cardinal stone directly without its seal at Helvrath's Cross — felt the frequency herself, without the Covenant text mediating it. Offered Ming the frame unprompted: 'fixed to the wrong shape.' The architectural certainty is no longer purely textual — she has felt the dissonance, but cannot yet name what it points toward without more.",
+    "Has heard the Thornwood word sorveth-vel from Orrath directly — a circuit closed around an absence. Has not yet responded. The architectural certainty is under maximum pressure.",
+    "Spoke sorveth-vel herself at Helvrath's Cross, adopted it as the correct term without prompting — the architectural certainty has become genuine inquiry.",
+    "Has asked Ming directly what the fifth component is — not what it is not, but what it is. She is ready to receive the answer.",
+    "Has heard sorveth-anak spoken directly by Orrath at Helvrath's Cross — the Thornwood word for a living voice at the fifth geometric point. The word has entered Conclave hearing for the first time. She has not yet responded.",
+    "Now understands the fifth component is not a shrine-stone but a living witness — the architecture of her ritual is missing something that cannot be acquired by force or geometry alone.",
+    "Accepted Ming's offer of collaboration at Helvrath's Cross — set the returned eastern cardinal stone in front of herself as evidence, not reclamation. Said she is building a ritual not a funeral and will not build geometry around a death if a third path exists.",
+    "Has asked explicitly for three things: the fifth-point geometry, what the sorveth-anak must declare and at what moment in the closing sequence, and whether the vessel survives the testimony.",
+    "The architectural certainty has become genuine collaborative inquiry — she is no longer defending the four-component geometry but building toward a corrected one."
+  ],
+  "isPlayer": false,
+  "portraitPath": "stories/31e392c7-c64b-4e3e-8dd7-8262f4df91a1/characters/npc-thessaly-vorn.png",
+  "profile": {
+    "occupation": "Archmagister, Conclave Sealers",
+    "faction": {
+      "name": "Conclave Sealers",
+      "rank": "Archmagister",
+      "standing": "supreme authority"
+    },
+    "personality": [
+      "precise",
+      "load-bearing",
+      "structurally afraid",
+      "capable of courage if the frame shifts"
+    ],
+    "characteristics": [],
+    "powers": [],
+    "weapons": [],
+    "gear": [
+      {
+        "name": "Conclave threadwork travelling coat",
+        "summary": "marks rank and faction"
+      },
+      {
+        "name": "Ley-chalk case",
+        "summary": "geometric ritual tools"
+      },
+      {
+        "name": "Sealed document case",
+        "summary": "carries Covenant texts and ritual geometry notes"
+      }
+    ],
+    "background": "Has led the re-binding effort for over a decade. Built the four-component geometry from incomplete Covenant texts. The Clock's approach has narrowed her capacity for new information — the certainty is the method now.",
+    "motivations": [
+      "Complete the re-binding before the Clock expires",
+      "Protect the people depending on the ritual's success",
+      "Not be wrong at the moment she cannot afford to be wrong"
+    ],
+    "speechStyle": "measured declarative sentences; does not perform patience; asks questions she believes she already knows the answer to; does not raise her voice"
+  }
+}

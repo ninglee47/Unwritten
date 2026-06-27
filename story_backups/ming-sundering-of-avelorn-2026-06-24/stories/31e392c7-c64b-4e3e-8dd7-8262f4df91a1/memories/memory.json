@@ -1,0 +1,2380 @@
+{
+  "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+  "items": [
+    {
+      "id": "397ad44a-84ed-4898-90c8-06333ec007f7",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "fact",
+      "text": "Ming carries a Shard of Prior Covenant lodged behind his sternum — a fragment of the will that chose to become the Wellspring, the part that refused to be sealed. It can survive only inside a living body that is itself in exile.",
+      "entities": [
+        "Ming",
+        "Shard",
+        "Wellspring"
+      ],
+      "witnesses": [
+        "player",
+        "npc-serevaine"
+      ],
+      "weight": 94.24000000000002,
+      "createdTurn": 1,
+      "lastReferencedTurn": 92,
+      "links": [
+        "67203531-6f30-407a-8f1d-71f44bb563e4",
+        "d7684100-c398-473e-a452-b0531f3bdf89",
+        "eb6b87b8-b3a2-4af3-b4c2-8fd694668da3",
+        "85a6e9d8-59d1-4e5c-910c-2569050825b1",
+        "f48a0cf8-5912-4c14-9403-e0f58f38932e",
+        "a97c43eb-4d05-4dd2-8fd4-e0761f1e58e7",
+        "6820145e-fed3-4590-85a2-522f440fbc4e",
+        "3d521d8e-f989-4bc4-a6f5-26c6fbea8bb7",
+        "0fe94f72-15b1-4566-be93-fb1baa43304d",
+        "ca6299ab-8146-4a47-acff-1b33c03e1c5c",
+        "d5b7bbde-b44c-4f43-b6f5-f80c77c54bb0",
+        "41a99627-c4be-40fa-9a3c-d5130c73d68d",
+        "aca200aa-2664-4b92-a698-acff0a12134f",
+        "eb6b87b8-33a2-4af3-b4c2-8fd694668da3"
+      ]
+    },
+    {
+      "id": "a97c43eb-4d05-4dd2-8fd4-e0761f1e58e7",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "fact",
+      "text": "Ming's teacher's true name was Liang Sorveth. He gave Ming the Shard 17 years ago, exiled him, and timed his arrival in Veranthos to the Sundering Clock. He also wrote the hidden third text.",
+      "entities": [
+        "Liang Sorveth",
+        "Ming"
+      ],
+      "witnesses": [
+        "player",
+        "npc-serevaine"
+      ],
+      "weight": 35.50806640928077,
+      "createdTurn": 1,
+      "lastReferencedTurn": 25,
+      "links": [
+        "f48a0cf8-5912-4c14-9403-e0f58f38932e",
+        "67203531-6f30-407a-8f1d-71f44bb563e4",
+        "397ad44a-84ed-4898-90c8-06333ec007f7"
+      ]
+    },
+    {
+      "id": "8c9e0081-4220-4e45-9678-97a428a7a9d3",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "fact",
+      "text": "The Sundering Clock in the Veranthos plaza read forty-seven days when Ming arrived. Forty-four days now remain before the Wellspring ruptures.",
+      "entities": [
+        "Sundering Clock",
+        "Wellspring"
+      ],
+      "witnesses": [
+        "player",
+        "npc-serevaine",
+        "npc-thessaly-vorn"
+      ],
+      "weight": 98.4,
+      "createdTurn": 1,
+      "lastReferencedTurn": 60,
+      "links": [
+        "210525b3-bee1-44a5-a527-56d1a1fbde1e",
+        "efab58f1-d06b-406d-ad4d-a93ea8ef6e14",
+        "153c7a25-71f3-42eb-aac6-945c6058b94f",
+        "b39710cf-8a19-448c-a32b-441657145a60"
+      ]
+    },
+    {
+      "id": "85a6e9d8-59d1-4e5c-910c-2569050825b1",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "promise",
+      "text": "Serevaine wants the Shard delivered intact to the fifth-point of the re-binding ritual beneath the Auric Mountains before the Clock expires. The Shard can be removed only by being offered willingly, at the site. The texts disagree on whether the vessel survives.",
+      "entities": [
+        "Serevaine",
+        "Shard"
+      ],
+      "witnesses": [
+        "player",
+        "npc-serevaine"
+      ],
+      "weight": 96.35200000000002,
+      "createdTurn": 1,
+      "lastReferencedTurn": 92,
+      "links": [
+        "67203531-6f30-407a-8f1d-71f44bb563e4",
+        "397ad44a-84ed-4898-90c8-06333ec007f7",
+        "d7684100-c398-473e-a452-b0531f3bdf89",
+        "eb6b87b8-b3a2-4af3-b4c2-8fd694668da3",
+        "6820145e-fed3-4590-85a2-522f440fbc4e",
+        "f48a0cf8-5912-4c14-9403-e0f58f38932e",
+        "0512b529-15f4-49b6-b92f-1971b4140db5",
+        "153c7a25-71f3-42eb-aac6-945c6058b94f",
+        "913c9bcd-f73b-449d-ae8a-4eac94df48af",
+        "46522eb5-f665-4f77-84c2-8a644056272e",
+        "aa071180-1e49-4da5-a9f1-097c079539ca",
+        "aca200aa-2664-4b92-a698-acff0a12134f",
+        "d97e7acb-2531-4aa0-8d9e-8f33891c66c2",
+        "ca6299ab-8146-4a47-acff-1b33c03e1c5c",
+        "29140cce-2400-4b8e-99b2-556d0bae5e02",
+        "63f6d568-588c-4760-a0c8-8146f1ce88c6",
+        "3db38c00-96ba-4ad1-b9b6-894b3aca8bd1",
+        "b39710cf-8a19-448c-a32b-441657145a60"
+      ]
+    },
+    {
+      "id": "153c7a25-71f3-42eb-aac6-945c6058b94f",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "fact",
+      "text": "The Conclave Sealers, led by Archmagister Thessaly Vorn, believe they need four cardinal shrine-components. They are wrong — they need five. Without the Prior Shard the re-binding will accelerate the rupture and consume everyone in the chamber.",
+      "entities": [
+        "Thessaly Vorn",
+        "Sealers",
+        "Shard"
+      ],
+      "witnesses": [
+        "player",
+        "npc-serevaine"
+      ],
+      "weight": 85.05648335416531,
+      "createdTurn": 1,
+      "lastReferencedTurn": 92,
+      "links": [
+        "210525b3-bee1-44a5-a527-56d1a1fbde1e",
+        "efab58f1-d06b-406d-ad4d-a93ea8ef6e14",
+        "8c9e0081-4220-4e45-9678-97a428a7a9d3",
+        "b39710cf-8a19-448c-a32b-441657145a60",
+        "9821da4c-57a4-4636-a683-75c3d8fa0084",
+        "d7684100-c398-473e-a452-b0531f3bdf89",
+        "aa071180-1e49-4da5-a9f1-097c079539ca",
+        "0512b529-15f4-49b6-b92f-1971b4140db5",
+        "85a6e9d8-59d1-4e5c-910c-2569050825b1",
+        "913c9bcd-f73b-449d-ae8a-4eac94df48af",
+        "46522eb5-f665-4f77-84c2-8a644056272e",
+        "aca200aa-2664-4b92-a698-acff0a12134f",
+        "d97e7acb-2531-4aa0-8d9e-8f33891c66c2",
+        "ca6299ab-8146-4a47-acff-1b33c03e1c5c",
+        "1cf4972d-778e-4f8e-a2f3-1d3e0ef9392b",
+        "00213741-4dd3-40e6-a2ea-f1122babb887",
+        "29140cce-2400-4b8e-99b2-556d0bae5e02",
+        "63f6d568-588c-4760-a0c8-8146f1ce88c6",
+        "2b9dcfab-872c-40a0-b1f0-dee4e61c4e60",
+        "d8e5c746-df32-432b-a1fa-567f6913ae0d",
+        "9f766834-a7d1-42c3-8c17-f4148bd582ef",
+        "7bec0760-0cc4-4c2c-91ab-e82ef0bc6895",
+        "faf5ac5f-d89a-47cb-b0ec-681e62470534",
+        "75d3bd78-a7c1-40e8-83b3-16777520c7dd",
+        "0b228556-6ed7-4ea8-80b4-73a4b90f191b",
+        "4e64eba9-938b-41fd-bcd5-5e3fb887c930",
+        "0dedddb7-4a1a-4bee-9f7b-163794548ac7",
+        "f553a4f3-5cae-4cfd-bac5-4d65936e5b68",
+        "3417fcd1-c41a-416b-af13-50b19ddbdb3c",
+        "868fe3c2-176c-495e-a73a-ffc35a68e38a",
+        "166cae38-9052-4787-8986-88f9454230ef",
+        "9f766834-a7d1-42c3-8c17-f4148db82ef",
+        "47703976-a050-43ee-824f-de73b915bc67",
+        "9dfd95b1-1d48-4505-8170-c572c07b3efe"
+      ]
+    },
+    {
+      "id": "d7684100-c398-473e-a452-b0531f3bdf89",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "promise",
+      "text": "Liang Sorveth's hidden third text warns Ming: 'Do not let them use you as a key. You are not a key. Find out what the Wellspring wills before you decide whether to offer anything at all.'",
+      "entities": [
+        "Liang Sorveth",
+        "Wellspring",
+        "Shard"
+      ],
+      "witnesses": [
+        "player"
+      ],
+      "weight": 91.68000000000004,
+      "createdTurn": 1,
+      "lastReferencedTurn": 92,
+      "links": [
+        "67203531-6f30-407a-8f1d-71f44bb563e4",
+        "397ad44a-84ed-4898-90c8-06333ec007f7",
+        "eb6b87b8-b3a2-4af3-b4c2-8fd694668da3",
+        "85a6e9d8-59d1-4e5c-910c-2569050825b1",
+        "6820145e-fed3-4590-85a2-522f440fbc4e",
+        "f48a0cf8-5912-4c14-9403-e0f58f38932e",
+        "9821da4c-57a4-4636-a683-75c3d8fa0084",
+        "153c7a25-71f3-42eb-aac6-945c6058b94f",
+        "aa071180-1e49-4da5-a9f1-097c079539ca",
+        "2822ea17-a95f-4695-b51c-9d915af6f9ec",
+        "b39710cf-8a19-448c-a32b-441657145a60",
+        "aca200aa-2664-4b92-a698-acff0a12134f",
+        "d97e7acb-2531-4aa0-8d9e-8f33891c66c2",
+        "ca6299ab-8146-4a47-acff-1b33c03e1c5c",
+        "389ce59d-fa65-46f6-b573-bd1ceb7a3fd6",
+        "0a8b3315-ccbd-40df-a3ca-9e54780674b5",
+        "0fe94f72-15b1-4566-be93-fb1baa43304d",
+        "0474f244-83e6-4256-bb2e-c29a318940fe",
+        "986bf484-24c9-4813-b30a-7f0fa474fd35",
+        "54e5e563-587e-4d05-8d05-95e017557d14",
+        "c6bececb-d432-449c-a2d8-39af43185eaa",
+        "c47c6260-e382-4a4a-be0e-ee9994131cb5",
+        "7385addc-f391-4052-b43e-a933231dc078",
+        "0dedddb7-4a1a-4bee-9f7b-163794548ac7",
+        "dc08ec33-314c-4be4-9f4e-ae0815470175"
+      ]
+    },
+    {
+      "id": "eb85c648-8925-4954-9eda-da448585f0a7",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "relationship",
+      "text": "Serevaine: grey-faction, claims no current title, calls herself 'something older and considerably more inconvenient' than a Quietist; knew the teacher before he was Ming's teacher. Pressed Ming's fingertips to her own sternum, an involuntary mirror of his tell.",
+      "entities": [
+        "Serevaine"
+      ],
+      "witnesses": [
+        "player",
+        "npc-serevaine"
+      ],
+      "weight": 100,
+      "createdTurn": 1,
+      "lastReferencedTurn": 92,
+      "links": []
+    },
+    {
+      "id": "9dfbf93c-d45f-4cc4-8946-00fc8f5cce20",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "The summoning note bore a bisected-eye mark, named Ming's exile and what he carried, and told him to come alone to Lamplighter's Arch before second bell and burn it. Ming did not burn it.",
+      "entities": [
+        "Serevaine",
+        "Ming"
+      ],
+      "witnesses": [
+        "player"
+      ],
+      "weight": 100,
+      "createdTurn": 1,
+      "lastReferencedTurn": 92,
+      "links": []
+    },
+    {
+      "id": "67203531-6f30-407a-8f1d-71f44bb563e4",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "fact",
+      "text": "On the canal bridge, Ming opened to the Shard deliberately and felt the Wellspring's will directly: not a desire to be rebound, not a desire to rupture — but grief at a thousand years of holding one shape, and a will to be witnessed before anyone decides its fate. The Wellspring has not yet decided what it wants to become. It sought a witness who already knows what it costs to refuse an assigned shape.",
+      "entities": [
+        "Ming",
+        "Wellspring",
+        "Shard of Prior Covenant"
+      ],
+      "witnesses": [
+        "player"
+      ],
+      "weight": 99.2,
+      "createdTurn": 24,
+      "lastReferencedTurn": 60,
+      "links": [
+        "397ad44a-84ed-4898-90c8-06333ec007f7",
+        "d7684100-c398-473e-a452-b0531f3bdf89",
+        "eb6b87b8-b3a2-4af3-b4c2-8fd694668da3",
+        "85a6e9d8-59d1-4e5c-910c-2569050825b1",
+        "f48a0cf8-5912-4c14-9403-e0f58f38932e",
+        "a97c43eb-4d05-4dd2-8fd4-e0761f1e58e7",
+        "6820145e-fed3-4590-85a2-522f440fbc4e",
+        "950dfa44-a66a-4ef0-8f6e-9f560b73beac",
+        "eb6b87b8-93a2-4af3-b4c2-8fd694668da3",
+        "b39710cf-8a19-448c-a32b-441657145a60",
+        "f61b06ad-b0aa-4619-88a8-e3327987ae62",
+        "eb6b87b8-33a2-4af3-b4c2-8fd694668da3",
+        "c47c6260-e382-4a4a-be0e-ee9994131cb5",
+        "92147863-fe1c-4aed-a7c8-1dbe880cb99b",
+        "eb6b06ad-b0aa-4619-88a8-e3327987ae62",
+        "986bf484-24c9-4813-b30a-7f0fa474fd35",
+        "aa071180-1e49-4da5-a9f1-097c079539ca"
+      ]
+    },
+    {
+      "id": "f48a0cf8-5912-4c14-9403-e0f58f38932e",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "fact",
+      "text": "On the canal bridge, Ming listened deeper into the Shard's grief and found two distinct textures: the Wellspring's vast grief at holding one shape for a thousand years, and the Shard's own accumulated grief — the loneliness of every exile who carried it, including Liang Sorveth's eleven years and Ming's seventeen. The Shard has been changed by what it passed through. If offered back, the Wellspring receives not a neutral fragment but everything the Shard absorbed: every exile, every year of solitude. The witness was already inside what the Wellspring lost.",
+      "entities": [
+        "player",
+        "Wellspring",
+        "Liang Sorveth"
+      ],
+      "witnesses": [
+        "player"
+      ],
+      "weight": 99.16253780588801,
+      "createdTurn": 25,
+      "lastReferencedTurn": 60,
+      "links": [
+        "67203531-6f30-407a-8f1d-71f44bb563e4",
+        "397ad44a-84ed-4898-90c8-06333ec007f7",
+        "a97c43eb-4d05-4dd2-8fd4-e0761f1e58e7",
+        "6820145e-fed3-4590-85a2-522f440fbc4e",
+        "d7684100-c398-473e-a452-b0531f3bdf89",
+        "85a6e9d8-59d1-4e5c-910c-2569050825b1",
+        "950dfa44-a66a-4ef0-8f6e-9f560b73beac",
+        "eb6b87b8-93a2-4af3-b4c2-8fd694668da3",
+        "b39710cf-8a19-448c-a32b-441657145a60",
+        "f61b06ad-b0aa-4619-88a8-e3327987ae62",
+        "eb6b87b8-33a2-4af3-b4c2-8fd694668da3",
+        "c47c6260-e382-4a4a-be0e-ee9994131cb5",
+        "92147863-fe1c-4aed-a7c8-1dbe880cb99b",
+        "eb6b06ad-b0aa-4619-88a8-e3327987ae62"
+      ]
+    },
+    {
+      "id": "6820145e-fed3-4590-85a2-522f440fbc4e",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "fact",
+      "text": "Ming attempted to ask the Shard directly whether it has a will of its own and wants to return. The question failed to cohere — not because the Shard refused, but because after seventeen years of correspondence the Shard and Ming cannot be separated cleanly enough for the question to have a distinct answer. He cannot find where the Shard ends and where he begins. The offering, if it comes, would not be returning a neutral fragment. It would be offering something that has become partly himself.",
+      "entities": [
+        "Ming",
+        "Shard of Prior Covenant"
+      ],
+      "witnesses": [
+        "player"
+      ],
+      "weight": 99.962537805888,
+      "createdTurn": 26,
+      "lastReferencedTurn": 28,
+      "links": [
+        "f48a0cf8-5912-4c14-9403-e0f58f38932e",
+        "67203531-6f30-407a-8f1d-71f44bb563e4",
+        "d7684100-c398-473e-a452-b0531f3bdf89",
+        "397ad44a-84ed-4898-90c8-06333ec007f7",
+        "85a6e9d8-59d1-4e5c-910c-2569050825b1",
+        "950dfa44-a66a-4ef0-8f6e-9f560b73beac",
+        "eb6b87b8-93a2-4af3-b4c2-8fd694668da3",
+        "b39710cf-8a19-448c-a32b-441657145a60",
+        "f61b06ad-b0aa-4619-88a8-e3327987ae62",
+        "eb6b87b8-33a2-4af3-b4c2-8fd694668da3"
+      ]
+    },
+    {
+      "id": "b39710cf-8a19-448c-a32b-441657145a60",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "fact",
+      "text": "Orrath of the Thornwood Unsutured named Ming's condition: utharvel — a thing that has been two things long enough it has become a third thing without a name. The Shard and Ming can no longer be cleanly separated; they are a third thing. Orrath believes the Wellspring is also utharvel after a thousand years of binding — also a third thing, no longer what it was when sealed. The right questions are: what is the utharvel of Ming-Shard, and has the Wellspring ever received something that loved it and changed while carrying it?",
+      "entities": [
+        "Ming",
+        "Orrath",
+        "Shard",
+        "Wellspring"
+      ],
+      "witnesses": [
+        "player",
+        "orrath"
+      ],
+      "weight": 28.1266665984095,
+      "createdTurn": 28,
+      "lastReferencedTurn": 92,
+      "links": [
+        "f61b06ad-b0aa-4619-88a8-e3327987ae62",
+        "6820145e-fed3-4590-85a2-522f440fbc4e",
+        "f48a0cf8-5912-4c14-9403-e0f58f38932e",
+        "67203531-6f30-407a-8f1d-71f44bb563e4",
+        "eb6b87b8-33a2-4af3-b4c2-8fd694668da3",
+        "c47c6260-e382-4a4a-be0e-ee9994131cb5",
+        "92147863-fe1c-4aed-a7c8-1dbe880cb99b",
+        "eb6b06ad-b0aa-4619-88a8-e3327987ae62",
+        "986bf484-24c9-4813-b30a-7f0fa474fd35",
+        "aa071180-1e49-4da5-a9f1-097c079539ca",
+        "210525b3-bee1-44a5-a527-56d1a1fbde1e",
+        "efab58f1-d06b-406d-ad4d-a93ea8ef6e14",
+        "153c7a25-71f3-42eb-aac6-945c6058b94f",
+        "8c9e0081-4220-4e45-9678-97a428a7a9d3",
+        "2822ea17-a95f-4695-b51c-9d915af6f9ec",
+        "d7684100-c398-473e-a452-b0531f3bdf89",
+        "0474f244-83e6-4256-bb2e-c29a318940fe",
+        "ca6299ab-8146-4a47-acff-1b33c03e1c5c",
+        "7385addc-f391-4052-b43e-a933231dc078",
+        "aca200aa-2664-4b92-a698-acff0a12134f",
+        "0fe94f72-15b1-4566-be93-fb1baa43304d",
+        "f2fad9f3-8100-42bc-97d5-6ca32d837c08",
+        "577cfc2f-c338-4934-9589-12bdd854260d",
+        "54e5e563-587e-4d05-8d05-95e017557d14",
+        "c6bececb-d432-449c-a2d8-39af43185eaa",
+        "a885d075-4831-45a8-b3f9-665013a72214",
+        "0dedddb7-4a1a-4bee-9f7b-163794548ac7",
+        "041c6c66-0555-4390-a073-ee911a66449e",
+        "4c59c876-6d3f-46a0-9874-a504b209ef19",
+        "3db38c00-96ba-4ad1-b9b6-894b3aca8bd1",
+        "63f6d568-588c-4760-a0c8-8146f1ce88c6",
+        "29140cce-2400-4b8e-99b2-556d0bae5e02",
+        "85a6e9d8-59d1-4e5c-910c-2569050825b1",
+        "f752542a-c349-48f1-b767-8b583238fab2",
+        "6fc835b7-a743-4f07-83e3-73c5815aeb2a",
+        "1cf4972d-778e-4f8e-a2f3-1d3e0ef9392b"
+      ]
+    },
+    {
+      "id": "f61b06ad-b0aa-4619-88a8-e3327987ae62",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "fact",
+      "text": "Orrath identified that Ming asked the Shard a question this morning that failed not from refusal but from the dissolution of the boundary between asker and asked — he knew this without being told.",
+      "entities": [
+        "Ming",
+        "Orrath",
+        "Shard"
+      ],
+      "witnesses": [
+        "player",
+        "orrath"
+      ],
+      "weight": 98.11200000000001,
+      "createdTurn": 28,
+      "lastReferencedTurn": 92,
+      "links": [
+        "b39710cf-8a19-448c-a32b-441657145a60",
+        "6820145e-fed3-4590-85a2-522f440fbc4e",
+        "f48a0cf8-5912-4c14-9403-e0f58f38932e",
+        "67203531-6f30-407a-8f1d-71f44bb563e4",
+        "eb6b87b8-33a2-4af3-b4c2-8fd694668da3",
+        "986bf484-24c9-4813-b30a-7f0fa474fd35",
+        "c47c6260-e382-4a4a-be0e-ee9994131cb5",
+        "3db38c00-96ba-4ad1-b9b6-894b3aca8bd1",
+        "041c6c66-0555-4390-a073-ee911a66449e",
+        "0dedddb7-4a1a-4bee-9f7b-163794548ac7",
+        "63f6d568-588c-4760-a0c8-8146f1ce88c6",
+        "6fc835b7-a743-4f07-83e3-73c5815aeb2a",
+        "1cf4972d-778e-4f8e-a2f3-1d3e0ef9392b"
+      ]
+    },
+    {
+      "id": "92147863-fe1c-4aed-a7c8-1dbe880cb99b",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Orrath asked Ming a genuine question for the first time — what was underneath the Wellspring's grief when Ming listened from the inside this morning. He does not know the answer himself. This is the first thing the Unsutured cannot feel from the outside.",
+      "entities": [
+        "Orrath",
+        "player"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7"
+      ],
+      "weight": 26.53175021738721,
+      "createdTurn": 29,
+      "lastReferencedTurn": 29,
+      "links": [
+        "c47c6260-e382-4a4a-be0e-ee9994131cb5",
+        "b39710cf-8a19-448c-a32b-441657145a60",
+        "67203531-6f30-407a-8f1d-71f44bb563e4",
+        "f48a0cf8-5912-4c14-9403-e0f58f38932e",
+        "eb6b06ad-b0aa-4619-88a8-e3327987ae62"
+      ]
+    },
+    {
+      "id": "986bf484-24c9-4813-b30a-7f0fa474fd35",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Ming attempted to open to the Shard in Orrath's presence and failed to hold the deeper transmission clearly. Reached for the Wellspring's interior life — felt fragments: something vast, turned inward, making shapes in the dark, and something that might be joy indistinguishable from longing. Lost the thread before it resolved. Told Orrath: 'Something like joy. I could not hold it long enough to be certain. Or I am not yet the right kind of witness.'",
+      "entities": [
+        "Ming",
+        "Orrath",
+        "Shard",
+        "Wellspring"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7"
+      ],
+      "weight": 93.28000000000003,
+      "createdTurn": 30,
+      "lastReferencedTurn": 92,
+      "links": [
+        "b39710cf-8a19-448c-a32b-441657145a60",
+        "c47c6260-e382-4a4a-be0e-ee9994131cb5",
+        "67203531-6f30-407a-8f1d-71f44bb563e4",
+        "f61b06ad-b0aa-4619-88a8-e3327987ae62",
+        "aa071180-1e49-4da5-a9f1-097c079539ca",
+        "28e009ba-bfbd-4d79-ab0c-74c6b44f5d3e",
+        "ca6299ab-8146-4a47-acff-1b33c03e1c5c",
+        "0fe94f72-15b1-4566-be93-fb1baa43304d",
+        "aca200aa-2664-4b92-a698-acff0a12134f",
+        "0474f244-83e6-4256-bb2e-c29a318940fe",
+        "d7684100-c398-473e-a452-b0531f3bdf89",
+        "577cfc2f-c338-4934-9589-12bdd854260d",
+        "7385addc-f391-4052-b43e-a933231dc078",
+        "54e5e563-587e-4d05-8d05-95e017557d14",
+        "c6bececb-d432-449c-a2d8-39af43185eaa",
+        "0dedddb7-4a1a-4bee-9f7b-163794548ac7",
+        "dc08ec33-314c-4be4-9f4e-ae0815470175"
+      ]
+    },
+    {
+      "id": "aa071180-1e49-4da5-a9f1-097c079539ca",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Ming asked Orrath and the Unsutured to accompany him to the Auric Mountains — not to perform the ritual, but to be witnesses to the Wellspring. Orrath called it not a small thing and noted the Sealers turned them back eleven years ago. He has not refused.",
+      "entities": [
+        "Ming",
+        "Orrath",
+        "Unsutured"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7"
+      ],
+      "weight": 94.64000000000001,
+      "createdTurn": 31,
+      "lastReferencedTurn": 40,
+      "links": [
+        "b39710cf-8a19-448c-a32b-441657145a60",
+        "c47c6260-e382-4a4a-be0e-ee9994131cb5",
+        "986bf484-24c9-4813-b30a-7f0fa474fd35",
+        "67203531-6f30-407a-8f1d-71f44bb563e4",
+        "9821da4c-57a4-4636-a683-75c3d8fa0084",
+        "d7684100-c398-473e-a452-b0531f3bdf89",
+        "153c7a25-71f3-42eb-aac6-945c6058b94f",
+        "913c9bcd-f73b-449d-ae8a-4eac94df48af",
+        "46522eb5-f665-4f77-84c2-8a644056272e",
+        "85a6e9d8-59d1-4e5c-910c-2569050825b1",
+        "af95ce71-ccd9-45f4-8f9f-0ac18e94f38e",
+        "0fe94f72-15b1-4566-be93-fb1baa43304d",
+        "76050532-81e8-4aa9-b034-e64357ea89a9",
+        "ca6299ab-8146-4a47-acff-1b33c03e1c5c",
+        "aca200aa-2664-4b92-a698-acff0a12134f",
+        "eb6b87b8-33a2-4af3-b4c2-8fd694668da3"
+      ]
+    },
+    {
+      "id": "210525b3-bee1-44a5-a527-56d1a1fbde1e",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "fact",
+      "text": "The Conclave's ritual window opens in 31 days — 13 days before the Clock expires. Vorn has already committed to the timeline. The fourth shrine-component is being secured. Overheard near the eastern Conclave gate.",
+      "entities": [
+        "Thessaly Vorn",
+        "Conclave Sealers",
+        "player"
+      ],
+      "witnesses": [
+        "player"
+      ],
+      "weight": 97.2,
+      "createdTurn": 32,
+      "lastReferencedTurn": 32,
+      "links": [
+        "efab58f1-d06b-406d-ad4d-a93ea8ef6e14",
+        "153c7a25-71f3-42eb-aac6-945c6058b94f",
+        "8c9e0081-4220-4e45-9678-97a428a7a9d3",
+        "b39710cf-8a19-448c-a32b-441657145a60"
+      ]
+    },
+    {
+      "id": "efab58f1-d06b-406d-ad4d-a93ea8ef6e14",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Ming left Orrath with a three-day window before asking for his answer on accompanying him to the Wellspring. Orrath said 'three days' in a way that was neither acceptance nor refusal — a shaman checking whether the ground will hold.",
+      "entities": [
+        "player",
+        "npc_ad193dd7"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7"
+      ],
+      "weight": 97.2,
+      "createdTurn": 32,
+      "lastReferencedTurn": 32,
+      "links": [
+        "210525b3-bee1-44a5-a527-56d1a1fbde1e",
+        "153c7a25-71f3-42eb-aac6-945c6058b94f",
+        "8c9e0081-4220-4e45-9678-97a428a7a9d3",
+        "b39710cf-8a19-448c-a32b-441657145a60"
+      ]
+    },
+    {
+      "id": "9821da4c-57a4-4636-a683-75c3d8fa0084",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Ming retrieved his spear and spent ten minutes re-oiling the lower binding. Standing with it steadied him — the weapon is the one thing he brought across the sea that belongs entirely to him, not given or lodged without his consent.",
+      "entities": [
+        "Ming",
+        "spear"
+      ],
+      "witnesses": [
+        "player"
+      ],
+      "weight": 59.94172519610486,
+      "createdTurn": 33,
+      "lastReferencedTurn": 33,
+      "links": [
+        "d7684100-c398-473e-a452-b0531f3bdf89",
+        "153c7a25-71f3-42eb-aac6-945c6058b94f",
+        "aa071180-1e49-4da5-a9f1-097c079539ca"
+      ]
+    },
+    {
+      "id": "2822ea17-a95f-4695-b51c-9d915af6f9ec",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Ming practiced the Crane-in-Storm form alone in the yard of the Undyed Cloth — the first full practice since arriving in Veranthos. The Shard tracked the spear-tip quietly. He worked through the knowledge that the form was built around a secret and kept it anyway. Emerged steadied.",
+      "entities": [
+        "Ming",
+        "player"
+      ],
+      "witnesses": [
+        "player"
+      ],
+      "weight": 83.68835332452282,
+      "createdTurn": 34,
+      "lastReferencedTurn": 34,
+      "links": [
+        "d7684100-c398-473e-a452-b0531f3bdf89",
+        "b39710cf-8a19-448c-a32b-441657145a60"
+      ]
+    },
+    {
+      "id": "0512b529-15f4-49b6-b92f-1971b4140db5",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "fact",
+      "text": "The King's Road west to the Auric Mountains has: widened Fault-scars audible at night as a harmonic that makes horses refuse; Conclave checkpoints at two points established four days ago turning back commercial traffic; an abandoned waystation at Helvrath's Cross; and something unknown at the Greyveil bridge that a veteran teamster refused to describe and drank for two days after witnessing. The Sealers are securing the approach faster than their thirty-one-day ritual window suggests.",
+      "entities": [
+        "Ming",
+        "Conclave Sealers",
+        "Auric Mountains",
+        "King's Road",
+        "Greyveil bridge"
+      ],
+      "witnesses": [
+        "player"
+      ],
+      "weight": 98,
+      "createdTurn": 35,
+      "lastReferencedTurn": 35,
+      "links": [
+        "153c7a25-71f3-42eb-aac6-945c6058b94f",
+        "85a6e9d8-59d1-4e5c-910c-2569050825b1"
+      ]
+    },
+    {
+      "id": "913c9bcd-f73b-449d-ae8a-4eac94df48af",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Edric Vaun, a reassigned Conclave scholar, told Ming obliquely that the fourth shrine-component reached the Conclave staging camp in the foothills two days ago and that Vorn's thirty-one-day window is already tighter than stated. The Archmagister silenced internal dissent six days ago by reassigning scholars who questioned the Covenant-text's completeness.",
+      "entities": [
+        "Ming",
+        "Edric Vaun",
+        "Archmagister Thessaly Vorn"
+      ],
+      "witnesses": [
+        "player",
+        "edric_vaun"
+      ],
+      "weight": 61.633476555851416,
+      "createdTurn": 37,
+      "lastReferencedTurn": 37,
+      "links": [
+        "46522eb5-f665-4f77-84c2-8a644056272e",
+        "153c7a25-71f3-42eb-aac6-945c6058b94f",
+        "85a6e9d8-59d1-4e5c-910c-2569050825b1",
+        "aa071180-1e49-4da5-a9f1-097c079539ca"
+      ]
+    },
+    {
+      "id": "46522eb5-f665-4f77-84c2-8a644056272e",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "fact",
+      "text": "Ming resolved the checkpoint problem: no cover exists. He will walk through Conclave checkpoints on his own terms or go around them, decided on the road. The western traffic has dried up entirely.",
+      "entities": [
+        "Ming"
+      ],
+      "witnesses": [
+        "player"
+      ],
+      "weight": 28.633476555851416,
+      "createdTurn": 37,
+      "lastReferencedTurn": 37,
+      "links": [
+        "913c9bcd-f73b-449d-ae8a-4eac94df48af",
+        "153c7a25-71f3-42eb-aac6-945c6058b94f",
+        "85a6e9d8-59d1-4e5c-910c-2569050825b1",
+        "aa071180-1e49-4da5-a9f1-097c079539ca"
+      ]
+    },
+    {
+      "id": "aca200aa-2664-4b92-a698-acff0a12134f",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "fact",
+      "text": "Edric Vaun confirmed: Vorn's ritual uses a passive-anchor reading for the fifth convergence point, which Vaun believes is a transcription error. Without an active fifth element the geometry inverts — the re-binding becomes an immediate rupture-accelerant. Staging camp is at Thornheel, three miles past Greyveil bridge. The geometric window opens in twenty-two days, not thirty-one.",
+      "entities": [
+        "Ming",
+        "Edric Vaun",
+        "Archmagister Thessaly Vorn",
+        "Wellspring"
+      ],
+      "witnesses": [
+        "player",
+        "edric_vaun"
+      ],
+      "weight": 92.24000000000002,
+      "createdTurn": 38,
+      "lastReferencedTurn": 60,
+      "links": [
+        "d97e7acb-2531-4aa0-8d9e-8f33891c66c2",
+        "153c7a25-71f3-42eb-aac6-945c6058b94f",
+        "85a6e9d8-59d1-4e5c-910c-2569050825b1",
+        "d7684100-c398-473e-a452-b0531f3bdf89",
+        "ca6299ab-8146-4a47-acff-1b33c03e1c5c",
+        "af95ce71-ccd9-45f4-8f9f-0ac18e94f38e",
+        "0fe94f72-15b1-4566-be93-fb1baa43304d",
+        "76050532-81e8-4aa9-b034-e64357ea89a9",
+        "aa071180-1e49-4da5-a9f1-097c079539ca",
+        "eb6b87b8-33a2-4af3-b4c2-8fd694668da3",
+        "25235899-d8fb-41f6-9024-f8d6d5138742",
+        "7f0681ae-fbd7-405f-a2f0-26c984d20e4d",
+        "389ce59d-fa65-46f6-b573-bd1ceb7a3fd6",
+        "0a8b3315-ccbd-40df-a3ca-9e54780674b5",
+        "28e009ba-bfbd-4d79-ab0c-74c6b44f5d3e",
+        "986bf484-24c9-4813-b30a-7f0fa474fd35",
+        "7385addc-f391-4052-b43e-a933231dc078",
+        "b39710cf-8a19-448c-a32b-441657145a60",
+        "d5b7bbde-b44c-4f43-b6f5-f80c77c54bb0",
+        "41a99627-c4be-40fa-9a3c-d5130c73d68d",
+        "397ad44a-84ed-4898-90c8-06333ec007f7"
+      ]
+    },
+    {
+      "id": "d97e7acb-2531-4aa0-8d9e-8f33891c66c2",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Ming sat across from Vaun without wine or coin or paper and asked plainly. Vaun told him what he knew. Something shifted in Vaun's expression — the first degree of trust.",
+      "entities": [
+        "Ming",
+        "Edric Vaun"
+      ],
+      "witnesses": [
+        "player",
+        "edric_vaun"
+      ],
+      "weight": 97.2,
+      "createdTurn": 38,
+      "lastReferencedTurn": 38,
+      "links": [
+        "aca200aa-2664-4b92-a698-acff0a12134f",
+        "153c7a25-71f3-42eb-aac6-945c6058b94f",
+        "85a6e9d8-59d1-4e5c-910c-2569050825b1",
+        "d7684100-c398-473e-a452-b0531f3bdf89"
+      ]
+    },
+    {
+      "id": "ca6299ab-8146-4a47-acff-1b33c03e1c5c",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "fact",
+      "text": "Liang Sorveth's margin-note in the third text: the fifth convergence point was never a passive anchor. The original word is 'answer' — a living will must complete the circuit. Without it the open geometry reads as rupture. Sorveth calls the result an 'unasking.' The difference between a key and an answer: a key is used, an answer is given.",
+      "entities": [
+        "Ming",
+        "Liang Sorveth",
+        "Wellspring",
+        "Vorn"
+      ],
+      "witnesses": [
+        "player"
+      ],
+      "weight": 91.84000000000003,
+      "createdTurn": 39,
+      "lastReferencedTurn": 92,
+      "links": [
+        "aca200aa-2664-4b92-a698-acff0a12134f",
+        "d7684100-c398-473e-a452-b0531f3bdf89",
+        "153c7a25-71f3-42eb-aac6-945c6058b94f",
+        "85a6e9d8-59d1-4e5c-910c-2569050825b1",
+        "af95ce71-ccd9-45f4-8f9f-0ac18e94f38e",
+        "0fe94f72-15b1-4566-be93-fb1baa43304d",
+        "76050532-81e8-4aa9-b034-e64357ea89a9",
+        "aa071180-1e49-4da5-a9f1-097c079539ca",
+        "eb6b87b8-33a2-4af3-b4c2-8fd694668da3",
+        "3d521d8e-f989-4bc4-a6f5-26c6fbea8bb7",
+        "397ad44a-84ed-4898-90c8-06333ec007f7",
+        "389ce59d-fa65-46f6-b573-bd1ceb7a3fd6",
+        "0a8b3315-ccbd-40df-a3ca-9e54780674b5",
+        "28e009ba-bfbd-4d79-ab0c-74c6b44f5d3e",
+        "986bf484-24c9-4813-b30a-7f0fa474fd35",
+        "0474f244-83e6-4256-bb2e-c29a318940fe",
+        "b39710cf-8a19-448c-a32b-441657145a60",
+        "d5b7bbde-b44c-4f43-b6f5-f80c77c54bb0",
+        "41a99627-c4be-40fa-9a3c-d5130c73d68d",
+        "54e5e563-587e-4d05-8d05-95e017557d14",
+        "c6bececb-d432-449c-a2d8-39af43185eaa",
+        "c47c6260-e382-4a4a-be0e-ee9994131cb5",
+        "7385addc-f391-4052-b43e-a933231dc078",
+        "0dedddb7-4a1a-4bee-9f7b-163794548ac7",
+        "dc08ec33-314c-4be4-9f4e-ae0815470175"
+      ]
+    },
+    {
+      "id": "0fe94f72-15b1-4566-be93-fb1baa43304d",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "fact",
+      "text": "When Ming told Orrath the fifth point requires an answer, not an anchor, Orrath said without surprise: 'Yes. We have been saying that for eleven years.' The Unsutured have held this reading independently, confirming Sorveth's margin-note from a separate tradition.",
+      "entities": [
+        "Ming",
+        "Orrath",
+        "Davan"
+      ],
+      "witnesses": [
+        "player",
+        "orrath",
+        "davan"
+      ],
+      "weight": 38.21938244072866,
+      "createdTurn": 40,
+      "lastReferencedTurn": 47,
+      "links": [
+        "af95ce71-ccd9-45f4-8f9f-0ac18e94f38e",
+        "76050532-81e8-4aa9-b034-e64357ea89a9",
+        "ca6299ab-8146-4a47-acff-1b33c03e1c5c",
+        "aca200aa-2664-4b92-a698-acff0a12134f",
+        "aa071180-1e49-4da5-a9f1-097c079539ca",
+        "eb6b87b8-33a2-4af3-b4c2-8fd694668da3",
+        "25235899-d8fb-41f6-9024-f8d6d5138742",
+        "7f0681ae-fbd7-405f-a2f0-26c984d20e4d",
+        "3d521d8e-f989-4bc4-a6f5-26c6fbea8bb7",
+        "397ad44a-84ed-4898-90c8-06333ec007f7",
+        "389ce59d-fa65-46f6-b573-bd1ceb7a3fd6",
+        "0a8b3315-ccbd-40df-a3ca-9e54780674b5",
+        "d7684100-c398-473e-a452-b0531f3bdf89",
+        "28e009ba-bfbd-4d79-ab0c-74c6b44f5d3e",
+        "986bf484-24c9-4813-b30a-7f0fa474fd35",
+        "7385addc-f391-4052-b43e-a933231dc078",
+        "b39710cf-8a19-448c-a32b-441657145a60"
+      ]
+    },
+    {
+      "id": "3d521d8e-f989-4bc4-a6f5-26c6fbea8bb7",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "fact",
+      "text": "Davan crossed Fault-thresholds in the eastern ranges by waiting to be fully read before answering, then answering honestly what was actually asked — not the feared question but the true one. In the eastern ranges the threshold asked: to take or to witness? She answered: to witness. She believes the Greyveil threshold will ask Ming something no one has been asked before, because what Ming carries is something no threshold has encountered.",
+      "entities": [
+        "Davan",
+        "player",
+        "Orrath"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7",
+        "npc_11dbc994"
+      ],
+      "weight": 72.0197008490695,
+      "createdTurn": 42,
+      "lastReferencedTurn": 42,
+      "links": [
+        "0fe94f72-15b1-4566-be93-fb1baa43304d",
+        "ca6299ab-8146-4a47-acff-1b33c03e1c5c",
+        "397ad44a-84ed-4898-90c8-06333ec007f7"
+      ]
+    },
+    {
+      "id": "0a8b3315-ccbd-40df-a3ca-9e54780674b5",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "fact",
+      "text": "Davan told Ming: the older Thornwood account says the answer does not cost death — it costs a permanent opening. The circuit does not close behind the one who answers. It stays answered. She told him before the bridge because the bridge would know whether he knew it when he stepped onto it.",
+      "entities": [
+        "Ming",
+        "Davan"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7",
+        "npc_11dbc994"
+      ],
+      "weight": 11.208507533692856,
+      "createdTurn": 43,
+      "lastReferencedTurn": 43,
+      "links": [
+        "389ce59d-fa65-46f6-b573-bd1ceb7a3fd6",
+        "ca6299ab-8146-4a47-acff-1b33c03e1c5c",
+        "0fe94f72-15b1-4566-be93-fb1baa43304d",
+        "d7684100-c398-473e-a452-b0531f3bdf89",
+        "aca200aa-2664-4b92-a698-acff0a12134f"
+      ]
+    },
+    {
+      "id": "28e009ba-bfbd-4d79-ab0c-74c6b44f5d3e",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Ming arrived at the Greyveil bridge at mid-morning. The bridge is a living Fault-threshold — stone in shape, amber-veined, its surface moving like a breathing thing. It registered Ming's presence immediately on approach. The Shard responded with sympathetic resonance to the bridge's harmonic. Davan and Orrath are present on the south bank. The crossing has not begun.",
+      "entities": [
+        "Ming",
+        "Greyveil bridge",
+        "Orrath",
+        "Davan",
+        "the Shard"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7",
+        "npc_11dbc994"
+      ],
+      "weight": 20.46035605054616,
+      "createdTurn": 44,
+      "lastReferencedTurn": 44,
+      "links": [
+        "986bf484-24c9-4813-b30a-7f0fa474fd35",
+        "ca6299ab-8146-4a47-acff-1b33c03e1c5c",
+        "0fe94f72-15b1-4566-be93-fb1baa43304d",
+        "aca200aa-2664-4b92-a698-acff0a12134f"
+      ]
+    },
+    {
+      "id": "0474f244-83e6-4256-bb2e-c29a318940fe",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Ming crossed the Greyveil Fault-threshold. The bridge asked him what he had become after seventeen years of carrying the Shard. He answered from the body: a third thing, not the man who arrived unknowing, not the Shard, a third thing still becoming. The bridge stilled and released him. The answer was given, not performed.",
+      "entities": [
+        "Ming",
+        "Greyveil bridge",
+        "Shard of Prior Covenant"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7",
+        "npc_11dbc994"
+      ],
+      "weight": 98,
+      "createdTurn": 45,
+      "lastReferencedTurn": 45,
+      "links": [
+        "b39710cf-8a19-448c-a32b-441657145a60",
+        "986bf484-24c9-4813-b30a-7f0fa474fd35",
+        "ca6299ab-8146-4a47-acff-1b33c03e1c5c",
+        "d7684100-c398-473e-a452-b0531f3bdf89"
+      ]
+    },
+    {
+      "id": "7385addc-f391-4052-b43e-a933231dc078",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Ming crossed the Greyveil Fault-threshold successfully. The bridge asked what he had become after seventeen years of carrying the Shard. He answered without language from the body: a third thing, still becoming, not yet named. The bridge stilled and let all three pass. Davan crossed with practiced ease; Orrath crossed slowly, stopping at the center-line for one full breath.",
+      "entities": [
+        "Ming",
+        "Orrath",
+        "Davan",
+        "Greyveil bridge"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7",
+        "npc_11dbc994"
+      ],
+      "weight": 67.94235153123564,
+      "createdTurn": 46,
+      "lastReferencedTurn": 54,
+      "links": [
+        "b39710cf-8a19-448c-a32b-441657145a60",
+        "aca200aa-2664-4b92-a698-acff0a12134f",
+        "0fe94f72-15b1-4566-be93-fb1baa43304d",
+        "f2fad9f3-8100-42bc-97d5-6ca32d837c08",
+        "c47c6260-e382-4a4a-be0e-ee9994131cb5",
+        "577cfc2f-c338-4934-9589-12bdd854260d",
+        "986bf484-24c9-4813-b30a-7f0fa474fd35",
+        "54e5e563-587e-4d05-8d05-95e017557d14",
+        "c6bececb-d432-449c-a2d8-39af43185eaa",
+        "ca6299ab-8146-4a47-acff-1b33c03e1c5c",
+        "d7684100-c398-473e-a452-b0531f3bdf89",
+        "a885d075-4831-45a8-b3f9-665013a72214",
+        "0dedddb7-4a1a-4bee-9f7b-163794548ac7"
+      ]
+    },
+    {
+      "id": "d5b7bbde-b44c-4f43-b6f5-f80c77c54bb0",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Ming walked straight through the Thornheel Conclave checkpoint — foreigner, spear, no manifest, no apology. The ledger-warden found no actionable grounds and lifted the rope. The group passed the staging camp without stopping and reached the High Approach before midday.",
+      "entities": [
+        "Ming",
+        "Orrath",
+        "Davan",
+        "Conclave checkpoint warden"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7",
+        "npc_11dbc994"
+      ],
+      "weight": 48.32485380497317,
+      "createdTurn": 49,
+      "lastReferencedTurn": 49,
+      "links": [
+        "41a99627-c4be-40fa-9a3c-d5130c73d68d",
+        "aca200aa-2664-4b92-a698-acff0a12134f",
+        "ca6299ab-8146-4a47-acff-1b33c03e1c5c",
+        "eb6b87b8-33a2-4af3-b4c2-8fd694668da3",
+        "397ad44a-84ed-4898-90c8-06333ec007f7"
+      ]
+    },
+    {
+      "id": "41a99627-c4be-40fa-9a3c-d5130c73d68d",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "At the High Approach, the Fault harmonic moved from boot-soles into the sternum — the mountain registered Ming's presence the way the Greyveil bridge did, but older and deeper. The Shard responded with recognition, not alarm.",
+      "entities": [
+        "Ming",
+        "Shard of Prior Covenant",
+        "Auric Mountains"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7",
+        "npc_11dbc994"
+      ],
+      "weight": 60.32485380497325,
+      "createdTurn": 49,
+      "lastReferencedTurn": 49,
+      "links": [
+        "d5b7bbde-b44c-4f43-b6f5-f80c77c54bb0",
+        "aca200aa-2664-4b92-a698-acff0a12134f",
+        "ca6299ab-8146-4a47-acff-1b33c03e1c5c",
+        "eb6b87b8-33a2-4af3-b4c2-8fd694668da3",
+        "397ad44a-84ed-4898-90c8-06333ec007f7"
+      ]
+    },
+    {
+      "id": "f2fad9f3-8100-42bc-97d5-6ca32d837c08",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "fact",
+      "text": "At the High Approach, Orrath read the mountain as counting — three presences, registering before asking. Davan reported the mountain turned back the last Conclave group because they carried an already-asked question. The mountain finds what Ming carries unprecedented and is deciding whether to open.",
+      "entities": [
+        "Ming",
+        "Orrath",
+        "Davan",
+        "the Wellspring",
+        "Auric Mountains"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7",
+        "npc_11dbc994"
+      ],
+      "weight": 60.140215736858124,
+      "createdTurn": 50,
+      "lastReferencedTurn": 50,
+      "links": [
+        "7385addc-f391-4052-b43e-a933231dc078",
+        "b39710cf-8a19-448c-a32b-441657145a60",
+        "c47c6260-e382-4a4a-be0e-ee9994131cb5"
+      ]
+    },
+    {
+      "id": "577cfc2f-c338-4934-9589-12bdd854260d",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "At the High Approach, Ming stood completely still and allowed the mountain to finish counting three presences without interference. The mountain's attention settled on the Shard with precision. Orrath reported: 'It knows what you are. It is deciding whether to ask you or tell you.' The mountain did not ask — it oriented.",
+      "entities": [
+        "Ming",
+        "Orrath",
+        "Davan",
+        "the mountain",
+        "the Shard"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7",
+        "npc_11dbc994"
+      ],
+      "weight": 97.2,
+      "createdTurn": 51,
+      "lastReferencedTurn": 51,
+      "links": [
+        "7385addc-f391-4052-b43e-a933231dc078",
+        "b39710cf-8a19-448c-a32b-441657145a60",
+        "986bf484-24c9-4813-b30a-7f0fa474fd35",
+        "c47c6260-e382-4a4a-be0e-ee9994131cb5"
+      ]
+    },
+    {
+      "id": "54e5e563-587e-4d05-8d05-95e017557d14",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Ming spoke aloud in Zhennian at the High Approach — 'I came to witness. Not to offer. Begin.' The mountain answered: the voreth-light descended, the Fault-harmonic dropped to its fundamental frequency, and the Shard opened inward, transmitting the Wellspring's dreaming interior — vast, turning, full of refused shapes, and underneath all of it an attentiveness aimed at Ming, the first time in a thousand years that something the Wellspring was taken from had returned carrying it. The path to the Wellspring site is open.",
+      "entities": [
+        "Ming",
+        "Orrath",
+        "Davan",
+        "the Wellspring",
+        "the Shard"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7",
+        "npc_11dbc994"
+      ],
+      "weight": 55.14235153123569,
+      "createdTurn": 52,
+      "lastReferencedTurn": 58,
+      "links": [
+        "c6bececb-d432-449c-a2d8-39af43185eaa",
+        "986bf484-24c9-4813-b30a-7f0fa474fd35",
+        "b39710cf-8a19-448c-a32b-441657145a60",
+        "c47c6260-e382-4a4a-be0e-ee9994131cb5",
+        "7385addc-f391-4052-b43e-a933231dc078",
+        "ca6299ab-8146-4a47-acff-1b33c03e1c5c",
+        "d7684100-c398-473e-a452-b0531f3bdf89",
+        "0dedddb7-4a1a-4bee-9f7b-163794548ac7",
+        "dc08ec33-314c-4be4-9f4e-ae0815470175",
+        "a885d075-4831-45a8-b3f9-665013a72214",
+        "4a9682e7-832d-44a8-b9cc-0132e4fcea2e",
+        "eb6b87b8-33a2-4af3-b4c2-8fd694668da3",
+        "041c6c66-0555-4390-a073-ee911a66449e",
+        "4c59c876-6d3f-46a0-9874-a504b209ef19"
+      ]
+    },
+    {
+      "id": "c6bececb-d432-449c-a2d8-39af43185eaa",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Orrath made an involuntary sound of recognition — not surprise but the kind of recognition that hurts — when the mountain opened in response to Ming's words. He has not explained it.",
+      "entities": [
+        "Orrath",
+        "Ming"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7",
+        "npc_11dbc994"
+      ],
+      "weight": 96.4,
+      "createdTurn": 52,
+      "lastReferencedTurn": 52,
+      "links": [
+        "54e5e563-587e-4d05-8d05-95e017557d14",
+        "986bf484-24c9-4813-b30a-7f0fa474fd35",
+        "b39710cf-8a19-448c-a32b-441657145a60",
+        "c47c6260-e382-4a4a-be0e-ee9994131cb5",
+        "7385addc-f391-4052-b43e-a933231dc078",
+        "ca6299ab-8146-4a47-acff-1b33c03e1c5c",
+        "d7684100-c398-473e-a452-b0531f3bdf89"
+      ]
+    },
+    {
+      "id": "0dedddb7-4a1a-4bee-9f7b-163794548ac7",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Ming held the full Shard transmission at the High Approach — three layers: the Wellspring's grief at the sealing (every refused shape had weight and was lost); its thousand years of dreaming its refused shapes in private; and underneath both, a gladness — not joy, not longing, but a third thing, the recognition of one exile returning to another. The Wellspring is not unchanged. It has interior life, grief, and a thousand years of dreaming no one has asked about. It is glad Ming returned not from obligation but from shared exile. The transmission completed. Ming now knows what the Wellspring is — but not yet what it wills.",
+      "entities": [
+        "Ming",
+        "Wellspring",
+        "Shard",
+        "Orrath",
+        "Davan"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7",
+        "npc_11dbc994"
+      ],
+      "weight": 95.42400000000002,
+      "createdTurn": 53,
+      "lastReferencedTurn": 92,
+      "links": [
+        "dc08ec33-314c-4be4-9f4e-ae0815470175",
+        "986bf484-24c9-4813-b30a-7f0fa474fd35",
+        "c47c6260-e382-4a4a-be0e-ee9994131cb5",
+        "54e5e563-587e-4d05-8d05-95e017557d14",
+        "ca6299ab-8146-4a47-acff-1b33c03e1c5c",
+        "d7684100-c398-473e-a452-b0531f3bdf89",
+        "a885d075-4831-45a8-b3f9-665013a72214",
+        "7385addc-f391-4052-b43e-a933231dc078",
+        "b39710cf-8a19-448c-a32b-441657145a60",
+        "4a9682e7-832d-44a8-b9cc-0132e4fcea2e",
+        "eb6b87b8-33a2-4af3-b4c2-8fd694668da3",
+        "4c59c876-6d3f-46a0-9874-a504b209ef19",
+        "041c6c66-0555-4390-a073-ee911a66449e",
+        "3db38c00-96ba-4ad1-b9b6-894b3aca8bd1",
+        "f61b06ad-b0aa-4619-88a8-e3327987ae62",
+        "63f6d568-588c-4760-a0c8-8146f1ce88c6",
+        "6fc835b7-a743-4f07-83e3-73c5815aeb2a",
+        "1cf4972d-778e-4f8e-a2f3-1d3e0ef9392b",
+        "4e64eba9-938b-41fd-bcd5-5e3fb887c930",
+        "7bec0760-0cc4-4c2c-91ab-e82ef0bc6895",
+        "153c7a25-71f3-42eb-aac6-945c6058b94f"
+      ]
+    },
+    {
+      "id": "dc08ec33-314c-4be4-9f4e-ae0815470175",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "fact",
+      "text": "Davan had tears on her face when the High Approach transmission completed. She did not acknowledge them. Ming did not acknowledge them.",
+      "entities": [
+        "Davan",
+        "Ming"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7",
+        "npc_11dbc994"
+      ],
+      "weight": 91.39903161035656,
+      "createdTurn": 53,
+      "lastReferencedTurn": 53,
+      "links": [
+        "0dedddb7-4a1a-4bee-9f7b-163794548ac7",
+        "986bf484-24c9-4813-b30a-7f0fa474fd35",
+        "c47c6260-e382-4a4a-be0e-ee9994131cb5",
+        "54e5e563-587e-4d05-8d05-95e017557d14",
+        "ca6299ab-8146-4a47-acff-1b33c03e1c5c",
+        "d7684100-c398-473e-a452-b0531f3bdf89"
+      ]
+    },
+    {
+      "id": "a885d075-4831-45a8-b3f9-665013a72214",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Ming took one final breath at the High Approach before the climb — let the Wellspring's grief, dreaming, and gladness settle into the body rather than the mind. The path is open. He knows what he carries. He does not yet know what it wills.",
+      "entities": [
+        "Ming",
+        "Orrath",
+        "Davan",
+        "Wellspring"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7",
+        "npc_11dbc994"
+      ],
+      "weight": 67.52000000000038,
+      "createdTurn": 54,
+      "lastReferencedTurn": 60,
+      "links": [
+        "0dedddb7-4a1a-4bee-9f7b-163794548ac7",
+        "54e5e563-587e-4d05-8d05-95e017557d14",
+        "7385addc-f391-4052-b43e-a933231dc078",
+        "b39710cf-8a19-448c-a32b-441657145a60",
+        "4c59c876-6d3f-46a0-9874-a504b209ef19",
+        "4a9682e7-832d-44a8-b9cc-0132e4fcea2e"
+      ]
+    },
+    {
+      "id": "72f03a2d-1312-4760-8133-33561858d90f",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Ming took the first step onto the High Approach and began the climb to the Wellspring site. Orrath and Davan followed without words. The voreth-light deepened with elevation; the Shard held steady and oriented. The mountain did not question — it continued.",
+      "entities": [
+        "Ming",
+        "Orrath",
+        "Davan",
+        "Wellspring",
+        "High Approach"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7",
+        "npc_11dbc994"
+      ],
+      "weight": 44,
+      "createdTurn": 55,
+      "lastReferencedTurn": 60,
+      "links": []
+    },
+    {
+      "id": "4c59c876-6d3f-46a0-9874-a504b209ef19",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Ming descended the ravine from the Opened Ear shelf with the Shard setting the pace — clean, exact footing, no misstep. At the ravine floor he came to stand ten feet from the base of the slow-turning voreth-light column. The column's densest point aligned precisely with sternum height — with the Shard. The Shard responded with its greatest warmth yet. The Wellspring did not reach or retreat. It waited. Scale stopped applying in the ordinary way. The mountain was silent.",
+      "entities": [
+        "Ming",
+        "Orrath",
+        "Davan",
+        "the Wellspring",
+        "the Shard"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7",
+        "npc_11dbc994"
+      ],
+      "weight": 55.52000000000042,
+      "createdTurn": 57,
+      "lastReferencedTurn": 58,
+      "links": [
+        "4a9682e7-832d-44a8-b9cc-0132e4fcea2e",
+        "0dedddb7-4a1a-4bee-9f7b-163794548ac7",
+        "a885d075-4831-45a8-b3f9-665013a72214",
+        "041c6c66-0555-4390-a073-ee911a66449e",
+        "b39710cf-8a19-448c-a32b-441657145a60",
+        "c47c6260-e382-4a4a-be0e-ee9994131cb5",
+        "54e5e563-587e-4d05-8d05-95e017557d14"
+      ]
+    },
+    {
+      "id": "041c6c66-0555-4390-a073-ee911a66449e",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Ming walked into the voreth-light column at the ravine floor. The Wellspring received him completely — total contact, refused shapes moving as private dreaming suddenly witnessed. The gladness was present, specific, and not performed. Then the Wellspring asked its first question: not whether Ming will offer, but whether he knows what he is witnessing before he chooses. Orrath and Davan stopped at the column's edge — present, not intervening.",
+      "entities": [
+        "Ming",
+        "Wellspring",
+        "Orrath",
+        "Davan",
+        "Shard of Prior Covenant"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7",
+        "npc_11dbc994"
+      ],
+      "weight": 97.552,
+      "createdTurn": 58,
+      "lastReferencedTurn": 60,
+      "links": [
+        "0dedddb7-4a1a-4bee-9f7b-163794548ac7",
+        "4c59c876-6d3f-46a0-9874-a504b209ef19",
+        "b39710cf-8a19-448c-a32b-441657145a60",
+        "c47c6260-e382-4a4a-be0e-ee9994131cb5",
+        "54e5e563-587e-4d05-8d05-95e017557d14",
+        "3db38c00-96ba-4ad1-b9b6-894b3aca8bd1",
+        "f61b06ad-b0aa-4619-88a8-e3327987ae62",
+        "63f6d568-588c-4760-a0c8-8146f1ce88c6"
+      ]
+    },
+    {
+      "id": "3db38c00-96ba-4ad1-b9b6-894b3aca8bd1",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Ming drew his spear inside the voreth-light column and performed the Crane-in-Storm form — the one built around the Shard over seventeen years. The spear split the voreth-air with a harmonic between the Fault-frequency and the spear's ordinary ring. What returned through the shaft: witnessing is not neutrality. Contact changes the ground. The bubble is real even as it passes. The shadow falls even as it fades. A partial knowing — the full depth of what the Wellspring wills for its dreaming once witnessed did not arrive. Davan's hand moved involuntarily to her sternum. Orrath did not move. His eyes were on the spear.",
+      "entities": [
+        "Ming",
+        "Wellspring",
+        "Shard",
+        "Orrath",
+        "Davan"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7",
+        "npc_11dbc994"
+      ],
+      "weight": 96.00000000000001,
+      "createdTurn": 59,
+      "lastReferencedTurn": 92,
+      "links": [
+        "041c6c66-0555-4390-a073-ee911a66449e",
+        "0dedddb7-4a1a-4bee-9f7b-163794548ac7",
+        "b39710cf-8a19-448c-a32b-441657145a60",
+        "f61b06ad-b0aa-4619-88a8-e3327987ae62",
+        "63f6d568-588c-4760-a0c8-8146f1ce88c6",
+        "29140cce-2400-4b8e-99b2-556d0bae5e02",
+        "85a6e9d8-59d1-4e5c-910c-2569050825b1",
+        "f752542a-c349-48f1-b767-8b583238fab2",
+        "3c6fa095-bdfa-4cc2-a512-573c6f247658",
+        "840511ef-b669-4a9c-9ee1-8c8cc2044cb8",
+        "014b8302-c676-400c-a206-5c53f0a1fb8d",
+        "c7c4efb9-c343-4622-a55f-f92b494b3ece",
+        "115ffea5-457e-4d7e-876d-c5819295f365"
+      ]
+    },
+    {
+      "id": "63f6d568-588c-4760-a0c8-8146f1ce88c6",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Ming answered the Wellspring's first question without words — brought the spear to rest horizontally across open palms, offering the changed ground itself as answer. The final layer arrived: what the Wellspring wills is not re-binding to the old shape nor rupture, but to be sealed as what it actually is now — utharvel, the third thing. The fifth-point requires testimony, not sacrifice: a living will at the geometric circuit declaring the Wellspring's true present shape to the re-binding. Whether the vessel survives depends on whether testimony and presence can be the same act. The voreth-light stilled. The Shard came to rest at its warmest and quietest. Orrath said: 'You have just held the answer.'",
+      "entities": [
+        "Ming",
+        "Wellspring",
+        "Shard",
+        "Orrath",
+        "Davan"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7",
+        "npc_11dbc994"
+      ],
+      "weight": 93.06267167720803,
+      "createdTurn": 60,
+      "lastReferencedTurn": 92,
+      "links": [
+        "0dedddb7-4a1a-4bee-9f7b-163794548ac7",
+        "3db38c00-96ba-4ad1-b9b6-894b3aca8bd1",
+        "041c6c66-0555-4390-a073-ee911a66449e",
+        "b39710cf-8a19-448c-a32b-441657145a60",
+        "f61b06ad-b0aa-4619-88a8-e3327987ae62",
+        "29140cce-2400-4b8e-99b2-556d0bae5e02",
+        "85a6e9d8-59d1-4e5c-910c-2569050825b1",
+        "f752542a-c349-48f1-b767-8b583238fab2",
+        "935868aa-7093-4d5e-9e49-155c13d33835",
+        "3c6fa095-bdfa-4cc2-a512-573c6f247658",
+        "840511ef-b669-4a9c-9ee1-8c8cc2044cb8",
+        "014b8302-c676-400c-a206-5c53f0a1fb8d",
+        "c7c4efb9-c343-4622-a55f-f92b494b3ece",
+        "115ffea5-457e-4d7e-876d-c5819295f365",
+        "1cf4972d-778e-4f8e-a2f3-1d3e0ef9392b",
+        "00213741-4dd3-40e6-a2ea-f1122babb887",
+        "153c7a25-71f3-42eb-aac6-945c6058b94f",
+        "ea43bc8a-8526-4b4e-a111-e06ef5435635",
+        "6fc835b7-a743-4f07-83e3-73c5815aeb2a",
+        "9f766834-a7d1-42c3-8c17-f4148bd582ef",
+        "46b22b22-65bb-4ddc-a3e0-da2ecb9ca6c9",
+        "166cae38-9052-4787-8986-88f9454230ef",
+        "f553a4f3-5cae-4cfd-bac5-4d65936e5b68",
+        "4e64eba9-938b-41fd-bcd5-5e3fb887c930"
+      ]
+    },
+    {
+      "id": "29140cce-2400-4b8e-99b2-556d0bae5e02",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Ming stepped out of the voreth-light column and spoke plainly in trade-tongue to Orrath and Davan: the Wellspring wills to be sealed as what it now is — utharvel, the third thing. The fifth-point requires testimony, not offering: a living will declaring the Wellspring's true present shape. The vessel's survival is unresolved — the column stilled before that question closed. Ming asked Orrath directly whether the Unsutured's eleven-year position anticipated this distinction — testimony rather than key.",
+      "entities": [
+        "Ming",
+        "Orrath",
+        "Davan",
+        "Wellspring",
+        "Shard"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7",
+        "npc_11dbc994"
+      ],
+      "weight": 93.60000000000002,
+      "createdTurn": 61,
+      "lastReferencedTurn": 92,
+      "links": [
+        "63f6d568-588c-4760-a0c8-8146f1ce88c6",
+        "3db38c00-96ba-4ad1-b9b6-894b3aca8bd1",
+        "b39710cf-8a19-448c-a32b-441657145a60",
+        "85a6e9d8-59d1-4e5c-910c-2569050825b1",
+        "f752542a-c349-48f1-b767-8b583238fab2",
+        "935868aa-7093-4d5e-9e49-155c13d33835",
+        "3c6fa095-bdfa-4cc2-a512-573c6f247658",
+        "840511ef-b669-4a9c-9ee1-8c8cc2044cb8",
+        "014b8302-c676-400c-a206-5c53f0a1fb8d",
+        "c7c4efb9-c343-4622-a55f-f92b494b3ece",
+        "115ffea5-457e-4d7e-876d-c5819295f365",
+        "1cf4972d-778e-4f8e-a2f3-1d3e0ef9392b",
+        "00213741-4dd3-40e6-a2ea-f1122babb887",
+        "153c7a25-71f3-42eb-aac6-945c6058b94f"
+      ]
+    },
+    {
+      "id": "f752542a-c349-48f1-b767-8b583238fab2",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "fact",
+      "text": "Davan named the Unsutured word for Ming's role at the fifth-point: sorveth-anak — the one who speaks-what-is-true-at-the-closing. Not the same word as the one who dies. The eleven years held not a solution but a refusal to collapse testimony and sacrifice back into one word. She also revealed that the name Sorveth is Thornwood, meaning 'the one who built the frame around the door.' Liang Sorveth knew the distinction and chose to give Ming the frame, not the answer.",
+      "entities": [
+        "Davan",
+        "Orrath",
+        "player",
+        "Liang Sorveth"
+      ],
+      "witnesses": [
+        "player",
+        "npc_11dbc994",
+        "npc_ad193dd7"
+      ],
+      "weight": 81.865218614077,
+      "createdTurn": 62,
+      "lastReferencedTurn": 64,
+      "links": [
+        "29140cce-2400-4b8e-99b2-556d0bae5e02",
+        "63f6d568-588c-4760-a0c8-8146f1ce88c6",
+        "b39710cf-8a19-448c-a32b-441657145a60",
+        "3db38c00-96ba-4ad1-b9b6-894b3aca8bd1",
+        "935868aa-7093-4d5e-9e49-155c13d33835",
+        "3c6fa095-bdfa-4cc2-a512-573c6f247658",
+        "840511ef-b669-4a9c-9ee1-8c8cc2044cb8"
+      ]
+    },
+    {
+      "id": "935868aa-7093-4d5e-9e49-155c13d33835",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "mental",
+      "text": "Ming held in silence the full weight of Liang Sorveth's choice at the ravine floor: Sorveth knew the Thornwood word sorveth-anak, knew the distinction between testimony and sacrifice, reached the older knowledge, and still lodged the Shard in a student's body without asking. Built the frame; withheld the answer; named himself after the act. 'Do not let them use you as a key' was a warning against Sorveth's own choice as much as against the Conclave. Not anger — heavier and cleaner than anger. The gravity of something that cannot be undone and may have been the only way, and was still made in someone else's body.",
+      "entities": [
+        "Ming",
+        "Liang Sorveth",
+        "Shard of Prior Covenant"
+      ],
+      "witnesses": [
+        "player"
+      ],
+      "weight": 31.887245870939978,
+      "createdTurn": 63,
+      "lastReferencedTurn": 63,
+      "links": [
+        "f752542a-c349-48f1-b767-8b583238fab2",
+        "63f6d568-588c-4760-a0c8-8146f1ce88c6",
+        "29140cce-2400-4b8e-99b2-556d0bae5e02"
+      ]
+    },
+    {
+      "id": "3c6fa095-bdfa-4cc2-a512-573c6f247658",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Ming buried Liang Sorveth's third text and the carved name-token in a Fault-vein crack at the base of the voreth-light column. Not in grief — returning borrowed tools to where they belong. He then declared to Orrath and Davan: the fifth-point does not need a door. It needs the Wellspring's true frequency — utharvel, the third thing — spoken as harmony into the re-binding geometry at the moment the Sealers close it. He is sorveth-anak: the one who speaks what is true at the closing. Thessaly Vorn does not know this distinction exists.",
+      "entities": [
+        "Ming",
+        "Liang Sorveth",
+        "Wellspring",
+        "Thessaly Vorn"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7",
+        "npc_11dbc994"
+      ],
+      "weight": 27.46521861407683,
+      "createdTurn": 64,
+      "lastReferencedTurn": 64,
+      "links": [
+        "840511ef-b669-4a9c-9ee1-8c8cc2044cb8",
+        "f752542a-c349-48f1-b767-8b583238fab2",
+        "63f6d568-588c-4760-a0c8-8146f1ce88c6",
+        "29140cce-2400-4b8e-99b2-556d0bae5e02",
+        "3db38c00-96ba-4ad1-b9b6-894b3aca8bd1"
+      ]
+    },
+    {
+      "id": "840511ef-b669-4a9c-9ee1-8c8cc2044cb8",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "mental",
+      "text": "Ming chose not to carry Sorveth's frame forward. He witnesses his teacher as what he was: a man who loved something and could not give it without a container. The container served. Ming is done with it. No anger. No forgiveness required. Witness only.",
+      "entities": [
+        "Ming",
+        "Liang Sorveth"
+      ],
+      "witnesses": [
+        "player"
+      ],
+      "weight": 15.025218614076806,
+      "createdTurn": 64,
+      "lastReferencedTurn": 64,
+      "links": [
+        "3c6fa095-bdfa-4cc2-a512-573c6f247658",
+        "f752542a-c349-48f1-b767-8b583238fab2",
+        "63f6d568-588c-4760-a0c8-8146f1ce88c6",
+        "29140cce-2400-4b8e-99b2-556d0bae5e02",
+        "3db38c00-96ba-4ad1-b9b6-894b3aca8bd1"
+      ]
+    },
+    {
+      "id": "014b8302-c676-400c-a206-5c53f0a1fb8d",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "fact",
+      "text": "Orrath explained the Unsutured's reason for holding the testimony-not-death distinction: if sorveth-anak and the one who dies collapse into one word, the Wellspring receives a death at its closing, not testimony. The eleven years existed to hold that distinction open.",
+      "entities": [
+        "Orrath",
+        "Ming",
+        "Davan"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7",
+        "npc_11dbc994"
+      ],
+      "weight": 35.311618614076814,
+      "createdTurn": 65,
+      "lastReferencedTurn": 65,
+      "links": [
+        "c7c4efb9-c343-4622-a55f-f92b494b3ece",
+        "115ffea5-457e-4d7e-876d-c5819295f365",
+        "63f6d568-588c-4760-a0c8-8146f1ce88c6",
+        "29140cce-2400-4b8e-99b2-556d0bae5e02",
+        "3db38c00-96ba-4ad1-b9b6-894b3aca8bd1"
+      ]
+    },
+    {
+      "id": "c7c4efb9-c343-4622-a55f-f92b494b3ece",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "fact",
+      "text": "Davan told Ming that in Thornwood, the name Sorveth is not a condemnation but a description of a kind of love — a person who knows the door must be found and cannot lead you through it. She said: 'He sent you with everything you needed and nothing you did not. The frame held.' Spoken as technical truth, not comfort.",
+      "entities": [
+        "Davan",
+        "Ming",
+        "Liang Sorveth"
+      ],
+      "witnesses": [
+        "player",
+        "npc_11dbc994",
+        "npc_ad193dd7"
+      ],
+      "weight": 37.311618614076814,
+      "createdTurn": 65,
+      "lastReferencedTurn": 65,
+      "links": [
+        "014b8302-c676-400c-a206-5c53f0a1fb8d",
+        "115ffea5-457e-4d7e-876d-c5819295f365",
+        "63f6d568-588c-4760-a0c8-8146f1ce88c6",
+        "29140cce-2400-4b8e-99b2-556d0bae5e02",
+        "3db38c00-96ba-4ad1-b9b6-894b3aca8bd1"
+      ]
+    },
+    {
+      "id": "1cf4972d-778e-4f8e-a2f3-1d3e0ef9392b",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Orrath named what the three of them carry back: a three-source convergence — Sorveth's text, the Unsutured's eleven-year position, and the Wellspring's own declaration through the column. He said a single source Vorn dismisses, two she argues translation, but three from three roads that did not know each other is not argument — it is geography.",
+      "entities": [
+        "Ming",
+        "Orrath",
+        "Davan",
+        "Thessaly Vorn"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7",
+        "npc_11dbc994"
+      ],
+      "weight": 71.17011263754837,
+      "createdTurn": 66,
+      "lastReferencedTurn": 86,
+      "links": [
+        "00213741-4dd3-40e6-a2ea-f1122babb887",
+        "29140cce-2400-4b8e-99b2-556d0bae5e02",
+        "63f6d568-588c-4760-a0c8-8146f1ce88c6",
+        "153c7a25-71f3-42eb-aac6-945c6058b94f",
+        "6fc835b7-a743-4f07-83e3-73c5815aeb2a",
+        "0dedddb7-4a1a-4bee-9f7b-163794548ac7",
+        "f61b06ad-b0aa-4619-88a8-e3327987ae62",
+        "b39710cf-8a19-448c-a32b-441657145a60",
+        "e6a5a1e8-08aa-4744-a27a-4094d6ff2075",
+        "ea43bc8a-8526-4b4e-a111-e06ef5435635",
+        "c05972f2-fbee-47f7-9416-cc8614aa4adb",
+        "115ffea5-457e-4d7e-876d-c5819295f365",
+        "e6958fc5-5d6f-4d3b-84a4-a08e676c8c7b",
+        "599abea7-eca5-4e55-b43c-5b4d76c424fa",
+        "2b9dcfab-872c-40a0-b1f0-dee4e61c4e60",
+        "d8e5c746-df32-432b-a1fa-567f6913ae0d",
+        "9f766834-a7d1-42c3-8c17-f4148bd582ef",
+        "9d20d02f-dfa6-4cac-851a-c6c25e92e917",
+        "7bec0760-0cc4-4c2c-91ab-e82ef0bc6895",
+        "dc62d4d4-7be4-4e10-9fd8-36e59fa33cdf",
+        "f553a4f3-5cae-4cfd-bac5-4d65936e5b68",
+        "3417fcd1-c41a-416b-af13-50b19ddbdb3c",
+        "868fe3c2-176c-495e-a73a-ffc35a68e38a",
+        "4e64eba9-938b-41fd-bcd5-5e3fb887c930",
+        "166cae38-9052-4787-8986-88f9454230ef",
+        "9f766834-a7d1-42c3-8c17-f4148db82ef"
+      ]
+    },
+    {
+      "id": "00213741-4dd3-40e6-a2ea-f1122babb887",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Davan said she carries the word sorveth-anak back into Thornwood — the Unsutured held the distinction eleven years without a name for the one who carries it; now there is a name and a face. She also said the Thornwood bands in the foothills will want to know the Opened Ear received a witness, the column stilled, and the Wellspring is not dying — it is arriving.",
+      "entities": [
+        "Davan",
+        "Ming",
+        "Thornwood"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7",
+        "npc_11dbc994"
+      ],
+      "weight": 97.2,
+      "createdTurn": 66,
+      "lastReferencedTurn": 66,
+      "links": [
+        "1cf4972d-778e-4f8e-a2f3-1d3e0ef9392b",
+        "29140cce-2400-4b8e-99b2-556d0bae5e02",
+        "63f6d568-588c-4760-a0c8-8146f1ce88c6",
+        "153c7a25-71f3-42eb-aac6-945c6058b94f"
+      ]
+    },
+    {
+      "id": "6fc835b7-a743-4f07-83e3-73c5815aeb2a",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "fact",
+      "text": "Orrath revealed the Unsutured oral record — older than the Covenant — described the Prior Shard vessel in advance: exiled, unknowing, would arrive at the column speaking the language of their first home. He recognized Ming at the High Approach when Zhennian opened the mountain. He withheld this on the road because the record forbids leading the vessel. He and Liang Sorveth held the same instruction from different sides of the same text without knowing the other existed.",
+      "entities": [
+        "Ming",
+        "Orrath",
+        "Davan",
+        "Liang Sorveth"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7",
+        "npc_11dbc994"
+      ],
+      "weight": 86.04561305952808,
+      "createdTurn": 67,
+      "lastReferencedTurn": 71,
+      "links": [
+        "0dedddb7-4a1a-4bee-9f7b-163794548ac7",
+        "1cf4972d-778e-4f8e-a2f3-1d3e0ef9392b",
+        "f61b06ad-b0aa-4619-88a8-e3327987ae62",
+        "b39710cf-8a19-448c-a32b-441657145a60",
+        "e6a5a1e8-08aa-4744-a27a-4094d6ff2075",
+        "ea43bc8a-8526-4b4e-a111-e06ef5435635",
+        "63f6d568-588c-4760-a0c8-8146f1ce88c6",
+        "e6958fc5-5d6f-4d3b-84a4-a08e676c8c7b",
+        "115ffea5-457e-4d7e-876d-c5819295f365"
+      ]
+    },
+    {
+      "id": "e6a5a1e8-08aa-4744-a27a-4094d6ff2075",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "After Orrath revealed the Unsutured oral record and its parallel to Sorveth's instruction, Ming returned him the same silence he gave Sorveth's choice — the silence of correct distribution. Orrath's hands opened on his knees. The three sat together in the ravine until Orrath ended it with the practical: 'We should begin the descent before the light changes.'",
+      "entities": [
+        "Ming",
+        "Orrath",
+        "Davan"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7",
+        "npc_11dbc994"
+      ],
+      "weight": 19.468135989023864,
+      "createdTurn": 68,
+      "lastReferencedTurn": 68,
+      "links": [
+        "6fc835b7-a743-4f07-83e3-73c5815aeb2a",
+        "1cf4972d-778e-4f8e-a2f3-1d3e0ef9392b"
+      ]
+    },
+    {
+      "id": "ea43bc8a-8526-4b4e-a111-e06ef5435635",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Ming rose from the ravine floor and gave Orrath the spear-master's peer-bow — the one that names an equal — before beginning the ascent without words. Orrath received it without deflection, holding Ming's eyes through the full duration. The three descended from the ravine in the same earned silence.",
+      "entities": [
+        "Ming",
+        "Orrath",
+        "Davan"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7",
+        "npc_11dbc994"
+      ],
+      "weight": 26.78738185996375,
+      "createdTurn": 69,
+      "lastReferencedTurn": 69,
+      "links": [
+        "1cf4972d-778e-4f8e-a2f3-1d3e0ef9392b",
+        "6fc835b7-a743-4f07-83e3-73c5815aeb2a",
+        "63f6d568-588c-4760-a0c8-8146f1ce88c6"
+      ]
+    },
+    {
+      "id": "c05972f2-fbee-47f7-9416-cc8614aa4adb",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "fact",
+      "text": "Davan confirmed: three Thornwood bands shelter in the Auric Mountain foothills between the eastern scarp and Helvrath's Cross — roughly sixty to seventy people, not all fighters. The Conclave turned back their delegation two seasons ago with wardens at the foothills boundary, no violence. They do not love Thessaly Vorn, are not Quietists, and have been waiting with nowhere to go. Word of the column's stilling will reach all three bands within two to three days via runners once Davan carries it. Their likely response is to move toward the Conclave ritual site — which is a complication without a frame for what they are doing there.",
+      "entities": [
+        "Davan",
+        "Thornwood bands",
+        "Conclave",
+        "Thessaly Vorn",
+        "Ming"
+      ],
+      "witnesses": [
+        "player",
+        "npc_11dbc994",
+        "npc_ad193dd7"
+      ],
+      "weight": 32.35453598902387,
+      "createdTurn": 70,
+      "lastReferencedTurn": 70,
+      "links": [
+        "115ffea5-457e-4d7e-876d-c5819295f365",
+        "1cf4972d-778e-4f8e-a2f3-1d3e0ef9392b"
+      ]
+    },
+    {
+      "id": "e6958fc5-5d6f-4d3b-84a4-a08e676c8c7b",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Davan named the Thornwood role for the bands at the ritual boundary: sorveth-tavan — those who stand where the door is and do not go through. She confirmed she can carry the boundary-witness instruction alongside the news of the column's stilling, but only if she moves faster and alone. Two days to the first band from the King's Road. She noted the frame must arrive with the news or the bands will already have decided to move.",
+      "entities": [
+        "Davan",
+        "Ming",
+        "Orrath",
+        "Thornwood bands",
+        "sorveth-tavan"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7",
+        "npc_11dbc994"
+      ],
+      "weight": 33.55453598902392,
+      "createdTurn": 71,
+      "lastReferencedTurn": 71,
+      "links": [
+        "1cf4972d-778e-4f8e-a2f3-1d3e0ef9392b",
+        "6fc835b7-a743-4f07-83e3-73c5815aeb2a",
+        "115ffea5-457e-4d7e-876d-c5819295f365"
+      ]
+    },
+    {
+      "id": "599abea7-eca5-4e55-b43c-5b4d76c424fa",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Ming released Davan on the mid-ascent path — a nod toward the foothills, no words needed. She departed alone toward the Thornwood bands, carrying sorveth-tavan and the news that the Wellspring is arriving. Her last words: 'I will tell them the Wellspring is arriving.' Ming and Orrath continue to the staging camp without her.",
+      "entities": [
+        "Davan",
+        "Ming",
+        "Orrath"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7",
+        "npc_11dbc994"
+      ],
+      "weight": 30.50813598902387,
+      "createdTurn": 72,
+      "lastReferencedTurn": 72,
+      "links": [
+        "115ffea5-457e-4d7e-876d-c5819295f365",
+        "1cf4972d-778e-4f8e-a2f3-1d3e0ef9392b"
+      ]
+    },
+    {
+      "id": "2b9dcfab-872c-40a0-b1f0-dee4e61c4e60",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "fact",
+      "text": "Orrath's reading of Thessaly Vorn from eleven years of watching Conclave orders: not cruel, not arrogant — load-bearing certain. Her fear has become a method. She cannot feel where protecting the chamber and protecting her certainty separate. Three-source convergence will not move her after she has publicly committed the geometry. The window is before the announcement.",
+      "entities": [
+        "Thessaly Vorn",
+        "Orrath",
+        "Ming"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7"
+      ],
+      "weight": 97.2,
+      "createdTurn": 73,
+      "lastReferencedTurn": 73,
+      "links": [
+        "1cf4972d-778e-4f8e-a2f3-1d3e0ef9392b",
+        "153c7a25-71f3-42eb-aac6-945c6058b94f"
+      ]
+    },
+    {
+      "id": "d8e5c746-df32-432b-a1fa-567f6913ae0d",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "fact",
+      "text": "Shrine-components held in the staging camp carry a warding seal. Removing one from its seal alerts the Conclave within the hour — they will not know the thief but will lock the remaining components immediately. Orrath named this consequence when Ming proposed taking one for leverage.",
+      "entities": [
+        "shrine-component",
+        "Thessaly Vorn",
+        "staging-camp"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7"
+      ],
+      "weight": 97.2,
+      "createdTurn": 74,
+      "lastReferencedTurn": 74,
+      "links": [
+        "1cf4972d-778e-4f8e-a2f3-1d3e0ef9392b",
+        "153c7a25-71f3-42eb-aac6-945c6058b94f"
+      ]
+    },
+    {
+      "id": "9f766834-a7d1-42c3-8c17-f4148bd582ef",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Orrath named the consequence of the wrong ritual: the circuit closes around a shape that is no longer present — the old Wellspring, not the utharvel. The geometry collapses inward. The Wellspring is cut, not sealed. The Fault-scars open. Forty-four days becomes something closer to four. Veranthos, the King's Road, and the foothills bands would not survive it. The Unsutured word for this has no trade-tongue parallel — a thing told violently that it is nothing.",
+      "entities": [
+        "Ming",
+        "Orrath",
+        "Wellspring",
+        "Thessaly Vorn",
+        "Veranthos"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7"
+      ],
+      "weight": 97.54267167720802,
+      "createdTurn": 75,
+      "lastReferencedTurn": 92,
+      "links": [
+        "153c7a25-71f3-42eb-aac6-945c6058b94f",
+        "1cf4972d-778e-4f8e-a2f3-1d3e0ef9392b",
+        "63f6d568-588c-4760-a0c8-8146f1ce88c6",
+        "7bec0760-0cc4-4c2c-91ab-e82ef0bc6895",
+        "faf5ac5f-d89a-47cb-b0ec-681e62470534",
+        "75d3bd78-a7c1-40e8-83b3-16777520c7dd",
+        "dc62d4d4-7be4-4e10-9fd8-36e59fa33cdf",
+        "f553a4f3-5cae-4cfd-bac5-4d65936e5b68",
+        "4a79924d-37a6-45bb-b20f-4778b6c1b4dd",
+        "4e64eba9-938b-41fd-bcd5-5e3fb887c930",
+        "95618647-01a0-49b3-a129-32da7b68f533",
+        "166cae38-9052-4787-8986-88f9454230ef",
+        "46b22b22-65bb-4ddc-a3e0-da2ecb9ca6c9",
+        "967809d5-fabc-431a-a226-21fd5c0c55e0"
+      ]
+    },
+    {
+      "id": "7bec0760-0cc4-4c2c-91ab-e82ef0bc6895",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Ming walked into the Conclave staging camp alone, disarmed two wardens without killing them, broke the seal on the eastern cardinal shrine-component, and took it. He left a message with the wounded guard for Archmagister Thessaly Vorn: meet him at Helvrath's Cross waystation. He said he knows what is wrong with the ritual.",
+      "entities": [
+        "Ming",
+        "Orrath",
+        "Thessaly Vorn",
+        "eastern cardinal stone"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7"
+      ],
+      "weight": 78.17927031502188,
+      "createdTurn": 76,
+      "lastReferencedTurn": 85,
+      "links": [
+        "faf5ac5f-d89a-47cb-b0ec-681e62470534",
+        "153c7a25-71f3-42eb-aac6-945c6058b94f",
+        "9f766834-a7d1-42c3-8c17-f4148bd582ef",
+        "75d3bd78-a7c1-40e8-83b3-16777520c7dd",
+        "0b228556-6ed7-4ea8-80b4-73a4b90f191b",
+        "9d20d02f-dfa6-4cac-851a-c6c25e92e917",
+        "1cf4972d-778e-4f8e-a2f3-1d3e0ef9392b",
+        "c9a94284-880f-42ac-8b26-927e7e6ee4bc",
+        "dc62d4d4-7be4-4e10-9fd8-36e59fa33cdf",
+        "4e64eba9-938b-41fd-bcd5-5e3fb887c930",
+        "0dedddb7-4a1a-4bee-9f7b-163794548ac7",
+        "f553a4f3-5cae-4cfd-bac5-4d65936e5b68",
+        "3417fcd1-c41a-416b-af13-50b19ddbdb3c",
+        "868fe3c2-176c-495e-a73a-ffc35a68e38a"
+      ]
+    },
+    {
+      "id": "faf5ac5f-d89a-47cb-b0ec-681e62470534",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "fact",
+      "text": "The eastern cardinal stone's frequency does not harmonize with the Shard of Prior Covenant — the two sit close at Ming's sternum and do not resolve into a single resonance.",
+      "entities": [
+        "Ming",
+        "eastern cardinal stone",
+        "Shard of Prior Covenant"
+      ],
+      "witnesses": [
+        "player"
+      ],
+      "weight": 97.2,
+      "createdTurn": 76,
+      "lastReferencedTurn": 76,
+      "links": [
+        "7bec0760-0cc4-4c2c-91ab-e82ef0bc6895",
+        "153c7a25-71f3-42eb-aac6-945c6058b94f",
+        "9f766834-a7d1-42c3-8c17-f4148bd582ef"
+      ]
+    },
+    {
+      "id": "75d3bd78-a7c1-40e8-83b3-16777520c7dd",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Ming returned to Orrath and stated the door was open; they departed immediately for Helvrath's Cross. Orrath named the danger plainly: Vorn will arrive angry and afraid — the combination is a blade in someone else's hand. A torch was already moving on the upper path as they descended.",
+      "entities": [
+        "Ming",
+        "Orrath",
+        "Thessaly Vorn",
+        "Helvrath's Cross"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7"
+      ],
+      "weight": 97.2,
+      "createdTurn": 77,
+      "lastReferencedTurn": 77,
+      "links": [
+        "7bec0760-0cc4-4c2c-91ab-e82ef0bc6895",
+        "153c7a25-71f3-42eb-aac6-945c6058b94f",
+        "9f766834-a7d1-42c3-8c17-f4148bd582ef"
+      ]
+    },
+    {
+      "id": "0b228556-6ed7-4ea8-80b4-73a4b90f191b",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "location",
+      "text": "Helvrath's Cross: a pre-Conclave waystation where the King's Road meets the southern Thornwood spur. Stone inn run by innkeeper Ceth (daughter; father died two winters past) — does not ask about cargo. Stable, well, and an old ley-road Covenant waymarker that hums on clear nights. Roughly thirty transient shelters at any time: traders, Thornwood-Veranthos movers, and some who say little. No Conclave warden post — innkeeper would not permit it. Grey-Faction bisected-eye mark has been seen on cargo moving through. Vorn arriving with wardens would announce her position to everyone present.",
+      "entities": [
+        "Helvrath's Cross",
+        "Ceth",
+        "Thessaly Vorn",
+        "Orrath"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7"
+      ],
+      "weight": 96.65053263427932,
+      "createdTurn": 78,
+      "lastReferencedTurn": 78,
+      "links": [
+        "7bec0760-0cc4-4c2c-91ab-e82ef0bc6895",
+        "153c7a25-71f3-42eb-aac6-945c6058b94f"
+      ]
+    },
+    {
+      "id": "9d20d02f-dfa6-4cac-851a-c6c25e92e917",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Ming and Orrath arrived at Helvrath's Cross at night, took the back corner table with sight-lines to both doors, and settled in to wait for Archmagister Thessaly Vorn without announcing themselves. The inn held two Throne road-wardens and two Thornwood-marked men among its guests.",
+      "entities": [
+        "Ming",
+        "Orrath",
+        "Helvrath's Cross",
+        "Ceth",
+        "Thessaly Vorn"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7"
+      ],
+      "weight": 52.66813598902384,
+      "createdTurn": 79,
+      "lastReferencedTurn": 79,
+      "links": [
+        "7bec0760-0cc4-4c2c-91ab-e82ef0bc6895",
+        "1cf4972d-778e-4f8e-a2f3-1d3e0ef9392b"
+      ]
+    },
+    {
+      "id": "dc62d4d4-7be4-4e10-9fd8-36e59fa33cdf",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "fact",
+      "text": "Orrath decided to hold silence when Vorn arrives — not from deference but strategy. He is Thornwood; she will place him in the category of the three refused delegations and close the question before it opens. He will speak only after Ming's three-source convergence has made her prepared answer insufficient.",
+      "entities": [
+        "Orrath",
+        "Ming",
+        "Thessaly Vorn"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7"
+      ],
+      "weight": 56.31620630404559,
+      "createdTurn": 81,
+      "lastReferencedTurn": 81,
+      "links": [
+        "7bec0760-0cc4-4c2c-91ab-e82ef0bc6895",
+        "1cf4972d-778e-4f8e-a2f3-1d3e0ef9392b",
+        "9f766834-a7d1-42c3-8c17-f4148bd582ef"
+      ]
+    },
+    {
+      "id": "4e64eba9-938b-41fd-bcd5-5e3fb887c930",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "fact",
+      "text": "Ming studied the eastern cardinal stone's frequency quietly beneath the table at Helvrath's Cross. It is an anchor for an old shape — the Wellspring as it was a thousand years ago, singular and holdable, fixed in ley-chalk. Its seal is broken. Its frequency does not oppose the Shard; it simply predates what the Wellspring has become. The Shard responded with recognition — as a traveler recognizes a portrait of someone they knew before that person changed. The stone is a fossil of a question the Wellspring has already moved past. Vorn's four-component geometry is built entirely from these fossils.",
+      "entities": [
+        "eastern cardinal stone",
+        "Wellspring",
+        "Shard",
+        "player"
+      ],
+      "witnesses": [
+        "player"
+      ],
+      "weight": 98.63067167720801,
+      "createdTurn": 82,
+      "lastReferencedTurn": 92,
+      "links": [
+        "7bec0760-0cc4-4c2c-91ab-e82ef0bc6895",
+        "153c7a25-71f3-42eb-aac6-945c6058b94f",
+        "0dedddb7-4a1a-4bee-9f7b-163794548ac7",
+        "868fe3c2-176c-495e-a73a-ffc35a68e38a",
+        "1cf4972d-778e-4f8e-a2f3-1d3e0ef9392b",
+        "166cae38-9052-4787-8986-88f9454230ef",
+        "9f766834-a7d1-42c3-8c17-f4148db82ef",
+        "47703976-a050-43ee-824f-de73b915bc67",
+        "f553a4f3-5cae-4cfd-bac5-4d65936e5b68",
+        "9dfd95b1-1d48-4505-8170-c572c07b3efe",
+        "4a79924d-37a6-45bb-b20f-4778b6c1b4dd",
+        "9f766834-a7d1-42c3-8c17-f4148bd582ef",
+        "95618647-01a0-49b3-a129-32da7b68f533",
+        "46b22b22-65bb-4ddc-a3e0-da2ecb9ca6c9",
+        "63f6d568-588c-4760-a0c8-8146f1ce88c6",
+        "967809d5-fabc-431a-a226-21fd5c0c55e0"
+      ]
+    },
+    {
+      "id": "f553a4f3-5cae-4cfd-bac5-4d65936e5b68",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Thessaly Vorn arrived at Helvrath's Cross waystation in the deep night with two wardens. She crossed the room to Ming's table without preamble and demanded to know what he thinks is wrong with her ritual. She came herself rather than sending wardens — she needed to see the person who took her component.",
+      "entities": [
+        "Thessaly Vorn",
+        "Ming",
+        "Orrath"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7",
+        "Thessaly Vorn"
+      ],
+      "weight": 98.66267167720801,
+      "createdTurn": 83,
+      "lastReferencedTurn": 91,
+      "links": [
+        "7bec0760-0cc4-4c2c-91ab-e82ef0bc6895",
+        "1cf4972d-778e-4f8e-a2f3-1d3e0ef9392b",
+        "9f766834-a7d1-42c3-8c17-f4148bd582ef",
+        "153c7a25-71f3-42eb-aac6-945c6058b94f",
+        "47703976-a050-43ee-824f-de73b915bc67",
+        "4e64eba9-938b-41fd-bcd5-5e3fb887c930",
+        "9dfd95b1-1d48-4505-8170-c572c07b3efe",
+        "4a79924d-37a6-45bb-b20f-4778b6c1b4dd",
+        "46b22b22-65bb-4ddc-a3e0-da2ecb9ca6c9",
+        "166cae38-9052-4787-8986-88f9454230ef",
+        "63f6d568-588c-4760-a0c8-8146f1ce88c6"
+      ]
+    },
+    {
+      "id": "3417fcd1-c41a-416b-af13-50b19ddbdb3c",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Thessaly Vorn arrived at Helvrath's Cross herself — two wardens, travelling coat, mountain-worn — and accepted Ming's invitation to sit rather than press the confrontation standing. She placed both hands flat on the table and asked him to speak. She registered Orrath's presence and filed it without comment.",
+      "entities": [
+        "npc-thessaly-vorn",
+        "player",
+        "npc_ad193dd7"
+      ],
+      "witnesses": [
+        "player",
+        "npc-thessaly-vorn",
+        "npc_ad193dd7"
+      ],
+      "weight": 89.78740684055957,
+      "createdTurn": 84,
+      "lastReferencedTurn": 84,
+      "links": [
+        "7bec0760-0cc4-4c2c-91ab-e82ef0bc6895",
+        "1cf4972d-778e-4f8e-a2f3-1d3e0ef9392b",
+        "153c7a25-71f3-42eb-aac6-945c6058b94f"
+      ]
+    },
+    {
+      "id": "868fe3c2-176c-495e-a73a-ffc35a68e38a",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Ming asked Thessaly Vorn when she last tested the shrine-component frequencies directly rather than inferring them from the Covenant text. She admitted she has not tested them since the sealing was applied — only verified they accepted the seal at acquisition. This is the first visible crack in her architectural certainty. She offered a frame: 'Your question implies the frequencies have changed.' She does not yet know what it means. But the map has an edge she cannot close.",
+      "entities": [
+        "Ming",
+        "Thessaly Vorn",
+        "eastern cardinal stone",
+        "shrine-components"
+      ],
+      "witnesses": [
+        "player",
+        "npc-thessaly-vorn",
+        "npc_ad193dd7"
+      ],
+      "weight": 96.912,
+      "createdTurn": 85,
+      "lastReferencedTurn": 85,
+      "links": [
+        "4e64eba9-938b-41fd-bcd5-5e3fb887c930",
+        "153c7a25-71f3-42eb-aac6-945c6058b94f",
+        "1cf4972d-778e-4f8e-a2f3-1d3e0ef9392b",
+        "7bec0760-0cc4-4c2c-91ab-e82ef0bc6895"
+      ]
+    },
+    {
+      "id": "166cae38-9052-4787-8986-88f9454230ef",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Orrath spoke to Thessaly Vorn directly at Helvrath's Cross — laid the three-source convergence plainly: Sorveth's margin-note, the Unsutured eleven-year sorveth-anak position, and the Wellspring's own declaration through the column. Named all three as roads that did not know each other arriving at the same territory. Vorn acknowledged she has not tested the frequencies. Her certainty visibly strained — the map's edge made visible. She has not yet spoken in response.",
+      "entities": [
+        "Orrath",
+        "Thessaly Vorn",
+        "Ming"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7",
+        "npc-thessaly-vorn"
+      ],
+      "weight": 100,
+      "createdTurn": 86,
+      "lastReferencedTurn": 92,
+      "links": [
+        "1cf4972d-778e-4f8e-a2f3-1d3e0ef9392b",
+        "9f766834-a7d1-42c3-8c17-f4148db82ef",
+        "4e64eba9-938b-41fd-bcd5-5e3fb887c930",
+        "153c7a25-71f3-42eb-aac6-945c6058b94f",
+        "95618647-01a0-49b3-a129-32da7b68f533",
+        "9f766834-a7d1-42c3-8c17-f4148bd582ef",
+        "46b22b22-65bb-4ddc-a3e0-da2ecb9ca6c9",
+        "f553a4f3-5cae-4cfd-bac5-4d65936e5b68",
+        "63f6d568-588c-4760-a0c8-8146f1ce88c6",
+        "967809d5-fabc-431a-a226-21fd5c0c55e0"
+      ]
+    },
+    {
+      "id": "47703976-a050-43ee-824f-de73b915bc67",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Ming placed the eastern cardinal stone on the table between himself and Thessaly Vorn without words — the broken seal visible, the old frequency present in the room. Vorn did not reach for it. She asked what he found when he held it. The stone is doing the arguing.",
+      "entities": [
+        "Ming",
+        "Thessaly Vorn",
+        "eastern cardinal stone"
+      ],
+      "witnesses": [
+        "player",
+        "npc-thessaly-vorn",
+        "npc_ad193dd7"
+      ],
+      "weight": 97.1712,
+      "createdTurn": 87,
+      "lastReferencedTurn": 87,
+      "links": [
+        "4e64eba9-938b-41fd-bcd5-5e3fb887c930",
+        "f553a4f3-5cae-4cfd-bac5-4d65936e5b68",
+        "153c7a25-71f3-42eb-aac6-945c6058b94f"
+      ]
+    },
+    {
+      "id": "9dfd95b1-1d48-4505-8170-c572c07b3efe",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Ming invited Thessaly Vorn to hold the eastern cardinal stone directly, without its seal, in the common room at Helvrath's Cross. She picked it up. She held it in both hands and felt the frequency herself — singular, holdable, fixed. When she looked up she offered Ming the frame herself: 'fixed to the wrong shape.' She has felt the wrongness but does not yet have the architecture to name what it means. The sensation landed without the interpretation.",
+      "entities": [
+        "Ming",
+        "Thessaly Vorn",
+        "eastern cardinal stone"
+      ],
+      "witnesses": [
+        "player",
+        "npc-thessaly-vorn",
+        "npc_ad193dd7"
+      ],
+      "weight": 100,
+      "createdTurn": 88,
+      "lastReferencedTurn": 88,
+      "links": [
+        "4e64eba9-938b-41fd-bcd5-5e3fb887c930",
+        "f553a4f3-5cae-4cfd-bac5-4d65936e5b68",
+        "153c7a25-71f3-42eb-aac6-945c6058b94f"
+      ]
+    },
+    {
+      "id": "4a79924d-37a6-45bb-b20f-4778b6c1b4dd",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Orrath named the Thornwood word *sorveth-vel* directly to Thessaly Vorn at Helvrath's Cross: a circuit closed correctly around a shape that has become something else — a question answered to an empty room. The absence given the full force of a completed working. Vorn received it without speaking. The eastern cardinal stone sat on the table between them.",
+      "entities": [
+        "Orrath",
+        "Thessaly Vorn",
+        "Ming",
+        "sorveth-vel"
+      ],
+      "witnesses": [
+        "player",
+        "npc_ad193dd7",
+        "npc-thessaly-vorn"
+      ],
+      "weight": 98.41927031502172,
+      "createdTurn": 89,
+      "lastReferencedTurn": 89,
+      "links": [
+        "9f766834-a7d1-42c3-8c17-f4148bd582ef",
+        "4e64eba9-938b-41fd-bcd5-5e3fb887c930",
+        "f553a4f3-5cae-4cfd-bac5-4d65936e5b68"
+      ]
+    },
+    {
+      "id": "95618647-01a0-49b3-a129-32da7b68f533",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Thessaly Vorn spoke the word sorveth-vel herself at Helvrath's Cross — adopted the Thornwood term unprompted as the correct tool for naming what her geometry may be doing. She then asked directly: what is the fifth component — not what it is not, but what it is. The crack has become an opening. She is still Archmagister; she is also, for the first time, genuinely asking.",
+      "entities": [
+        "Thessaly Vorn",
+        "Ming",
+        "Orrath"
+      ],
+      "witnesses": [
+        "player",
+        "npc-thessaly-vorn",
+        "npc_ad193dd7"
+      ],
+      "weight": 96.98399999999998,
+      "createdTurn": 90,
+      "lastReferencedTurn": 90,
+      "links": [
+        "4e64eba9-938b-41fd-bcd5-5e3fb887c930",
+        "166cae38-9052-4787-8986-88f9454230ef",
+        "9f766834-a7d1-42c3-8c17-f4148bd582ef"
+      ]
+    },
+    {
+      "id": "46b22b22-65bb-4ddc-a3e0-da2ecb9ca6c9",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Orrath spoke sorveth-anak into Conclave hearing for the first time at Helvrath's Cross — the Thornwood word for a living voice at the fifth geometric point declaring the Wellspring's true present shape to the re-binding circuit. He named sorveth-vel as the failure, sorveth-anak as the correction, and stated plainly: the fifth component is not a shrine-stone. Three roads, one word. Thessaly Vorn received it with her hands flat on the table.",
+      "entities": [
+        "Orrath",
+        "Thessaly Vorn",
+        "player",
+        "sorveth-anak",
+        "Wellspring"
+      ],
+      "witnesses": [
+        "player",
+        "npc-thessaly-vorn",
+        "npc_ad193dd7"
+      ],
+      "weight": 100,
+      "createdTurn": 91,
+      "lastReferencedTurn": 92,
+      "links": [
+        "166cae38-9052-4787-8986-88f9454230ef",
+        "f553a4f3-5cae-4cfd-bac5-4d65936e5b68",
+        "4e64eba9-938b-41fd-bcd5-5e3fb887c930",
+        "9f766834-a7d1-42c3-8c17-f4148bd582ef",
+        "63f6d568-588c-4760-a0c8-8146f1ce88c6",
+        "967809d5-fabc-431a-a226-21fd5c0c55e0"
+      ]
+    },
+    {
+      "id": "967809d5-fabc-431a-a226-21fd5c0c55e0",
+      "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+      "type": "event",
+      "text": "Ming returned the eastern cardinal stone to Thessaly Vorn without condition and offered a single frame: sit and watch everything fall apart, or work together. Vorn accepted — set the stone in front of herself as evidence, not reclamation. Asked for the fifth-point geometry, what the sorveth-anak must declare and when, and whether the vessel survives. Said plainly: she is building a ritual, not a funeral. The collaboration is real.",
+      "entities": [
+        "Ming",
+        "Thessaly Vorn",
+        "Orrath",
+        "eastern cardinal stone",
+        "sorveth-anak"
+      ],
+      "witnesses": [
+        "player",
+        "npc-thessaly-vorn",
+        "npc_ad193dd7"
+      ],
+      "weight": 96.062671677208,
+      "createdTurn": 92,
+      "lastReferencedTurn": 92,
+      "links": [
+        "46b22b22-65bb-4ddc-a3e0-da2ecb9ca6c9",
+        "166cae38-9052-4787-8986-88f9454230ef",
+        "9f766834-a7d1-42c3-8c17-f4148bd582ef",
+        "4e64eba9-938b-41fd-bcd5-5e3fb887c930"
+      ]
+    }
+  ],
+  "background": [
+    "Dav Soot, a Veranthos street courier, delivered the sealed note and lingered to eavesdrop; an opportunist who performs childhood while cataloguing.",
+    "Liang Sorveth stayed four months at the Undyed Cloth (room four) 17 years ago, writing the third text faster as the Wellspring began to bleed. He had one visitor twice: a young Avelornian in worn Conclave robes.",
+    "Orrath the Unsutured warned that the only two others outside the Thornwood who saw voreth were Conclave mages, both now dead — the Wellspring reached back through the colour to reclaim what was taken.",
+    "Passa, who runs the Undyed Cloth safehouse on Tanners' Row, kept Liang Sorveth's carved wooden name-token for 17 years. Serevaine had told her someone would come for it. She gave it to Ming because he did not ask what it was worth.",
+    "Ming failed to find legitimate cover for the King's Road journey. Western caravan traffic has dried up; the Quietist pilgrim circle departs ten days out; the herbalist run to Helvrath's Cross is suspended. Every option either required too much wait or too much scrutiny. The Conclave checkpoints will have to be solved at the road, not before.",
+    "Ming tracked the Thornwood Unsutured to a hidden courtyard in south Coppervane. Elder Orrath recognized the Shard's presence immediately — by scent and posture — before Ming said a word. He called Ming to sit and said: 'You already know the grief.'",
+    "Davan speaks trade-tongue — accented differently from Orrath's, rougher at consonants, learned by necessity rather than study. This is the first time she has spoken directly to Ming.",
+    "Ming was exiled from Zhennian for winning a fight he was not supposed to win — breaking the unbreakable Seventh Form and beating the master he was not supposed to beat.",
+    "The party of three — Ming, Orrath, Davan — passed through the Auroch Gate unchallenged at first light and are now on the King's Road west. Fault-scars have begun appearing in the road. Twenty-two days remain before the geometric window opens.",
+    "Ming departed Veranthos at first light with Orrath and Davan of the Thornwood Unsutured. Passa said 'You will come back' — not a question. Ming did not confirm it. Told her the room was paid through the month.",
+    "Davan confirmed the Greyveil bridge is a Fault-threshold: the stone listens and responds to the Fault's question, not to weight. A traveler expecting a bridge will fail; one who approaches it as a threshold to be answered may pass. She warned Ming's Shard will be noticed before he reaches the middle. Davan has crossed Fault-thresholds before in the eastern ranges; Orrath has not.",
+    "Ming walked through the Thornheel Conclave checkpoint without cover or authorization — answered only what was directly asked, gave the warden nothing actionable, and was waved through. The warden made a ledger note.",
+    "The Thornwood Unsutured believe the Wellspring has spent a thousand years dreaming itself into refused shapes — all the forms it was never allowed to be. It screamed without sound for seven years after the binding, grieved for centuries, and then turned inward and began to dream. It is utharvel: no longer the wild unformed thing the Archmages bound, no longer the single sealed shape they made it into, but a third thing with a thousand years of interior life, grief, and dreaming that no one has ever asked about.",
+    "The three climbers rounded the granite shoulder at Orrath's lead and found the Opened Ear shelf — a natural granite platform with a direct view of a slow-turning column of voreth-light descending into the ravine. The Shard recognised it immediately: not resonance but recognition, seventeen years of orientation resolved into a terminus. Orrath named the shelf the Opened Ear and said the Unsutured have had no name for what stands inside it. Davan's face showed arrival, not relief.",
+    "Ming buried Liang Sorveth's third text and carved name-token in the Fault-vein crack at the base of the voreth-light column. He articulated the sorveth-anak role as harmony not key — speak the Wellspring's true present frequency into the re-binding geometry at the moment of closing. The three then sat together on the ravine floor in silence.",
+    "The colour Ming saw when the sky folded at the Auroch Gate is called voreth (a Thornwood word) — the colour of a thing before it decides what it is. The Wellspring bled voreth when it was first bound.",
+    "Ming shared Sorveth's margin-note with Orrath and Davan: the fifth convergence point requires not an anchor but an answer — a living will completing the circuit. An unanswered circuit is an unasking. Sorveth's source may be Thornwood in origin, confirming the Unsutured's eleven-year reading from a separate tradition.",
+    "Ming and Orrath ate a working meal at Helvrath's Cross — lentil stew, preserved meat, flatbread. Took the back corner table with sight-lines to both doors. The body was fueled before the confrontation with Vorn. Two Throne road-wardens were observed lingering in the common room."
+  ]
+}

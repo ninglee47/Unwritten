@@ -1,0 +1,359 @@
+{
+  "storyId": "31e392c7-c64b-4e3e-8dd7-8262f4df91a1",
+  "index": 6,
+  "title": "The Stone on the Table",
+  "recap": "From the Auric ravine to a warding tent to a mountain road in the dark, the night was spent in calculated trespass and careful restraint — two guards disarmed without death, one cardinal stone taken from its stand, a message left in plain trade-tongue for a woman who would come angry and afraid. The gambit was not theft. It was a demonstration of reach, a proof that something inside Vorn's certainty could be moved. Orrath witnessed it from his rock at the path's edge, said the true thing — that the combination of anger and fear is a blade in someone else's hand — and then rose without argument and walked south. Helvrath's Cross received them quietly: a stone inn, a humming waymarker, food that was correct rather than good, and the long patience of men who have done what they came to do and must now wait for the world to respond.\n\nVorn arrived past the deepest hour of night with two wardens and eleven years of load-bearing certainty, and sat down at the table because she had decided to. Orrath spoke his three roads — the margin-note, the sorveth-anak, the Wellspring's own declaration — and the map behind her eyes acquired an edge that had not been there before. Then the eastern cardinal stone went on the table, its seal broken, its old frequency humming an answer to a question the Wellspring has already moved past. When Vorn picked it up and held it without the seal for the first time, she felt the wrongness she could not yet name — and offered it back as a frame: *you are going to tell me it is fixed to the wrong shape.* The chapter ends there, on the knife's edge between a woman's certainty and the thing that is about to replace it, the room holding its breath, the next word still unspoken.",
+  "turningPoint": "Thessaly Vorn holds the eastern cardinal stone with bare hands, feels the discordant frequency of an anchor built for a shape the Wellspring has already outgrown, and speaks the frame aloud — *you are going to tell me it is fixed to the wrong shape* — not as a concession, but as the first crack in eleven years of architectural certainty, the moment her question becomes genuinely open.",
+  "narrativeTurns": [
+    {
+      "index": 76,
+      "chapter": 6,
+      "playerInput": "I said to him: It means we also need the shrine components to start the testimony so the Willspring can exist in peace within the mountains. No one would listen to us unless we show them we have the ability to make changes. We take one of it, let her come to us and force her to be on the table with us.\n\nThen I ask him to wait aside, take the spear and walk straight into the camp, guards are not a problem. The first guard notice me and draw his sword out and yelling at me to stop. I keep approaching, blocked his sword, Stab his wrist and disarmed him. The second guard was knocked out by spear before he aware what is going on. I entered the tent take one component. I go out to tell the first guard who's covering his hand with blood that I will go to talk to his master. Tell her to wait for me.",
+      "narration": "You explain it to Orrath in a single clean sentence — the shrine-component is not theft, it is a demonstration. Without the ability to change something inside Vorn's certainty, the three-source convergence remains a scholar's argument. You will take one component and let the absence speak first. Then she will come to the table because she has no other choice.\n\nOrrath receives this. He does not agree and he does not argue. He steps off the path and sits on a rock with the stillness of a man who has already said what he had to say and will now witness what comes next. That is the only answer he gives.\n\nYou take the spear and walk straight into camp.\n\nThe first guard clocks you at thirty yards — a stranger, no Conclave blue, carrying a spear on the approach path at last light. He draws and shouts the order to stop. You do not stop. The distance closes at your pace, not his, and when he swings the blade up to bar your way your left hand is already there — the spear's haft catches his wrist on the rising arc, not a strike, a redirection, and his sword pivots out of the grip as his wrist bends further than it wants to. He gasps. The blade hits the granite. You step past him. The second guard is moving from the tent-line to the right, hand on his weapon — he has not fully processed what he just saw — and the spear's shaft catches him across the temple with the flat economy of a form that does not waste motion. He goes down without completing the draw. Clean. No one is dead.\n\nThe warding tent is identifiable by the pale threadwork on the canvas and the faint luminous pressure at the entrance seam — the same amber resonance as the Fault-veins but sealed, contained, human-made. Inside: four stone components on cloth-covered stands, each attended by its own small geometric seal drawn in ley-chalk. The warmth of them is not the Wellspring's warmth. Closer to an echo. You take the smallest — a grey-green cardinal stone, perhaps palm-sized — and feel the seal break as it leaves the stand. The remaining three pulse once, brighter, and hold. The alarm is already moving.\n\nYou walk back out into the cooling mountain air. The first guard is on his knees, his sword arm pressed to his chest, blood welling between his fingers. You crouch briefly to his eye level and speak in plain trade-tongue: go to your Archmagister and tell her a man came down from the Auric ravine, took the eastern component, disarmed her wardens without killing them, and is waiting at Helvrath's Cross waystation to speak with her. Tell her he knows what is wrong with the ritual.\n\nYou rise, pocket the component — it sits against your ribs, close to the Shard, and the two frequencies do not harmonize — and walk back toward the path where Orrath is waiting.",
+      "ask": "Orrath is on the rock where you left him. He has heard the sounds from the camp. The component is in your possession. What do you do?",
+      "suggestedActions": [
+        "Say nothing to Orrath — keep walking toward the King's Road and let him fall in if he chooses",
+        "Tell Orrath plainly: the door is open now; we move to Helvrath's Cross before the wardens regroup",
+        "Hand the component to Orrath to carry — it should not sit against the Shard all the way down the mountain",
+        "Ask Orrath how long before Conclave reinforcements could reach Helvrath's Cross ahead of Vorn herself",
+        "Pause and feel whether the Shard has any reaction to the component's proximity — what the two frequencies do to each other"
+      ],
+      "diceResult": {
+        "stat": "Agility",
+        "dc": 16,
+        "d20": 12,
+        "statMod": 3,
+        "mentalMod": 1,
+        "situationalModifier": 0,
+        "total": 16,
+        "outcome": "success",
+        "reason": "Combat against armed guards with intent to disarm and neutralize without killing. Multiple simultaneous threats (first guard's sword, second guard's awareness) require precise, risky execution. High stakes: failure means alarm raised, reinforcements, mission compromised."
+      },
+      "sceneImage": {
+        "path": "stories/31e392c7-c64b-4e3e-8dd7-8262f4df91a1/scenes/76.png",
+        "kind": "action",
+        "priority": 88,
+        "prompt": "A lean spear-master in travel-worn clothes redirects a Conclave guard's sword with one fluid motion of a wooden spear haft in amber last light outside a canvas camp on a mountain approach — economical, no wasted movement, the blade spinning away into granite Characters depicted — Ming (Lean Far-Eastern man, weathered, dark eyes, foreign-cut travelling coat, spear-callus on the right palm but no weapon; moves with the economy of a martial discipline.); Orrath (Old as mapped terrain, face weathered deep, Thornwood clan-braid, heavy woven cloak, tends fire with a short stick). Illustration for a High Fantasy story (Epic, urgent, morally complex — heroism is possible but costly). Cinematic, atmospheric, consistent character appearance."
+      },
+      "at": "2026-06-23T22:30:06.338Z"
+    },
+    {
+      "index": 77,
+      "chapter": 6,
+      "playerInput": "Tell Orrath plainly: the door is open now; we move to Helvrath's Cross before the wardens regroup",
+      "narration": "You return to where Orrath sits on his rock at the path's edge. He has not moved. His eyes are on the staging camp's lantern-blue, reading the shape of the alarm — the doubled warden-movement at the tent-line, the single figure running toward the warding tent. He already knows what happened inside. He has been sitting with it.\n\nYou tell him plainly: the door is open now. We move to Helvrath's Cross before the wardens regroup.\n\nOrrath is quiet for a moment. Not the naming-silence — something older and harder than that. Then he rises from the rock in a single unhurried motion and adjusts his pack across his shoulders. He looks at you directly, the rare full look, and holds it for one breath. 'The door is open,' he says. 'Yes.' He does not say: and I told you the cost. He does not say: I do not know whether this was right. He says the true thing only: 'She will come angry. And afraid. The combination is not a door — it is a blade in someone else's hand.' He pauses. 'We should be at Helvrath's Cross before she chooses what to do with it.' That is all. He turns to the path.\n\nYou move. The High Approach gives way to the descent road quickly — steeper here than the ravine path, the granite underfoot loose-sheeted and requiring attention. The last of the day's light is going amber-grey at the mountain's western shoulder. Below, the King's Road is a pale line threading south toward Helvrath's Cross, perhaps two hours at a moving pace. The eastern cardinal stone sits against your ribs beside the Shard. The two frequencies do not harmonize — a faint dissonance, low and persistent, like a string tuned a quarter-step wrong. You carry it without adjusting to it. Behind you, the staging camp's lantern-blue is brightening as the dark comes on. Someone is already moving on the upper path with a torch.",
+      "ask": "You are on the descent road, the staging camp at your back, Helvrath's Cross two hours ahead. The torch on the upper path is moving with purpose — a warden, or a Sealer. What do you do?",
+      "suggestedActions": [
+        "Move at full pace — reach Helvrath's Cross before any pursuit and choose your ground there",
+        "Find a switchback off the main road and move parallel — arrive at the waystation without being tracked directly",
+        "Let Orrath set the pace and use the descent interval to think through how you will open the conversation with Vorn",
+        "Ask Orrath what he knows of Helvrath's Cross — its layout, who shelters there, what ground it gives you"
+      ],
+      "sceneImage": {
+        "path": "stories/31e392c7-c64b-4e3e-8dd7-8262f4df91a1/scenes/77.png",
+        "kind": "scene",
+        "priority": 62,
+        "prompt": "Two figures descending a steep granite mountain road at dusk — a lean spear-master and a grey-cloaked elder shaman moving fast under an amber-grey sky, a Conclave camp's lantern-blue glowing on the ridge behind them, a single torch moving on the upper path in pursuit Characters depicted — Ming (Lean Far-Eastern man, weathered, dark eyes, foreign-cut travelling coat, spear-callus on the right palm but no weapon; moves with the economy of a martial discipline.); Orrath (Old as mapped terrain, face weathered deep, Thornwood clan-braid, heavy woven cloak, tends fire with a short stick). Illustration for a High Fantasy story (Epic, urgent, morally complex — heroism is possible but costly). Cinematic, atmospheric, consistent character appearance."
+      },
+      "at": "2026-06-23T22:35:18.332Z"
+    },
+    {
+      "index": 78,
+      "chapter": 6,
+      "playerInput": "Ask Orrath what he knows of Helvrath's Cross — its layout, who shelters there, what ground it gives you",
+      "narration": "The descent road levels briefly where the granite gives way to packed earth — the mountain releasing you to the foothills' grammar. The last amber light is gone from the peaks; the sky above the western shoulder holds the deep blue of a day that is finished but not yet night. The torch behind you on the upper path has not gained ground. You have the interval.\n\nYou ask Orrath what he knows of Helvrath's Cross as you walk — its layout, who shelters there, what ground it gives you.\n\nOrrath does not slow his pace. He speaks into the path ahead, the trade-tongue precise and without decoration. 'A waystation. Old — older than the Conclave's claim on the mountain road. Built where two trade-routes cross: the King's Road coming west from Veranthos, and the southern spur that drops toward the Thornwood lowlands.' A pause, footfall on compressed earth. 'One inn. Stone-built, two stories. The sign is a bull's head — the family name is Ceth, and the daughter runs it now, the father died two winters past. She does not ask about cargo.' He says this last part the way he says everything that is technical information — without emphasis, because the emphasis is already in the content. 'A stable. A well. An old Covenant waymarker at the crossing itself — the kind the First Archmages placed along the ley-road before the binding settled. The stone still hums on clear nights.' Another pause, slightly longer. 'Perhaps thirty people shelter there at any given time. Traders off the King's Road, a few who move between the Thornwood lowland bands and Veranthos. Some who are neither and say little.' He glances at you once, sideways, the brief direct look. 'The Grey-Faction has used it. Not recently, to my knowledge. But the bisected-eye mark has been seen on cargo moving through.'\n\nHe is quiet for ten paces. Then: 'It gives you ground because it is not Conclave territory. The wardens do not maintain a post there — the innkeeper would not permit it and the Throne has not pressed the question. Vorn will come, if she comes, as a person without wardens behind her or she will come with wardens and announce to everyone sheltering there what she is protecting.' He stops — not the body, the speech. That is the whole account. 'Either tells you something about what she decides we are worth.' The path curves south. Somewhere below, invisible in the dark, Helvrath's Cross is waiting with its stone inn and its humming waymarker and its population of people who move between named things without belonging to any of them.",
+      "ask": "What do you do as you approach Helvrath's Cross?",
+      "suggestedActions": [
+        "Enter the inn quietly, take a back table with sight-lines to both doors, and wait for Vorn without announcing yourself",
+        "Ask Orrath whether the Covenant waymarker at the crossing might respond to the cardinal stone or the Shard — read the ground before entering",
+        "Speak to the innkeeper Ceth directly before settling in — learn who else is sheltering tonight and whether any Conclave riders have already passed through",
+        "Find a position outside the inn with the waymarker between you and the King's Road — meet Vorn in the open, not enclosed",
+        "Give Orrath the eastern cardinal stone to carry separately tonight — if Vorn arrives with wardens, they should not find both the stone and the Shard on the same person"
+      ],
+      "at": "2026-06-23T22:39:35.389Z"
+    },
+    {
+      "index": 79,
+      "chapter": 6,
+      "playerInput": "Enter the inn quietly, take a back table with sight-lines to both doors, and wait for Vorn without announcing yourself",
+      "narration": "The King's Road finds you an hour south of the mountain's skirt — hard-packed earth, ley-lantern posts spaced wide enough that the dark pools between them. Helvrath's Cross announces itself before it is visible: woodsmoke, a mule's complaint, the low warm register of people who have stopped moving for the night. Then the waystation itself, a stone-built square at the crossing of two roads, the bull's-head sign swinging without wind above a door that lets out a blade of hearth-light when a trader shoulders through it.\n\nYou enter quietly. Not performing quiet — the body's default, the spear-master's habit of reading a room from the threshold before committing weight. The common room is low-ceilinged, timber-beamed, perhaps twenty people distributed across it in the configurations of people who do not know each other and are not trying to: three traders at the long table near the fire, two Thornwood-marked men playing something with tiles near the far wall, a woman in undyed wool asleep in her chair, a pair of Throne-liveried road-wardens eating without talking. The road-wardens clock you. They do not move. You are not wearing Conclave blue, you have not arrived at speed, and your spear is carried correctly. You are a traveler. They return to their food.\n\nThe back corner gives you what you need: a table that no one has chosen because it is away from the fire's warmth, which means it is also away from the fire's attention. From here the entry door is in full view. The side door — through the kitchen, you read it from the draft — is in partial view. Orrath takes the bench across from you without instruction, his back to the wall, his eyes on the room with the unhurried quality of a man who has been reading rooms since before you were born. The eastern cardinal stone sits against your ribs beside the Shard. The dissonance between them is low and persistent. You set the spear against the wall where it is reachable without being declarative.\n\nThe innkeeper — a woman in her mid-thirties, broad-shouldered, moving with the economy of someone who has been on her feet since before dawn — brings two cups of something hot without being asked. She looks at you for a half-second longer than she looks at other customers. Not alarm. Assessment. Then she moves back toward the bar. She has read that you are waiting for something, and has decided that is not her business tonight. Ceth's daughter. Her father dead two winters past. The inn still runs.\n\nThe waymarker is visible through the common room's single window — the old Covenant stone at the crossing outside, pale in the dark, humming at a frequency you feel rather than hear. The Shard registers it. You do not reach toward it. You settle your breath at the sternum, let the room resolve around you, and wait. Vorn may come tonight. She may come tomorrow. She may come with wardens or without them, and that answer will tell you more than the first words she speaks.",
+      "ask": "The room is yours for now — Orrath across from you, sight-lines to both doors, the stone humming outside. How do you spend the waiting hours before Vorn arrives?",
+      "suggestedActions": [
+        "Sit in stillness and let the room come to you — read every person present before Vorn arrives, so there are no surprises",
+        "Order food and eat — the body has climbed a mountain and fought two men; it requires fuel before another kind of fight",
+        "Speak quietly with Orrath about how to open the conversation with Vorn — what the first words should be, who speaks them",
+        "Take out the eastern cardinal stone and study it — learn what you are holding before she arrives to claim it",
+        "Watch the Thornwood-marked men at the tile game and determine whether they are foothills band members or travelers"
+      ],
+      "sceneImage": {
+        "path": "stories/31e392c7-c64b-4e3e-8dd7-8262f4df91a1/scenes/79.png",
+        "kind": "scene",
+        "priority": 55,
+        "prompt": "A lean spear master and a weathered elder shaman sit at a back-corner table in a low stone inn at night, two cups of something hot between them, a worn spear leaning against the wall within reach, firelight from across the room catching their faces in half-shadow while they watch the door Characters depicted — Ming (Lean Far-Eastern man, weathered, dark eyes, foreign-cut travelling coat, spear-callus on the right palm but no weapon; moves with the economy of a martial discipline.); Orrath (Old as mapped terrain, face weathered deep, Thornwood clan-braid, heavy woven cloak, tends fire with a short stick). Illustration for a High Fantasy story (Epic, urgent, morally complex — heroism is possible but costly). Cinematic, atmospheric, consistent character appearance."
+      },
+      "at": "2026-06-23T22:45:52.811Z"
+    },
+    {
+      "index": 80,
+      "chapter": 6,
+      "playerInput": "Order food and eat — the body has climbed a mountain and fought two men; it requires fuel before another kind of fight",
+      "narration": "You catch Ceth's daughter on her next pass and order without ceremony — whatever is hot, whatever is ready, two portions. She reads the request for what it is: a working body's need, not a preference. She does not ask. She goes.\n\nThe food arrives in twelve minutes. A clay pot of something between stew and porridge — lentils, a root vegetable whose name you do not know in trade-tongue, a dark preserved meat that is not quite lamb. Two rounds of flatbread, slightly charred on one side. A refill of the hot cups without being asked. It is not a good meal. It is the correct meal. You eat with the same economy you apply to everything the body requires — steadily, without waste, clearing the bowl in the way of a man who has learned not to leave food when the next meal's timing is uncertain.\n\nOrrath eats more slowly, in the shaman's manner, with the quality of attention he brings to things worth attending. He tears the flatbread precisely and does not speak. Across the room the two road-wardens have finished and are not leaving — they have ordered something to drink and settled their posture into the particular arrangement of men who have decided to stay without deciding why. One of them glances toward your corner twice in the span of five minutes. Not alarm. The trained habit of a warden reading a room for the thing that does not belong, finding you, and not yet naming what category you occupy.\n\nThe eastern cardinal stone against your ribs is a low persistent pressure — not painful, not warm the way the Shard is warm. A wrong frequency, patient and indifferent. The Shard beside it has not moved since the column stilled. The waymarker outside hums at a frequency you feel through the bench and the soles of your boots. Somewhere on the King's Road, a Conclave Archmagister has received a message from a bleeding warden. The mountain is above. The meal is in front of you. The body has what it needs. Now the waiting.",
+      "ask": "The meal is finished. The room holds — the road-wardens are lingering, the Thornwood men are still at their tiles, Orrath sits across from you in the back corner. Vorn has not arrived. What do you do?",
+      "suggestedActions": [
+        "Study the two road-wardens — read whether their lingering is routine or whether word of the staging camp alarm has already reached the Cross",
+        "Ask Orrath quietly how he wants to position himself when Vorn arrives — whether he speaks or holds silence",
+        "Take the eastern cardinal stone from your pocket and set it on the table between you and Orrath — let it sit in the open where Vorn will see it when she enters",
+        "Step outside to the waymarker stone and let the Shard register the old Covenant frequency — read whether the two harmonize or conflict",
+        "Rest your eyes and let the body recover fully — conserve everything for the conversation that is coming"
+      ],
+      "at": "2026-06-23T22:50:31.030Z"
+    },
+    {
+      "index": 81,
+      "chapter": 6,
+      "playerInput": "Ask Orrath quietly how he wants to position himself when Vorn arrives — whether he speaks or holds silence",
+      "narration": "The common room has thinned since you ate. The three traders at the long table have gone up to rooms; one of the Thornwood tile-players is asleep in his chair, the other gone. The two road-wardens remain — a second round in front of them now, a deliberate patience that you read as professional rather than suspicious. They are waiting for something too, or the habit of waiting has become indistinguishable from the thing itself.\n\nYou ask Orrath quietly, across the table, how he wants to position himself when Vorn arrives. Whether he speaks or holds silence.\n\nOrrath turns his cup in both hands once — the thinking gesture, the shaman's equivalent of a breath. He looks at the entry door, then at the side door through the kitchen, then back at the cup. When he speaks it is in the register he uses for things he has been deciding since before you asked.\n\n'Silence.' He says it without hesitation, then qualifies it with precision. 'Not because I have nothing to say. Because I am Thornwood. The moment she sees me she will place us — the three delegations, the foothills boundary, eleven years of refusal. I become the argument she has already answered.' A pause, his thumbs still against the cup. 'If you carry the three-source convergence first, you are a stranger with a shrine-component she cannot explain. That is a question she has not answered. I am an answer she has already given.' He looks at you directly. 'When she can no longer close the question with the answer she prepared — then I speak. Not before.'\n\nHe sets the cup down. One more thing, quieter, without looking up: 'She will bring at least one warden. Probably two. They will read me as the reason you came down from the mountain with her property.' His hands open slightly on the table — the same small motion as the ravine floor, the burden-distributed motion. 'I will sit where I am sitting. I will not move unless I need to. This is also a kind of testimony.'\n\nThe waymarker outside hums through the bench and the soles of your boots. The eastern cardinal stone against your ribs sits in its wrong frequency, patient. The inn is quiet in the way of things that are waiting for their next shape.",
+      "ask": "Vorn has not yet arrived. The night is deep, the room is thinning, and Orrath has told you his position. What do you do while you wait?",
+      "suggestedActions": [
+        "Sit with the silence and let the body rest — conserve what you have for the conversation ahead",
+        "Study the eastern cardinal stone quietly under the table — learn its frequency before Vorn demands it back",
+        "Watch the two road-wardens and read whether their patience is coincidence or whether Conclave word has already reached the King's Road",
+        "Order a second cup and ask Ceth's daughter what she has seen come down from the mountain road tonight",
+        "Prepare the three-source convergence argument in your mind — sequence the geography so it arrives in the right order when Vorn sits down"
+      ],
+      "at": "2026-06-23T22:51:56.641Z"
+    },
+    {
+      "index": 82,
+      "chapter": 6,
+      "playerInput": "Study the eastern cardinal stone quietly under the table — learn its frequency before Vorn demands it back",
+      "narration": "You draw the eastern cardinal stone into your lap beneath the table, out of the sightline of the two road-wardens, and hold it in both hands the way you hold the spear before a form — not gripping, receiving. The common room continues around you: the fire settling, the wardens murmuring something low, Ceth's daughter moving bottles behind the bar. Orrath reads what you are doing without looking directly at it and adjusts his posture — a fraction wider, a fraction more present — to block the wardens' angle. He does not look at you. He does not need to.\n\nThe stone is grey-green and palm-sized and cool in the way of something that has been indoors for a long time. Its surface is smooth except for the Conclave's ley-chalk geometry, now broken where the seal lifted — you can feel the interruption under your thumb, a line that no longer closes. Its frequency is not the Wellspring's frequency. That much you already knew from the walk down. What you learn now, holding it quietly in the dark, is more specific: it is an anchor. Not a key, not a living thing — an anchor for a shape. The shape it is anchored to is old. It predates the Conclave, predates Thessaly Vorn, predates the failing binding — it is a shape the First Archmages chose because it was singular and holdable and could be fixed in ley-chalk and stone. The shape of the Wellspring as it was a thousand years ago. The shape that no longer exists.\n\nThe Shard responds — not with warmth, not with gladness, but with something you can only name as recognition. The way a traveler recognizes a portrait of someone they knew, painted before that person became what they now are. The anchor and the Shard are not opposed. They are simply from different times. The anchor holds an answer to a question the Wellspring has already moved past.\n\nYou sit with this for a long time. The fire across the room pops once. Orrath lifts his cup. The stone in your lap is cool and precise and built for a world that is still technically the world — but only just. When you return it to your coat pocket and bring your hands back to the table, you know what you are holding: not a weapon, not a bargaining chip. A relic. An answer from before the question changed. Vorn has built her entire geometry around four of these, and she does not yet know they are portraits of a shape that has been dreaming itself into something else for a thousand years.",
+      "ask": "The common room is quiet. The wardens have not moved. The fire is low. Helvrath's Cross holds its waiting posture. What do you do?",
+      "suggestedActions": [
+        "Sit with the knowledge — let the stillness hold until Vorn arrives; do not spend what you now know before the moment requires it",
+        "Speak quietly to Orrath: tell him what the stone's frequency revealed — that it anchors an old shape, a portrait of what the Wellspring was, not what it is",
+        "Watch the two road-wardens more carefully — read whether they are waiting for Vorn's arrival or simply lingering by professional habit",
+        "Step outside briefly to stand at the Covenant waymarker in the dark — let the stone's frequency and the marker's hum speak to each other, see what the interval tells you",
+        "Order something from Ceth's daughter and use the exchange to read her — whether she has already been approached by Conclave riders ahead of Vorn"
+      ],
+      "at": "2026-06-23T22:58:46.441Z"
+    },
+    {
+      "index": 83,
+      "chapter": 6,
+      "playerInput": "Sit with the knowledge — let the stillness hold until Vorn arrives; do not spend what you now know before the moment requires it",
+      "narration": "The fire across the room has burned down to a steady, considered heat — no longer throwing light, only holding it. The common room has thinned to its residue: the two road-wardens with their third round, a trader asleep against the wall with his pack beneath his feet, Ceth's daughter moving with diminished frequency behind the bar, wiping the same section of counter in the way of people who need something to do with their hands while they wait for the night to close.\n\nYou do not reach for the eastern cardinal stone again. You do not rehearse the three-source convergence or model Vorn's opening position or calculate the wardens' riding time from the staging camp. You let the knowledge sit where you put it — behind the sternum, alongside the Shard, in the body that climbed the mountain and answered the Wellspring's question and walked into a warded tent and came out the other side. The body knows it. The body will not forget it. Spending it now, in the dark, in your own mind, would only wear the edge.\n\nOrrath has not moved in a long time. His cup is empty and he has not asked for another. His eyes are on the middle distance — not the door, not you, not the wardens — the particular quality of stillness that is not absence but a very full presence turned inward. The shaman's watch. You recognize it the way you recognize a form held correctly in someone else's body.\n\nThe Shard is quiet at your sternum. Not oriented, not reaching — arrived, resting, the warmth of it the same low even warmth it has held since the voreth-column stilled. The eastern cardinal stone in your coat pocket carries its discordant frequency without urgency, like a bell that has already rung and is simply decaying toward silence. The waymarker outside pulses through the bench and the soles of your boots. You let these be the only sounds that matter.\n\nSometime past the deepest hour of night — the hour when even the road-wardens' conversation has gone to single syllables — the door opens. Not with force. With the particular precision of someone who has decided exactly how much force a door requires and applied only that. Three figures enter the lamplight: two wardens in Conclave blue, road-worn, hands near weapons but not on them, reading the room with professional speed. Between them, a woman of perhaps fifty-five, grey-threaded hair pulled back without ceremony, wearing a travelling coat over Conclave threadwork that has seen mountain weather recently. She is not tall. She carries herself the way a load-bearing wall carries — not aggressively, not gently, simply as a fact of architecture. Her eyes move across the room in a single sweep and find your corner table in less time than it takes to name the motion.\n\nThessaly Vorn. Her face is the face of someone who has not slept and knows she cannot afford to show it. Underneath the certainty is the fear Orrath named on the mountain — load-bearing, structural, so long carried it has become a method. She crosses the room without speaking. Her wardens follow at a step and a half. She stops at the table's edge and looks at you — not at Orrath yet, at you — with the full weight of a person who has been carrying forty-four days since before you knew what forty-four days meant.\n\nShe says, in trade-tongue precise and entirely without heat: 'You left a man with a wrist wound and a message.' A pause, controlled breathing, the load-bearing wall receiving pressure. 'I am here. You will tell me what you think is wrong with my ritual.'",
+      "ask": "Thessaly Vorn is standing at your table. She came herself rather than sending wardens first — that tells you something. She is angry, afraid, and certain. The moment is here. What do you do?",
+      "suggestedActions": [
+        "Do not speak first — set the eastern cardinal stone on the table between you, face up, and let the broken seal speak before any words do",
+        "Invite her to sit — a conversation requires a table, not a standing interrogation — and wait to see whether she takes it",
+        "Speak in the register of a teacher explaining a technique: tell her the geometry has five points not four, and that three independent roads arrived at this conclusion without knowing each other",
+        "Look at her wardens briefly then back at her — ask her to send them to the bar before the conversation begins; what you carry is for her ears first",
+        "Say only: the component in my pocket anchors the Wellspring's old shape — a shape it no longer holds — then wait"
+      ],
+      "at": "2026-06-23T23:04:36.151Z"
+    },
+    {
+      "index": 84,
+      "chapter": 6,
+      "playerInput": "Invite her to sit — a conversation requires a table, not a standing interrogation — and wait to see whether she takes it",
+      "narration": "You do not stand. You do not reach for the stone. You look at Thessaly Vorn across the table with the quality of attention you give to terrain before you commit your weight to it, and you gesture — one open hand, toward the chair opposite. An invitation without words, precisely calibrated: a conversation requires a table, not a standing interrogation. The spear leans against the wall behind you. You wait.\n\nVorn reads the gesture. Something moves behind her eyes — not softness, not relief, something older and more technical than either. A person who has been load-bearing for eleven years recognizing that the next thing is going to require her to sit down. She pulls the chair back and sits. Her travelling coat settles around her without ceremony. She does not remove it. She does not open the sealed document case at her belt. She places both hands flat on the table, a controlled gesture that is also, you understand, the posture of someone who has decided to let the room become what it becomes rather than forcing it. Her two wardens position themselves at a half-step behind her — one angled toward the entry door, one toward the kitchen passage. The road-wardens at the far table have stopped murmuring. The whole room has adjusted its gravity.\n\nOrrath does not move. He is a still point at the table's edge — Thornwood-marked, unhurried, his empty cup in front of him, his eyes on the middle distance. Vorn's gaze crosses him on the way to you and stops for exactly one breath. You see her place him: the Unsutured, the foothills boundary, three delegations, eleven years of refusal. Her jaw does not tighten. She has more composure than Orrath predicted she would show. But her hands — flat on the table, precisely controlled — press down a fraction more. She files Orrath's presence as a question she will return to and brings her eyes back to you.\n\n'You have the component,' she says. Flat statement, not a demand yet. Her measured declarative register, the voice of a person who has not slept and is not going to pretend otherwise. 'You came down from the mountain.' A pause — she is building the frame carefully, the way she builds everything, from the foundation up. 'You said you know what is wrong with my ritual.' Her eyes are direct and without performance. 'I am sitting. Speak.'",
+      "ask": "Vorn is at the table. Her hands are flat, her wardens are behind her, and Orrath holds his silence. The eastern cardinal stone is in your coat pocket. Forty-four days remain on the Clock. How do you begin?",
+      "suggestedActions": [
+        "Begin with what you know, not what you want — tell her plainly that her four-component geometry is built around a shape the Wellspring has already left behind, and that you can demonstrate this with the stone in your pocket",
+        "Place the eastern cardinal stone on the table between you — let the broken seal speak before you do",
+        "Ask her one question before you answer hers: when did she last test the shrine-component frequencies directly, not assume them from the Covenant text",
+        "Name the three-source convergence without preamble — Sorveth's text, the Unsutured position, the Wellspring's own declaration — and tell her three roads that did not know each other arrived at the same territory",
+        "Hold her gaze for one breath and say only: the fifth component is not a stone"
+      ],
+      "at": "2026-06-23T23:08:03.263Z"
+    },
+    {
+      "index": 85,
+      "chapter": 6,
+      "playerInput": "Ask her one question before you answer hers: when did she last test the shrine-component frequencies directly, not assume them from the Covenant text",
+      "narration": "You hold Vorn's gaze for one breath — the spear-master's habit of letting the ground settle before committing weight. Then you ask, in the measured trade-tongue of a teacher who already knows what the student's answer will reveal: when did she last test the shrine-component frequencies directly. Not read them from the Covenant text. Not infer them from the geometry. Test them. Stone in hand, listening for what is actually there.\n\nThe common room is very quiet. The two road-wardens at the far table are not pretending to drink anymore.\n\nVorn's hands — flat on the table, precisely controlled — do not move. But something moves behind her eyes, and you read it the way you read terrain: a shift in the load-bearing structure, small and interior and significant. She is not reaching for a deflection. She is doing what a precise person does when a precise question arrives at the exact wrong moment — she is calculating whether the honest answer costs more than the evasion, and finding that both costs are suddenly the same size.\n\nWhen she speaks, her measured declarative register has not changed. But it is doing more work than it was a moment ago. 'The Covenant text specifies the frequency by geometric relation. The stones were verified at acquisition — each accepted the seal.' A pause, not long, exactly as long as a person needs to decide to say the next thing accurately rather than favorably. 'I have not held them directly since the sealing was applied.' Her eyes do not leave yours. 'The seal holds the frequency in place. That is the function of the seal.' She says this as a statement of method. But underneath the method, you hear — because you have been listening to load-bearing things all day — the faint harmonic of a person who has just heard their own certainty as an outside observer for the first time. She does not break. She does not yield. But the map has a visible edge now that was not visible before, and she knows you can see it.\n\nHer chin lifts, a fraction. 'Your question implies the frequencies have changed.' Not a concession. A frame, offered precisely, to see what you will place inside it. Her eyes move — briefly, the first time — to Orrath. The Thornwood elder sits in his stillness, his empty cup in front of him, his gaze on the middle distance. She files him again. Returns to you. 'Answer mine now. What do you think is wrong with my ritual.'",
+      "ask": "The door is open and the edge is showing. How do you answer her — and what do you choose to place inside the frame she has offered?",
+      "suggestedActions": [
+        "Answer plainly: her geometry is built around the Wellspring's old shape — a shape it no longer holds. Place the eastern cardinal stone on the table between you as a demonstration, not a threat.",
+        "Name the three-source convergence first — Sorveth's text, the Unsutured's eleven-year position, the Wellspring's own declaration — before you say a single word about the Shard.",
+        "Ask her a second question before answering: does she know what the Covenant text omits — specifically, what the fifth convergence point requires.",
+        "Let Orrath speak now — he has heard her confirm she has not tested the frequencies, and this is the moment he named on the mountain.",
+        "Say only: your ritual will close a circuit around a shape that is not there. Then wait, and let her ask the next question herself."
+      ],
+      "at": "2026-06-23T23:12:45.462Z"
+    },
+    {
+      "index": 86,
+      "chapter": 6,
+      "playerInput": "Let Orrath speak now — he has heard her confirm she has not tested the frequencies, and this is the moment he named on the mountain.",
+      "narration": "You do not answer Thessaly Vorn's question. You turn your eyes to Orrath.\n\nIt is the first time since she sat down that you have looked away from her, and the deliberateness of it is not lost on her. Her hands on the table press down a fraction. She follows your gaze to the Thornwood elder — and there it is, the thing Orrath predicted on the mountain: her jaw does not tighten, her voice does not change, but you see her file him again. The third delegation. The foothills wardens. Eleven years already answered.\n\nOrrath sets his empty cup on the table. He does not look at you for permission. He looks at Thessaly Vorn, directly, with the quality of attention that does not perform itself, and he speaks in trade-tongue, slowly, in the register of a person who has been waiting eleven years for thirty seconds of silence in which to say one true thing.\n\n'Archmagister.' Not her title as an honorific — her title as a location. He is placing her precisely before he speaks. 'You have not tested the frequencies. I will not argue about why. I will tell you what we have.' His hands open on the table — the burden-distributed motion, the same motion he used on the ravine floor. 'Three sources. They did not know each other existed.' He raises one finger. 'A text carried from the Far East by a vessel who did not know what he carried — a margin-note written by the person who framed your Covenant texts, naming a fifth convergence point. The text says the fifth point requires not an anchor but an answer. A living will.' A second finger. 'The Unsutured position, held for eleven years, arrived at independently — the word in our tongue is sorveth-anak. The one who speaks what is true at the closing. We have held this against your delegations for eleven years not from obstruction.' A pause, the shaman's precise pause. 'From the knowledge that a sorveth-anak consumed by the geometry is not testimony. It is a death. And a Wellspring sealed around a death at its closing is not sealed. It is wounded.' He lowers both fingers and is quiet for one breath. Then the third. 'And the Wellspring's own declaration. Through the column. At the Opened Ear.' He says this without force, without drama, the way he says everything that is simply a fact of geography. 'Three roads that did not know each other. They arrive at the same territory.' He holds her eyes — the rare full look, unflinching, carrying eleven years without letting them become accusation. 'This is not argument. This is not the Quietist position. This is not a delegation asking for passage.' A pause. 'A single source you dismiss. Two you argue translation. Three from three roads —' He opens his hands once more, the final motion. 'You are a precise person, Archmagister. You know what three independent sources arriving at the same word means. It means the word is there whether you look at it or not.'\n\nHe stops. He does not press. He does not look away. The common room is absolutely still — Ceth's daughter has not moved behind the bar in the last two minutes; the road-wardens have gone entirely quiet. Vorn's two Conclave wardens stand exactly where they stood. And Thessaly Vorn sits with her hands flat on the table, her travelling coat settled around her, her load-bearing certainty receiving something it was not built to receive — not a blow, not a challenge, but a third road arriving from a direction she did not have on her map.\n\nShe is looking at Orrath. She has not yet looked back at you. Something is happening behind her eyes that is not defeat and is not dismissal and has not yet become what it will be. The map is being redrawn. Slowly. Against eleven years of structural weight.",
+      "ask": "Vorn is on the threshold — the three-source convergence has landed, and her certainty is visibly under strain. She has not yet spoken. What do you do in this silence?",
+      "suggestedActions": [
+        "Place the eastern cardinal stone on the table between you — let the broken seal and its old frequency speak without words",
+        "Hold the silence; let her carry the weight of Orrath's testimony without rescue or elaboration",
+        "Speak now — tell her plainly what you learned when you held the stone: it anchors a shape the Wellspring has already left behind",
+        "Ask her directly: she has four cardinal stones and forty-four days — has the geometry produced any anomalous readings she has not been able to explain",
+        "Look at her wardens, then back at her — acknowledge what it cost her to come here herself rather than send them"
+      ],
+      "at": "2026-06-23T23:15:37.969Z"
+    },
+    {
+      "index": 87,
+      "chapter": 6,
+      "playerInput": "Place the eastern cardinal stone on the table between you — let the broken seal and its old frequency speak without words",
+      "narration": "You reach into your coat and draw the eastern cardinal stone out without announcement, without preamble, without looking at Vorn's face for a reaction. You set it on the table between you. The broken seal is visible where the ley-chalk geometry interrupts itself — a line that no longer closes, precise as a cut. The stone sits in the lamplight, grey-green and palm-sized and entirely ordinary-looking, except that it is not ordinary. Even through the wood of the table it registers — a low amber resonance, the hum of an anchor built for a shape that no longer fits what it is anchoring.\n\nThessaly Vorn's eyes go to it immediately. Her hands — flat on the table since she sat — do not move. But you read what happens beneath the composure the way you read weight distribution in an opponent: something has shifted at the load-bearing level. She is looking at her own component, its seal broken, sitting in a stranger's lamplight, and whatever argument she constructed on the road from the staging camp — whatever frame she built for this conversation — is being adjusted, silently, to account for the fact that the stone is simply there. Present. Waiting.\n\nShe does not reach for it. That is the first thing. A person whose certainty is purely architectural would reach — would reclaim, would restore the geometric fact of possession. She does not. She looks at it for three full seconds in a room that is holding its breath, and then she looks at you, and what is in her face is not anger and not fear separately but the thing Orrath named on the mountain: the two so long combined they move as one, and underneath them, just barely legible, the first opening of a person who is beginning to suspect that the question is different from the one she has been answering.\n\nHer voice, when it comes, has not changed register. Measured declarative. Doing more work than it shows. 'The seal is broken.' Not an accusation — an observation. A precise person naming the datum before the interpretation. Her eyes move from the stone to you, a complete transit, and when they arrive they are reading you the way she has read Covenant texts for eleven years: looking for the place where the geometry fails to close. 'When you held it —' A pause, controlled. The next words are chosen with the care of someone stepping onto uncertain ground who knows the ground is uncertain. '— what did you find.'",
+      "ask": "What do you do?",
+      "suggestedActions": [
+        "Answer her plainly: it anchors a shape the Wellspring has already left behind — a portrait of someone taken before they became what they now are",
+        "Say nothing — let the silence and the stone hold until she names what she already suspects",
+        "Invite her to hold it herself, now, in this room, without the seal — let her find the frequency directly",
+        "Tell her the stone is not wrong and not broken — it is simply from the wrong time, and her geometry is built from four of them",
+        "Ask her what she expected to find when she held it at acquisition — what the seal was meant to preserve"
+      ],
+      "at": "2026-06-23T23:21:08.949Z"
+    },
+    {
+      "index": 88,
+      "chapter": 6,
+      "playerInput": "Invite her to hold it herself, now, in this room, without the seal — let her find the frequency directly",
+      "narration": "You slide the eastern cardinal stone across the table toward Thessaly Vorn. Not a demand. An invitation — open palm retreating, the stone sitting in the lamplight between you, its broken seal facing upward so she can read the interruption clearly. You say it in the measured trade-tongue of a teacher explaining a technique: hold it. Not through the seal. Directly. Find the frequency yourself.\n\nVorn looks at the stone for two full seconds. Then she picks it up.\n\nYou read what happens the moment her fingers close around it — the small involuntary stillness, the way a precise person receives unexpected information and does not immediately process it into language. The stone is doing what it did in your lap beneath the table: humming at the frequency of a shape that no longer fits what it is anchoring. An old portrait. A fossil answer. She holds it with both hands and her eyes go slightly inward — not closed, not absent, simply turned toward what her palms are reading instead of what the room requires of her face.\n\nBut here is what the partial tells you: she is receiving something, and it is landing wrong, and she does not yet have the frame to name what wrong means. You can see the load-bearing certainty taking the pressure — the geometry, the Covenant text, eleven years of method — and you can see that it is holding. Just. The frequency is there for her to feel, the old shape, the fossil anchor, and she is feeling it. But without the three-source convergence fully landed, without the Shard's counter-frequency to compare it against, she cannot yet read what the wrongness points toward. She has the sensation without the architecture to receive it. Her face when she looks up is composed and careful and doing more work than composure should have to do at this hour, and what she says is: 'It is the correct frequency. Singular, holdable, fixed.' A pause — shorter than her pauses usually are. 'But you are going to tell me it is fixed to the wrong shape.' Not a concession. A frame, offered precisely, testing whether you have the next piece or only the disruption.",
+      "ask": "Vorn is holding the stone, feeling the frequency, and has just offered you the frame herself — fixed to the wrong shape. She is one step away from the question that opens everything. What do you do?",
+      "suggestedActions": [
+        "Confirm her frame with a single word — 'Yes' — and then ask her to hold her palm over the Shard's location on your sternum without touching it, let the two frequencies compare themselves",
+        "Speak now: the stone anchors what the Wellspring was a thousand years ago; the Wellspring is no longer that shape; her geometry closes around an absence",
+        "Let Orrath carry it — he has held eleven years for this moment; ask him to name the Thornwood word for a circuit that closes around what is no longer there",
+        "Say nothing — hold her gaze and wait for her to follow the sensation to its own conclusion without you leading her there",
+        "Lay Serevaine's bisected-eye note on the table beside the stone — show her there is a third party who also knows the geometry is incomplete"
+      ],
+      "diceResult": {
+        "stat": "Wits",
+        "dc": 12,
+        "d20": 5,
+        "statMod": 1,
+        "mentalMod": 2,
+        "situationalModifier": 0,
+        "total": 8,
+        "outcome": "partial success",
+        "reason": "Persuasion against resistance—Ming is proposing she abandon her certainty and test her foundational belief in an uncertain way, risking her authority. Thessaly's acceptance is not guaranteed."
+      },
+      "at": "2026-06-23T23:24:32.871Z"
+    }
+  ],
+  "imagePrompt": "High fantasy illustration, candlelit inn common room deep in the mountain night. At a worn stone table sits a lean Far-Eastern man, weathered, dark-eyed, in a foreign-cut travelling coat, hands open and still — no spear in reach, only a presence of someone who has already said the necessary thing and is waiting for the world to catch up. Across the table Thessaly Vorn, a woman of fifty-five with grey-threaded hair and a road-worn Conclave travelling coat, holds a small grey-green cardinal stone in both hands, eyes turned slightly inward, receiving something her composure is not prepared for. Between them on the scarred wood the broken ley-chalk seal is faintly visible. Beside them Orrath, an aged Thornwood elder, sits in absolute stillness, empty cup before him, eyes on the middle distance. Behind Vorn two Conclave wardens stand at careful angles. Through the single window the pale Covenant waymarker at the crossing hums in the dark. The light is low amber hearth-glow, dramatic shadows, the weight of a room holding its breath — the instant a woman's certainty acquires its first edge. Characters depicted — Ming (Lean Far-Eastern man, weathered, dark eyes, foreign-cut travelling coat, spear-callus on the right palm but no weapon; moves with the economy of a martial discipline.); Thessaly Vorn (A robed Conclave Archmagister, chalk-dust trailing her hems, a small leather-bound instrument always to hand.); Orrath (Old as mapped terrain, face weathered deep, Thornwood clan-braid, heavy woven cloak, tends fire with a short stick). Illustration for a High Fantasy story (Epic, urgent, morally complex — heroism is possible but costly). Cinematic, atmospheric, consistent character appearance.",
+  "imagePath": "stories/31e392c7-c64b-4e3e-8dd7-8262f4df91a1/stories/chapters/6.png",
+  "referenceCharacterIds": [
+    "player",
+    "npc-thessaly-vorn",
+    "npc_ad193dd7"
+  ],
+  "durableFacts": [
+    {
+      "kind": "fact",
+      "text": "Ming received the full Shard transmission at the High Approach. The Wellspring's nature is now known to him: grief at the sealing, a thousand years of private dreaming, and gladness at the return of an exile. It is utharvel. He knows what it is but not yet what it wills.",
+      "chapter": 4
+    },
+    {
+      "kind": "location",
+      "text": "The Opened Ear: a natural granite shelf on the Auric Mountain mid-climb, reached after the first granite shoulder. From here the ravine and a slow-turning column of voreth-light descending from an unlocatable high point are fully visible. The Shard recognises this as a terminus — seventeen years of orientation resolved. The path continues down into the ravine toward the column's base.",
+      "chapter": 4
+    },
+    {
+      "kind": "location",
+      "text": "Ming has reached the ravine floor at the base of the voreth-light column — the Wellspring's physical presence point beneath the Auric Mountains. The column turns slowly. Its densest point is at sternum height. The Shard is at its warmest and most oriented. The Wellspring is waiting.",
+      "chapter": 4
+    },
+    {
+      "kind": "fact",
+      "text": "Ming entered the voreth-light column. The Wellspring made direct contact — not transmission but presence. It asked its first question: not whether Ming will offer, but whether he understands what he is witnessing before he chooses. This is the Wellspring's will making itself known for the first time in a thousand years.",
+      "chapter": 4
+    },
+    {
+      "kind": "fact",
+      "text": "Ming performed the Crane-in-Storm form inside the voreth-light column. Partial knowing received: witnessing is not neutrality — contact changes the ground that the form moves through. The Wellspring's question is understood but not yet fully answered. The final layer — what it wills for its dreaming once witnessed — has not arrived.",
+      "chapter": 4
+    },
+    {
+      "kind": "fact",
+      "text": "Ming received the Wellspring's full will inside the voreth-light column. It wills to be sealed as what it now is — utharvel, the third thing. The fifth-point requires testimony from a living will, not a key or an offering: the vessel must declare the Wellspring's true present shape to the re-binding geometry. The voreth-light stilled. The Shard is at rest. The Wellspring has been fully witnessed.",
+      "chapter": 4
+    },
+    {
+      "kind": "fact",
+      "text": "Ming has exited the voreth-light column and spoken the Wellspring's will plainly to Orrath and Davan: testimony not offering, utharvel sealed as it now is, vessel survival unresolved. He has asked Orrath whether the Unsutured's eleven-year position anticipated the testimony-not-offering distinction.",
+      "chapter": 4
+    },
+    {
+      "kind": "fact",
+      "text": "Davan confirmed the Unsutured eleven-year position anticipated testimony-not-offering. The Thornwood word is sorveth-anak — the one who speaks-what-is-true-at-the-closing. Whether this role persists inside the closed circuit or is consumed by it remains unanswered; the eleven years held the distinction, not the solution. The name Sorveth is Thornwood for 'the one who built the frame around the door' — Liang Sorveth knew the distinction and sent Ming with the frame, not the answer.",
+      "chapter": 4
+    },
+    {
+      "kind": "fact",
+      "text": "Liang Sorveth's third text and carved name-token are buried in a Fault-vein crack at the base of the voreth-light column in the Auric Mountain ravine. Ming placed them deliberately — the frame returned to the ground. They are no longer in his possession.",
+      "chapter": 5
+    },
+    {
+      "kind": "fact",
+      "text": "Ming has articulated the sorveth-anak function: a living harmony — the Wellspring's true present frequency spoken into the Conclave's re-binding geometry at the moment of closing. The circuit must close around what is actually there. Thessaly Vorn does not know this distinction exists. 44 days remain.",
+      "chapter": 5
+    },
+    {
+      "kind": "fact",
+      "text": "Orrath confirmed the Unsutured held sorveth-anak distinct from the one who dies because collapsing the two words would mean the Wellspring receives a death at its closing, not testimony. The distinction is the reason the eleven years existed.",
+      "chapter": 5
+    },
+    {
+      "kind": "fact",
+      "text": "Davan stated that in Thornwood, the name Sorveth means a person who knows the door must be found and cannot lead you through it — a form of love, not condemnation. The frame held.",
+      "chapter": 5
+    },
+    {
+      "kind": "fact",
+      "text": "Orrath has named the rhetorical frame for presenting the sorveth-anak distinction to Thessaly Vorn: three-source convergence from roads that did not know each other — Sorveth's text, Unsutured position, Wellspring's own declaration. Geography, not argument.",
+      "chapter": 5
+    },
+    {
+      "kind": "fact",
+      "text": "Davan has identified Thornwood bands sheltering in the Auric Mountain foothills as a potential resource. They will want to know the Opened Ear received a witness and the Wellspring is arriving, not dying. Their response is unknown.",
+      "chapter": 5
+    },
+    {
+      "kind": "fact",
+      "text": "The Unsutured oral record, older than the Covenant, described the Prior Shard vessel before Ming arrived: exiled, unknowing, would arrive at the column speaking the language of their first home. Orrath withheld this on the road because the record forbids leading the vessel. Orrath and Sorveth held the same instruction from different sides of the same text without knowing the other existed.",
+      "chapter": 5
+    },
+    {
+      "kind": "fact",
+      "text": "Davan has separated from Ming and Orrath on the mid-ascent path to move independently to the Thornwood foothills bands. She carries the sorveth-tavan frame and the news of the column's stilling. She will reach the first band in approximately two days. Ming and Orrath continue to the staging camp alone.",
+      "chapter": 5
+    },
+    {
+      "kind": "fact",
+      "text": "Orrath has described the consequence of an incorrect re-binding: circuit closes around absent shape, geometry collapses inward, Fault-scars open rather than bleed — Sundering accelerates from 44 days to approximately 4. The Unsutured have no delegation access to Thessaly Vorn; three prior delegations were refused, the third losing members.",
+      "chapter": 5
+    },
+    {
+      "kind": "fact",
+      "text": "Ming took the eastern cardinal shrine-component from the Conclave staging camp by force. Two wardens were incapacitated — wrist wound, concussion. The component seal is broken. Vorn has been sent a message to meet at Helvrath's Cross. The door to Vorn is now forced rather than negotiated.",
+      "chapter": 6
+    },
+    {
+      "kind": "fact",
+      "text": "The remaining three shrine-components in the staging camp pulsed once when the eastern component was removed. The four-component geometry is broken. Conclave alarm is active.",
+      "chapter": 6
+    },
+    {
+      "kind": "fact",
+      "text": "Ming read the eastern cardinal stone's frequency directly. It anchors the Wellspring's old shape — the pre-Covenant form the First Archmages chose. The anchor and the Shard are not opposed; they are from different times. Vorn's four-component geometry is built around a shape the Wellspring has already left behind.",
+      "chapter": 6
+    },
+    {
+      "kind": "fact",
+      "text": "Thessaly Vorn has held the eastern cardinal stone directly and felt its frequency without the seal mediating it. She offered the frame herself — 'fixed to the wrong shape' — but does not yet have the architecture to complete the thought. The partial success means the sensation landed but the interpretation has not. She is one correct answer away from the crack becoming an opening.",
+      "chapter": 6
+    }
+  ],
+  "startTurn": 76,
+  "endTurn": 88
+}

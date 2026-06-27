@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Unwritten — your story, until you tell it</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+  </head>
+  <body>
+    <!-- ============ ONBOARDING ============ -->
+    <div id="onboarding" class="screen">
+      <header class="brand">
+        <h1>Un<span>written</span></h1>
+        <p class="tagline">Your story, until you tell it — an AI-driven world where you write your own.</p>
+      </header>
+
+      <!-- Resume existing -->
+      <section id="resume-section" class="card hidden">
+        <h2>Continue a story</h2>
+        <div id="story-list" class="story-list"></div>
+      </section>
+
+      <!-- Step 1: world -->
+      <section id="step-world" class="card">
+        <h2><span class="step-num">1</span> Choose a world</h2>
+        <p class="hint">Pick a preset, reuse a world you've made, or describe your own in one line.</p>
+        <div id="presets" class="chips"></div>
+        <div id="existing-worlds" class="existing-worlds"></div>
+        <div class="row">
+          <input id="world-input" type="text" placeholder="…or write your own: 'a drowned city ruled by merchant-priests'" />
+          <button id="create-world-btn" class="primary">Create world</button>
+        </div>
+        <div id="world-status" class="status"></div>
+      </section>
+
+      <!-- Step 2: role -->
+      <section id="step-role" class="card hidden">
+        <h2><span class="step-num">2</span> Who are you?</h2>
+        <div id="world-summary" class="world-summary"></div>
+        <div id="role-suggestions" class="chips"></div>
+        <div class="row">
+          <input id="name-input" type="text" placeholder="Name (optional)" class="name-field" />
+          <input id="role-input" type="text" placeholder="…or any role: 'a disgraced tax collector turned pilgrim'" />
+          <button id="start-story-btn" class="primary">Begin</button>
+        </div>
+        <button id="back-to-world" class="link-btn">← back to world</button>
+        <div id="role-status" class="status"></div>
+      </section>
+    </div>
+
+    <!-- ============ GAME ============ -->
+    <div id="game" class="game hidden">
+      <!-- Left rail -->
+      <aside class="rail left">
+        <div class="panel" id="char-panel">
+          <h3>Character</h3>
+          <div id="char-sheet"></div>
+        </div>
+        <div class="panel" id="mental-panel">
+          <h3>Mental status</h3>
+          <div id="mental-status"></div>
+        </div>
+      </aside>
+
+      <!-- Center -->
+      <main class="center">
+        <div class="story-header">
+          <div>
+            <div id="story-title" class="story-title"></div>
+            <div id="scene-line" class="scene-line"></div>
+            <div id="present-line" class="scene-line"></div>
+          </div>
+          <div id="chapter-badge" class="chapter-badge"></div>
+        </div>
+        <div id="feed" class="feed"></div>
+        <div class="composer">
+          <div id="encounter-strip" class="encounter-strip hidden"></div>
+          <div id="activity-strip" class="activity-strip hidden"></div>
+          <div id="suggestions" class="suggestions"></div>
+          <div class="composer-row">
+            <textarea id="player-input" rows="1" placeholder="What do you do?"></textarea>
+            <button id="send-btn" class="primary">Act</button>
+          </div>
+        </div>
+      </main>
+
+      <!-- Right rail -->
+      <aside class="rail right">
+        <div class="panel collapsible">
+          <h3 class="toggle" data-target="world-body">World <span class="caret">▾</span></h3>
+          <div id="world-body" class="world-panel hidden"></div>
+        </div>
+        <div class="panel">
+          <h3>Threads</h3>
+          <div id="goals"></div>
+        </div>
+        <div class="panel">
+          <h3>Inventory</h3>
+          <div id="inventory"></div>
+        </div>
+        <div class="panel">
+          <h3>People</h3>
+          <div id="relationships"></div>
+        </div>
+        <div class="panel collapsible">
+          <h3 class="toggle" data-target="gallery-body">Chapter gallery <span class="caret">▾</span></h3>
+          <div id="gallery-body" class="gallery"></div>
+        </div>
+        <div class="panel actions">
+          <button id="export-btn" class="ghost">⬇ Export as ebook (PDF)</button>
+          <button id="exit-btn" class="link-btn">Leave story</button>
+          <div id="export-status" class="status"></div>
+        </div>
+      </aside>
+    </div>
+
+    <!-- Lightbox (v0.2 §5) -->
+    <div id="lightbox" class="lightbox hidden" role="dialog" aria-modal="true" aria-label="Image viewer">
+      <button class="lb-close" id="lb-close" aria-label="Close">✕</button>
+      <button class="lb-nav lb-prev" id="lb-prev" aria-label="Previous">‹</button>
+      <img id="lb-img" class="lb-img" alt="" />
+      <button class="lb-nav lb-next" id="lb-next" aria-label="Next">›</button>
+      <div id="lb-caption" class="lb-caption"></div>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>

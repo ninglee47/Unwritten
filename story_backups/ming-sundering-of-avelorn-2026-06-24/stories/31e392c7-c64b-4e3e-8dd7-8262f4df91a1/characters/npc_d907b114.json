@@ -1,0 +1,33 @@
+{
+  "id": "npc_d907b114",
+  "name": "Edric Vaun",
+  "role": "Reassigned Conclave scholar",
+  "stats": {
+    "Strength": 7,
+    "Agility": 8,
+    "Wits": 14,
+    "Arcane": 13,
+    "Resolve": 8
+  },
+  "mentalStatus": {
+    "state": "defeated and quietly frightened",
+    "dimensions": {
+      "Stress": 72,
+      "Morale": 28,
+      "Trust": 20,
+      "Composure": 35
+    },
+    "notes": ""
+  },
+  "relationshipToPlayer": 5,
+  "visualDescriptor": "Narrow-faced, ink-stained cuffs, drinks alone, watches the Fault-warmth in the floor with the eyes of a man who has done wrong arithmetic",
+  "persona": "Junior Conclave scholar reassigned for questioning the Covenant-text's completeness. Silenced but not convinced. Speaks obliquely when frightened. Knows the timeline has compressed and cannot say so openly.",
+  "canon": [
+    "Raised questions about the Covenant-text's completeness six days ago and was reassigned to component-transport duty",
+    "Told Ming obliquely that the fourth component reached the staging camp two days ago and that thirty-one days was already tight",
+    "Drinks alone at the Lamplighter's Arch tavern after his reassignment",
+    "Has not yet directly addressed Ming or acknowledged him by name"
+  ],
+  "isPlayer": false,
+  "portraitPath": "stories/31e392c7-c64b-4e3e-8dd7-8262f4df91a1/characters/npc_d907b114.png"
+}

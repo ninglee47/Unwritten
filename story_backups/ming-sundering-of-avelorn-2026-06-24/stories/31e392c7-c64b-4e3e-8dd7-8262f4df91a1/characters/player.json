@@ -1,0 +1,40 @@
+{
+  "id": "player",
+  "name": "Ming",
+  "role": "Exiled Far-Eastern Spear Master",
+  "stats": {
+    "Strength": 14,
+    "Agility": 16,
+    "Wits": 12,
+    "Arcane": 6,
+    "Resolve": 12
+  },
+  "mentalStatus": {
+    "state": "confident",
+    "dimensions": {
+      "Stress": 72,
+      "Morale": 98,
+      "Trust": 48,
+      "Composure": 94
+    },
+    "notes": "Reeling but disciplined after learning he carries a Shard of Prior Covenant; uses composure in place of the softness he has no one left to give."
+  },
+  "visualDescriptor": "Lean Far-Eastern man, weathered, dark eyes, foreign-cut travelling coat, spear-callus on the right palm but no weapon; moves with the economy of a martial discipline.",
+  "persona": "Exiled Zhennian spear master. Disciplined, economical, reads people like terrain. Speaks in the register of a teacher explaining a technique to a student who has not yet earned the full explanation.",
+  "canon": [
+    "Speaks Zhennian natively, trade-tongue carefully, and reads Avelornian only poorly.",
+    "Trained in the Crane-in-Storm spear form; anchors his breath at the sternum.",
+    "Exiled from Zhennian for breaking the unbreakable Seventh Form and beating the master he was not supposed to beat.",
+    "Carries a Shard of Prior Covenant lodged behind his sternum, given to him 17 years ago by his teacher.",
+    "Arrived in Veranthos through the Auroch Gate as the sky folded, carrying no weapon and nothing of value.",
+    "Carries his teacher's hidden third text and a carved wooden name-token recovered from Passa.",
+    "Discovered Liang Sorveth's margin-note: the fifth convergence point requires not an anchor but an answer — a living will completing the geometric circuit. An unanswered circuit is called an unasking.",
+    "Crossed the Greyveil Fault-threshold by answering the bridge's question from the body, without language — answered 'a third thing, still becoming, not yet named'",
+    "The bridge's question confirmed the utharvel reading: Ming is no longer the man who arrived unknowing, nor the Shard alone, but a third thing",
+    "Buried Liang Sorveth's third text and carved name-token in the Fault-vein at the base of the voreth-column — released the frame in clarity, not grief",
+    "Has articulated the sorveth-anak role as harmony not key: speak the Wellspring's true frequency into the re-binding geometry at the moment the Sealers close it",
+    "No longer carries the third text or the name-token"
+  ],
+  "isPlayer": true,
+  "portraitPath": "stories/31e392c7-c64b-4e3e-8dd7-8262f4df91a1/characters/player.png"
+}

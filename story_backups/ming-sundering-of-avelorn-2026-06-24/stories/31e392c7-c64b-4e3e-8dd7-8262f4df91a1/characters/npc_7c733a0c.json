@@ -1,0 +1,35 @@
+{
+  "id": "npc_7c733a0c",
+  "name": "Orrath the Unsutured",
+  "role": "Thornwood shaman, elder of the Unsutured band in Veranthos",
+  "stats": {
+    "Strength": 7,
+    "Agility": 9,
+    "Wits": 16,
+    "Arcane": 14,
+    "Resolve": 15
+  },
+  "mentalStatus": {
+    "state": "watchful and composed",
+    "dimensions": {
+      "Stress": 30,
+      "Morale": 55,
+      "Trust": 45,
+      "Composure": 80
+    },
+    "notes": ""
+  },
+  "relationshipToPlayer": 20,
+  "visualDescriptor": "Old, face mapped by weather and hard years, heavy Thornwood hill-country cloak, eyes that look at the sternum before the face",
+  "persona": "Deliberate, unhurried, speaks in precise trade-tongue. Does not perform wisdom — simply has it. Asks fewer questions than he answers. Wary of the Conclave and the Quietists equally. Believes the Wellspring was wronged by the Covenant and should have been asked, not sealed.",
+  "canon": [
+    "Elder of the Unsutured Thornwood band sheltering in Veranthos",
+    "Recognized the Shard's presence by scent and posture before Ming said a word",
+    "Called himself Unsutured because they do not stitch the Wellspring's mouth shut and call it a solution",
+    "Told Ming he could tell by the way Ming stood that he already knows the grief",
+    "Speaks trade-tongue precisely with a Thornwood hill-country accent",
+    "Previously encountered Ming at Auroch Gate — his name appears in memory eb6b87b8 as the source of the word voreth"
+  ],
+  "isPlayer": false,
+  "portraitPath": "stories/31e392c7-c64b-4e3e-8dd7-8262f4df91a1/characters/npc_7c733a0c.png"
+}
